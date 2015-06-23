@@ -3239,7 +3239,12 @@
 				"cengage_vidName": "auf_bcm_ch10_10_1",
 				"text": "10.1: Introduction to Integers (11:31)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=10&s=1"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S01.pdf",
 				"img": "Powerpoint.png",
@@ -3302,7 +3307,12 @@
 				"cengage_vidName": "auf_bcm_ch10_10_2",
 				"text": "10.2: Addition and Subtraction of Integers (31:53)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=10&s=2"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S02.pdf",
 				"img": "Powerpoint.png",
@@ -3355,7 +3365,12 @@
 				"cengage_vidName": "auf_bcm_ch10_10_3",
 				"text": "10.3: Multiplication and Division of Integers (18:40)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=10&s=3"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S03.pdf",
 				"img": "Powerpoint.png",
@@ -3408,7 +3423,12 @@
 				"cengage_vidName": "auf_bcm_ch10_10_4",
 				"text": "10.4: Operation with Rational Numbers (33:03)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=10&s=4"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S03.pdf",
 				"img": "Powerpoint.png",
@@ -3461,7 +3481,12 @@
 				"cengage_vidName": "auf_bcm_ch10_10_5",
 				"text": "10.5: Scientific Notation and the Order of Operations Agreement (33:05)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=10&s=5"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S01.pdf",
 				"img": "Powerpoint.png",
@@ -3532,7 +3557,12 @@
 				"cengage_vidName": "auf_bcm_ch11_11_1",
 				"text": "11.1: Variable Expressions (27:14)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=11&s=1"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S01.pdf",
 				"img": "Powerpoint.png",
@@ -3595,7 +3625,12 @@
 				"cengage_vidName": "auf_bcm_ch11_11_2",
 				"text": "11.2: Introduction to Equations (24:59)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=11&s=2"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S02.pdf",
 				"img": "Powerpoint.png",
@@ -3648,7 +3683,12 @@
 				"cengage_vidName": "auf_bcm_ch11_11_3",
 				"text": "11.3: General Equations: Part I (14:27)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=11&s=3"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S03.pdf",
 				"img": "Powerpoint.png",
@@ -3701,7 +3741,12 @@
 				"cengage_vidName": "auf_bcm_ch11_11_4",
 				"text": "11.4: General Equations: Part II (11:57)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=11&s=4"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S03.pdf",
 				"img": "Powerpoint.png",
@@ -3754,7 +3799,12 @@
 				"cengage_vidName": "auf_bcm_ch11_11_5",
 				"text": "11.5: Translating Verbal Expressions into Mathematical Expressions (11:03)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=11&s=5"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S01.pdf",
 				"img": "Powerpoint.png",
@@ -3817,7 +3867,12 @@
 				"cengage_vidName": "auf_bcm_ch11_11_6",
 				"text": "11.6: Translating Sentences into Equations and Solving (9:08)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=11&s=6"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S01.pdf",
 				"img": "Powerpoint.png",
