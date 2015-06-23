@@ -5,9 +5,9 @@
 		"longName": "Chapter 1: Whole Numbers",
 		"chapter": [{
 			"name": "Section 1.1",
-			"longName": "Section 1.1: Introduction to Integers",
+			"longName": "Section 1.1: Introduction to Whole Numbers",
 			"introduction": [{
-				"text": "<p>Section 1.1: Introduction to Integers</p> <ul> <li>Pages 1 to 17</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 189</li> <li>WebAssign Assignment MA006 M1 01</li> </ul> <p>Section 1.1 Solutions</p> <ul> <li>Pages 6 to 9 of 417</li> </ul>"
+				"text": "<p>Section 1.1: Introduction to Whole Numbers</p> <ul> <li>Pages 1 to 17</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 189</li> <li>WebAssign Assignment MA006 M1 01</li> </ul> <p>Section 1.1 Solutions</p> <ul> <li>Pages 6 to 9 of 417</li> </ul>"
 			},
 			{
 				"kaltura_entryId": "1_k3fqapmz",
@@ -31,7 +31,12 @@
 				"cengage_vidName": "auf_bcm_ch1_1_1",
 				"text": "1.1: Introduction to Whole Numbers (25:44)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=1&s=1"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M1/PPM01C01S01.pdf",
 				"img": "Powerpoint.png",
@@ -85,7 +90,7 @@
 			"name": "Section 1.2",
 			"longName": "Section 1.2: Addition of Whole Numbers",
 			"introduction": [{
-				"text": "<p>Section 1.2: Rational Numbers</p> <ul> <li>Pages 18 to 33</li> <li>Objectives A to G</li> <li>Look at the odd questions 1 to 189</li> <li>Complete WebAssign Assignment MA006 M1 02 but attempt after completing Section 1.3 material</li> </ul> <p>Section 1.2 Solutions</p> <ul> <li>Pages 9 to 12 of 417</li> </ul>"
+				"text": "<p>Section 1.2: Addition of Whole Numbers</p> <ul> <li>Pages 18 to 33</li> <li>Objectives A to G</li> <li>Look at the odd questions 1 to 189</li> <li>Complete WebAssign Assignment MA006 M1 02 but attempt after completing Section 1.3 material</li> </ul> <p>Section 1.2 Solutions</p> <ul> <li>Pages 9 to 12 of 417</li> </ul>"
 			},
 			{
 				"kaltura_entryId": "1_pcs4d9v7",
@@ -109,7 +114,12 @@
 				"cengage_vidName": "auf_bcm_ch1_1_2",
 				"text": "1.2:  Addition of Whole Numbers (18:49)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=1&s=2"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M1/PPM01C01S02.pdf",
 				"img": "Powerpoint.png",
@@ -153,7 +163,7 @@
 			"name": "Section 1.3",
 			"longName": "Section 1.3: Subtraction of Whole Numbers",
 			"introduction": [{
-				"text": "<p>Section 1.3: Order of Operations</p> <ul> <li>Pages 34 to 37</li> <li>Objective A</li> <li>Look at the odd questions 1 to 35</li> <li>WebAssign Assignment<br />MA006 M1 02</li> </ul> <p>Section 1.3 Solutions</p> <ul> <li>Pages 12 to 13 of 417</li> </ul>"
+				"text": "<p>Section 1.3: Subtraction of Whole Numbers</p> <ul> <li>Pages 34 to 37</li> <li>Objective A</li> <li>Look at the odd questions 1 to 35</li> <li>WebAssign Assignment<br />MA006 M1 02</li> </ul> <p>Section 1.3 Solutions</p> <ul> <li>Pages 12 to 13 of 417</li> </ul>"
 			},{
 				"kaltura_entryId": "1_9le2864f",
 				"img": "Book_Video.png",
@@ -177,7 +187,12 @@
 				"cengage_vidName": "auf_bcm_ch1_1_3",
 				"text": "1.3: Subtraction of Whole Numbers (16:30)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=1&s=3"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M1/PPM01C01S03.pdf",
 				"img": "Powerpoint.png",
@@ -201,7 +216,7 @@
 			"name": "Section 1.4",
 			"longName": "Section 1.4: Multiplication of Whole Numbers",
 			"introduction": [{
-				"text": "<p>Section 1.4: Variable Expressions</p> <ul> <li>Pages 38 to 55</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 209</li> <li>WebAssign Assignment MA006 M1 03</li> </ul> <p>Section 1.4 Solutions</p> <ul> <li>Pages 13 to 16 of 417</li> </ul>"
+				"text": "<p>Section 1.4: Multiplication of Whole Numbers</p> <ul> <li>Pages 38 to 55</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 209</li> <li>WebAssign Assignment MA006 M1 03</li> </ul> <p>Section 1.4 Solutions</p> <ul> <li>Pages 13 to 16 of 417</li> </ul>"
 			},{
 				"kaltura_entryId": "1_tc5tf1cg",
 				"img": "Book_Video.png",
@@ -225,7 +240,13 @@
 				"cengage_vidName": "auf_bcm_ch1_1_4",
 				"text": "1.4: Multiplication of Whole Numbers (14:43)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=1&s=4"
+			}
+			
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M1/PPM01C01S04.pdf",
 				"img": "Powerpoint.png",
@@ -293,7 +314,13 @@
 				"cengage_vidName": "auf_bcm_ch1_1_5",
 				"text": "1.5:  Division of Whole Numbers (35:41)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=1&s=5"
+			}
+			
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M1/PPM01C01S04.pdf",
 				"img": "Powerpoint.png",
@@ -361,7 +388,12 @@
 				"cengage_vidName": "auf_bcm_ch1_1_6",
 				"text": "1.6: Exponential Notation and the Order of Operations Agreement (19:18)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=1&s=6"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M1/PPM01C01S04.pdf",
 				"img": "Powerpoint.png",
@@ -429,7 +461,11 @@
 				"cengage_vidName": "auf_bcm_ch1_1_7",
 				"text": "1.7: Prime Numbers and Factoring (19:56)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=1&s=7"
+			}
+			],
 			"presentation": [{
 				"href": "PowerPoint/M1/PPM01C01S04.pdf",
 				"img": "Powerpoint.png",
@@ -482,7 +518,7 @@
 			"name": "Section 2.1",
 			"longName": "Section 2.1: The Least Common Multiple and Greatest Common Factor",
 			"introduction": [{
-				"text": "<p>Section 2.1:  Introduction to Equations</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 22 to 26 of 417</li> </ul>"
+				"text": "<p>Section 2.1:  The Least Common Multiple and Greatest Common Factor</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 22 to 26 of 417</li> </ul>"
 			},{
 				"kaltura_entryId": "1_62g0jj62",
 				"img": "Book_Video.png",
@@ -506,7 +542,12 @@
 				"cengage_vidName": "auf_bcm_ch2_2_1",
 				"text": "2.1: The Least Common Multiple and Greatest Common Factor (9:58)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=2&s=1"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S01.pdf",
 				"img": "Powerpoint.png",
@@ -545,7 +586,7 @@
 			"name": "Section 2.2",
 			"longName": "Section 2.2: Introduction to Fractions",
 			"introduction": [{
-				"text": "<p>Section 2.2:  General Equations</p> <ul> <li>Pages 95 to 101 and 103 to 106</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 139</li>  <li>WebAssign Assignment MA006 M2 02</li> </ul> <p>Section 2.2 Solutions</p> <ul> <li>Pages 29 to 37 of 417 </li> </ul>"
+				"text": "<p>Section 2.2: Introduction to Fractions</p> <ul> <li>Pages 95 to 101 and 103 to 106</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 139</li>  <li>WebAssign Assignment MA006 M2 02</li> </ul> <p>Section 2.2 Solutions</p> <ul> <li>Pages 29 to 37 of 417 </li> </ul>"
 			},{
 				"kaltura_entryId": "1_12r72omn",
 				"img": "Book_Video.png",
@@ -570,7 +611,12 @@
 				"cengage_vidName": "auf_bcm_ch2_2_2",
 				"text": "2.2: Introduction to Fractions (15:06)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=2&s=2"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S02.pdf",
 				"img": "Powerpoint.png",
@@ -599,7 +645,7 @@
 			"name": "Section 2.3",
 			"longName": "Section 2.3: Writing Equivalent Fractions",
 			"introduction": [{
-				"text": "<p>Section 2.3: Sentences into Equations</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
+				"text": "<p>Section 2.3: Writing Equivalent Fractions</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
 			},{
 				"kaltura_entryId": "0_2wa8vqd4",
 				"img": "Book_Video.png",
@@ -623,7 +669,13 @@
 				"cengage_vidName": "auf_bcm_ch2_2_3",
 				"text": "2.3: Writing Equivalent Fractions (17:54)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=2&s=3"
+			}
+			
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S03.pdf",
 				"img": "Powerpoint.png",
@@ -676,7 +728,13 @@
 				"cengage_vidName": "auf_bcm_ch2_2_4",
 				"text": "2.4: Addition of Fractions and Mixed Numbers (22:22)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=2&s=4"
+			}
+			
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S03.pdf",
 				"img": "Powerpoint.png",
@@ -729,7 +787,13 @@
 				"cengage_vidName": "auf_bcm_ch2_2_5",
 				"text": "2.5: Subtraction of Fractions and Mixed Numbers (11:37)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=2&s=5"
+			}
+			
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S01.pdf",
 				"img": "Powerpoint.png",
@@ -793,7 +857,13 @@
 				"cengage_vidName": "auf_bcm_ch2_2_6",
 				"text": "2.6: Multiplication of Fractions and Mixed Numbers (18:14)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=2&s=6"
+			}
+			
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S02.pdf",
 				"img": "Powerpoint.png",
@@ -846,7 +916,13 @@
 				"cengage_vidName": "auf_bcm_ch2_2_7",
 				"text": "2.7: Division of Fractions and Mixed Numbers (18:16)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=2&s=7"
+			}
+			
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S03.pdf",
 				"img": "Powerpoint.png",
@@ -899,7 +975,12 @@
 				"cengage_vidName": "auf_bcm_ch2_2_8",
 				"text": "2.8: Order, Exponents, and the Order of Operations Agreement",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=2&s=8"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M2/PPM02C02S03.pdf",
 				"img": "Powerpoint.png",
@@ -959,7 +1040,12 @@
 				"text": "3.1: Introduction to Decimals (13:58)",
 				"secure": true
 				
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=3&s=1"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M3/PPM03C06S01.pdf",
 				"img": "Powerpoint.png",
@@ -1012,7 +1098,12 @@
 				"cengage_vidName": "auf_bcm_ch3_3_2",
 				"text": "3.2: Addition of Decimals (9:15)",
 				"secure": true
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=3&s=2"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M3/PPM03C06S02.pdf",
 				"img": "Powerpoint.png",
@@ -1071,7 +1162,13 @@
 				"text": "3.3: Subtraction of Decimals (10:09)",
 				"secure": true
 				
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=3&s=3"
+			}
+			
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M3/PPM03C06S03.pdf",
 				"img": "Powerpoint.png",
@@ -1125,7 +1222,12 @@
 				"text": "3.4: Multiplication of Decimals (14:03)",
 				"secure": true
 				
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=3&s=4"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M3/PPM03C06S04.pdf",
 				"img": "Powerpoint.png",
@@ -1179,7 +1281,13 @@
 				"text": "3.5: Division of Decimals (18:16)",
 				"secure": true
 				
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=3&s=5"
+			}
+			
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M3/PPM03C06S04.pdf",
 				"img": "Powerpoint.png",
@@ -1233,7 +1341,12 @@
 				"text": "3.6: Comparing and Converting Fractions and Decimals (14:31)",
 				"secure": true
 				
-			}],
+			},
+			{
+				"faq": "faq.html?t=BCM&c=3&s=6"
+			}
+			
+			],
 			"presentation": [{
 				"href": "PowerPoint/M3/PPM03C06S04.pdf",
 				"img": "Powerpoint.png",
@@ -1290,7 +1403,7 @@
 			}],
 			"video": [{
 				"cengage_vidName": "auf_bcm_ch3_3_1",
-				"text": "4.1: Introduction to Decimals (13:58)",
+				"text": "4.1: Ratio (13:58)",
 				"secure": true
 				
 			},
