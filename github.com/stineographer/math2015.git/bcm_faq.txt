@@ -2173,31 +2173,35 @@
 				"sectionNumber": "2",
 				"questions": [
 				{
-					"questionNumber": "1.2.006",
-					"watchit": "aufmathahp1_01_02_006"
+					"questionNumber": "6.2.002",
+					"watchit": "aufbcm9_06_02_002"
 				},
 				{
-					"questionNumber": "1.2.010",
-					"watchit": "aufbcm9_01_02_010"
+					"questionNumber": "6.2.006",
+					"watchit": "aufbcm9_06_02_006"
 				},
 				{
-					"questionNumber": "1.2.012",
-					"watchit": "aufmathahp1_01_02_012"
+					"questionNumber": "6.2.013",
+					"watchit": "aufbcm9_06_02_013"
 				},
 				{
-					"questionNumber": "1.2.018",
-					"watchit": "aufmathahp1_01_02_018"
+					"questionNumber": "6.2.015",
+					"watchit": "aufbcm9_06_02_015"
 				},
 				{
-					"questionNumber": "1.2.024",
-					"watchit": "aufmathahp1_01_02_024"
+					"questionNumber": "6.2.021",
+					"watchit": "aufbcm9_06_02_021"
 				},
 				{
-					"questionNumber": "1.2.030",
-					"watchit": "aufmathahp1_01_02_030"
+					"questionNumber": "6.2.025",
+					"watchit": "aufbcm9_06_02_025"
 				},
 				{
-					"questionNumber": "1.2.034",
+					"questionNumber": "6.2.036",
+					"watchit": "aufbcm9_06_02_036"
+				},
+				{
+					"questionNumber": "6.2.039",
 					"watchit": "aufbcm9_01_02_034"
 				},
 				{
