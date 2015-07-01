@@ -1,0 +1,2047 @@
+{
+	"module": [
+	{
+		"name": "Chapter 1",
+		"longName": "Chapter 1: Whole Numbers",
+		"chapter": [{
+			"name": "Section 1.1",
+			"longName": "Section 1.1: Introduction to Integers",
+			"introduction": [{
+				"text": "<p>Section 1.1: Introduction to Integers</p> <ul> <li>Pages 1 to 17</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 189</li> <li>WebAssign Assignment MA006 M1 01</li> </ul> <p>Section 1.1 Solutions</p> <ul> <li>Pages 6 to 9 of 417</li> </ul>"
+			},
+			{
+				"kaltura_entryId": "1_k3fqapmz",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (20:43)"
+			}],
+			"book": [{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=1",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 1 to 17",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=6",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 6 to 9",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch1_1_1",
+				"text": "1.1: Introduction to Whole Numbers (25:44)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=1&s=1"
+			}
+			
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M1/PPM01C01S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0246/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Integers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0007/toc.html",
+				"img": "tut.png",
+				"text": "Opposites and Absolute Value"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0008/toc.html",
+				"img": "tut.png",
+				"text": "Operations with Integers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0247/toc.html",
+				"img": "tut.png",
+				"text": "Operations with Integers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0526/toc.html",
+				"img": "tut.png",
+				"text": "Multiplying and Dividing Integers"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Introduction to Integers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.02-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Addition and Subtraction of Integers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Multiplication and Division of Integers"
+			}],
+			"assignment": [{
+				"lti": "MA006 M1 01"
+			}]
+		},
+		{
+			"name": "Section 1.2",
+			"longName": "Section 1.2: Addition of Whole Numbers",
+			"introduction": [{
+				"text": "<p>Section 1.2: Rational Numbers</p> <ul> <li>Pages 18 to 33</li> <li>Objectives A to G</li> <li>Look at the odd questions 1 to 189</li> <li>Complete WebAssign Assignment MA006 M1 02 but attempt after completing Section 1.3 material</li> </ul> <p>Section 1.2 Solutions</p> <ul> <li>Pages 9 to 12 of 417</li> </ul>"
+			},
+			{
+				"kaltura_entryId": "1_pcs4d9v7",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (10:36)"
+			}],
+			"book": [{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=18",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 18 to 33",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=9",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 9 to 12",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch1_1_2",
+				"text": "1.2:  Addition of Whole Numbers (18:49)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=1&s=2"
+			}
+			
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M1/PPM01C01S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0009/toc.html",
+				"img": "tut.png",
+				"text": "Converting Fractions, Decimals, and Percents"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0248/toc.html",
+				"img": "tut.png",
+				"text": "Operations with Rational Numbers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0011/toc.html",
+				"img": "tut.png",
+				"text": "Exponents"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0058/toc.html",
+				"img": "tut.png",
+				"text": "Simplifying Radical Expressions"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.06-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Addition and Subtraction of Rational Numbers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.07-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Multiplication and Division of Rational Numbers"
+			}],
+			"assignment": [{
+				"lti": "MA006 M1 02<br />After Completing Section 1.3"
+			}]
+		},
+		{
+			"name": "Section 1.3",
+			"longName": "Section 1.3: Order of Operations",
+			"introduction": [{
+				"text": "<p>Section 1.3: Order of Operations</p> <ul> <li>Pages 34 to 37</li> <li>Objective A</li> <li>Look at the odd questions 1 to 35</li> <li>WebAssign Assignment<br />MA006 M1 02</li> </ul> <p>Section 1.3 Solutions</p> <ul> <li>Pages 12 to 13 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_9le2864f",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (3:19)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=34",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 34 to 37",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=12",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 12 to 13",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch1_1_3",
+				"text": "1.3: Order of Operations (14:25)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=1&s=3"
+			}
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M1/PPM01C01S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0206/toc.html",
+				"img": "tut.png",
+				"text": "Exponential Notation and the Order of Operations Agreement"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.04-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Exponents and the Order of Operations Agreement"
+			}],
+			"assignment": [{
+				"lti": "MA006 M1 02"
+			}]
+		},
+		{
+			"name": "Section 1.4",
+			"longName": "Section 1.4: Multiplication of Whole Numbers",
+			"introduction": [{
+				"text": "<p>Section 1.4: Variable Expressions</p> <ul> <li>Pages 38 to 55</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 209</li> <li>WebAssign Assignment MA006 M1 03</li> </ul> <p>Section 1.4 Solutions</p> <ul> <li>Pages 13 to 16 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_tc5tf1cg",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (14:47)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=38",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 38 to 55",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=13",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 13 to 16",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch1_1_4",
+				"text": "1.4: Multiplication of Whole Numbers (14:43)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=1&s=4"
+			}
+			
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M1/PPM01C01S04.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0250/toc.html",
+				"img": "tut.png",
+				"text": "Variable Expressions"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0013/toc.html",
+				"img": "tut.png",
+				"text": "Evaluating Variable Expressions"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0012/toc.html",
+				"img": "tut.png",
+				"text": "Variable Expressions and Verbal Expressions"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Evaluating Variable Expressions"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.02-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Simplifying Variable Expressions"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Translating Verbal Expressions into Variable Expressions"
+			}],
+			"assignment": [{
+				"lti": "MA006 M1 03"
+			}]
+		}
+		
+		
+	]
+	
+	},
+	
+	{
+		"name": "Chapter 2",
+		"longName": "Chapter 2: Fractions",
+		"chapter": [{
+			"name": "Section 2.1",
+			"longName": "Section 2.1: The Least Common Multiple and Greatest Common Factor",
+			"introduction": [{
+				"text": "<p>Section 2.1:  Introduction to Equations</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 22 to 26 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_62g0jj62",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (8:51)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=75",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 75 to 83 and 87 to 93",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=22",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 22 to 26",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch2_2_1",
+				"text": "2.1: The Least Common Multiple and Greatest Common Factor (9:58)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=2&s=1"
+			}
+			
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0251/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Solving Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0555/toc.html",
+				"img": "tut.png",
+				"text": "Solving Equations Using Properties of Equality"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
+				"img": "tut.png",
+				"text": "Percent Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
+				"img": "tut.png",
+				"text": "Problems Involving Rates"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Introduction to Equations"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 01"
+			}]
+		},
+		{
+			"name": "Section 2.2",
+			"longName": "Section 2.2: Introduction to Fractions",
+			"introduction": [{
+				"text": "<p>Section 2.2:  General Equations</p> <ul> <li>Pages 95 to 101 and 103 to 106</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 139</li>  <li>WebAssign Assignment MA006 M2 02</li> </ul> <p>Section 2.2 Solutions</p> <ul> <li>Pages 29 to 37 of 417 </li> </ul>"
+			},{
+				"kaltura_entryId": "1_12r72omn",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (5:40)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=95",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 95 to 101 and 103 to 106",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=29",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 29 to 37",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [
+			{
+				"cengage_vidName": "auf_bcm_ch2_2_2",
+				"text": "2.2: Introduction to Fractions (15:06)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=2&s=2"
+			}
+			
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0547/toc.html",
+				"img": "tut.png",
+				"text": "Solving General First-Degree Linear Equations in 1 Variable"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0252/toc.html",
+				"img": "tut.png",
+				"text": "Solving Other Types of Equations"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.02-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "General Equations Part I"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 02"
+			}]
+		},
+		{
+			"name": "Section 2.3",
+			"longName": "Section 2.3: Writing Equivalent Fractions",
+			"introduction": [{
+				"text": "<p>Section 2.3: Sentences into Equations</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
+			},{
+				"kaltura_entryId": "0_2wa8vqd4",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:34)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=109",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 109 to 115",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=38",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 38 to 41",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch2_2_3",
+				"text": "2.3: Writing Equivalent Fractions (17:54)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=2&s=3"
+			}
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0019/toc.html",
+				"img": "tut.png",
+				"text": "Constructing Equations to Solve Problems"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0557/toc.html",
+				"img": "tut.png",
+				"text": "Translating Sentences into Equations"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "General Equations Part II"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 03"
+			}]
+		}
+		
+	]
+	},
+	{
+		"name": "Chapter 3",
+		"longName": "Chapter 3: Decimals",
+		"chapter": [{
+			"name": "Section 3.1",
+			"longName": "Section 3.1: Introduction to Decimals",
+			"introduction": [{
+				"text": "<p>Section 3.1: Introduction to Decimals</p> <ul> <li>Pages 347 to 359</li> <li>All Objectives</li> <li>Look at all odd numbered questions 1 to 123</li>  <li>WebAssign Assignment MA006 M3 01</li> </ul> <p>Chapter 6.1 Solutions</p> <ul> <li>Pages 167 to 170 of 304</li> </ul>"
+			},{
+				"kaltura_entryId": "1_5fak1716",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (26:04)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=347",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 347 to 359",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=167",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 167 to 170",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch3_3_1",
+				"text": "3.1: Introduction to Decimals (13:58)",
+				"secure": true
+				
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C06S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0036/toc.html",
+				"img": "tut.png",
+				"text": "Multiplication and Powers of Monomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0037/toc.html",
+				"img": "tut.png",
+				"text": "Exponents and Scientific Notation"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Exponential Expressions"
+			}],
+			"assignment": [{
+				"lti": "MA006 M3 01"
+			}]
+		},
+		{
+			"name": "Section 3.2",
+			"longName": "Section 3.2: Addition of Decimals",
+			"introduction": [{
+				"text": "<p>Section 3.2: Addition of Decimals</p> <ul> <li>Pages 360 to 367</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 39</li>  <li>WebAssign Assignment MA006 M3 02 attempt after completing Section 6.3 material</li> </ul> <p>Section 6.2 Solutions</p> <ul> <li>Pages 170 to 171 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_1v2wir2b",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (16:24)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=360",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 360 to 367",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=170",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 170 to 171",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch3_3_2",
+				"text": "3.2: Addition of Decimals (9:15)",
+				"secure": true
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C06S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0038/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Polynomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0044/toc.html",
+				"img": "tut.png",
+				"text": "Graphing Polynomial Functions by Point Plotting"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0039/toc.html",
+				"img": "tut.png",
+				"text": "Adding and Subtracting Polynomials"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Multiplication of Polynomials"
+			}],
+			"assignment": [{
+				"lti": "MA006 M3 02"
+			}]
+		},
+		{
+			"name": "Section 3.3",
+			"longName": "Section 3.3: Subtraction of Decimals",
+			"introduction": [{
+				"text": "<p>Section 3.3: Subtraction of Decimals</p> <ul> <li>Pages 368 to 372 and 374 to 376</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 87</li>  <li>WebAssign Assignment MA006 M3 02</li> </ul> <p>Section 6.3 Solutions</p> <ul> <li>Pages 172 to 173 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_tsvy37e9",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (13:20)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=368",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 368 to 372 and 374 to 376",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=172",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />172 to 173",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch3_3_3",
+				"text": "3.3: Subtraction of Decimals (10:09)",
+				"secure": true
+				
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C06S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0553/toc.html",
+				"img": "tut.png",
+				"text": "Multiplication of Polynomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0041/toc.html",
+				"img": "tut.png",
+				"text": "Binomial and Special Polynomial Products"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Multiplication of Polynomials"
+			}],
+			"assignment": [{
+				"lti": "MA006 M3 02"
+			}]
+		},
+		{
+			"name": "Section 3.4",
+			"longName": "Section 3.4: Multiplication of Decimals",
+			"introduction": [{
+				"text": "<p>Section 3.4: Multiplication of Decimals</p> <ul> <li>Pages 378 to 380 and 385 to 386</li> <li>Objectives A and B, Objective C not covered</li> <li>Look at the odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M3 03</li> </ul> <p>Section 6.3 Solutions</p> <ul> <li>Pages 175 to 177 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_yj5ss17c",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (12:26)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=378",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 378 to 380 and 385 to 386",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=175",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 175 to 177",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch3_3_4",
+				"text": "3.4: Multiplication of Decimals (14:03)",
+				"secure": true
+				
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C06S04.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0042/toc.html",
+				"img": "tut.png",
+				"text": "Dividing Polynomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0043/toc.html",
+				"img": "tut.png",
+				"text": "Synthetic Division"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.04-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Division of Polynomials"
+			}],
+			"assignment": [{
+				"lti": "MA006 M3 03"
+			}]
+		},
+		{
+			"name": "Section 3.5",
+			"longName": "Section 3.5: Division of Decimals",
+			"introduction": [{
+				"text": "<p>Section 3.5: Division of Decimals</p> <ul> <li>Pages 378 to 380 and 385 to 386</li> <li>Objectives A and B, Objective C not covered</li> <li>Look at the odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M3 03</li> </ul> <p>Section 6.3 Solutions</p> <ul> <li>Pages 175 to 177 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_yj5ss17c",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (12:26)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=378",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 378 to 380 and 385 to 386",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=175",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 175 to 177",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch3_3_5",
+				"text": "3.5: Division of Decimals (18:16)",
+				"secure": true
+				
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C06S04.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0042/toc.html",
+				"img": "tut.png",
+				"text": "Dividing Polynomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0043/toc.html",
+				"img": "tut.png",
+				"text": "Synthetic Division"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.04-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Division of Polynomials"
+			}],
+			"assignment": [{
+				"lti": "MA006 M3 03"
+			}]
+		},
+		{
+			"name": "Section 3.6",
+			"longName": "Section 3.6: Comparing and Converting Fractions and Decimals",
+			"introduction": [{
+				"text": "<p>Section 3.6: Comparing and Converting Fractions and Decimals</p> <ul> <li>Pages 378 to 380 and 385 to 386</li> <li>Objectives A and B, Objective C not covered</li> <li>Look at the odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M3 03</li> </ul> <p>Section 6.3 Solutions</p> <ul> <li>Pages 175 to 177 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_yj5ss17c",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (12:26)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=378",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 378 to 380 and 385 to 386",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=175",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 175 to 177",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch3_3_6",
+				"text": "3.6: Comparing and Converting Fractions and Decimals (14:31)",
+				"secure": true
+				
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C06S04.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0042/toc.html",
+				"img": "tut.png",
+				"text": "Dividing Polynomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0043/toc.html",
+				"img": "tut.png",
+				"text": "Synthetic Division"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.04-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Division of Polynomials"
+			}],
+			"assignment": [{
+				"lti": "MA006 M3 03"
+			}]
+		}
+		]
+	},
+	
+	{
+		"name": "Chapter 6",
+		"longName": "Chapter 6: Polynomials",
+		"chapter": [{
+			"name": "Section 6.1",
+			"longName": "Section 6.1: Exponential Expressions",
+			"introduction": [{
+				"text": "<p>Section 6.1: Exponential Expressions</p> <ul> <li>Pages 347 to 359</li> <li>All Objectives</li> <li>Look at all odd numbered questions 1 to 123</li>  <li>WebAssign Assignment MA006 M3 01</li> </ul> <p>Chapter 6.1 Solutions</p> <ul> <li>Pages 167 to 170 of 304</li> </ul>"
+			},{
+				"kaltura_entryId": "1_5fak1716",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (26:04)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=347",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 347 to 359",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=167",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 167 to 170",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch3_3_1",
+				"text": "3.1: Introduction to Decimals (13:58)",
+				"secure": true
+				
+			},
+			{
+				"faq": "faq.html?t=IIA&c=6&s=1"
+			}
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C06S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0036/toc.html",
+				"img": "tut.png",
+				"text": "Multiplication and Powers of Monomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0037/toc.html",
+				"img": "tut.png",
+				"text": "Exponents and Scientific Notation"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Exponential Expressions"
+			}],
+			"assignment": [{
+				"lti": "MA006 M3 01"
+			}]
+		},
+		{
+			"name": "Section 6.2",
+			"longName": "Section 6.2: Introduction to Polynomial Functions",
+			"introduction": [{
+				"text": "<p>Section 6.2: Introduction to Polynomial Functions</p> <ul> <li>Pages 360 to 367</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 39</li>  <li>WebAssign Assignment MA006 M3 02 attempt after completing Section 6.3 material</li> </ul> <p>Section 6.2 Solutions</p> <ul> <li>Pages 170 to 171 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_1v2wir2b",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (16:24)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=360",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 360 to 367",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=170",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 170 to 171",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch3_3_2",
+				"text": "3.2: Addition of Decimals (9:15)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=6&s=2"
+			}
+			
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C06S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0038/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Polynomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0044/toc.html",
+				"img": "tut.png",
+				"text": "Graphing Polynomial Functions by Point Plotting"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0039/toc.html",
+				"img": "tut.png",
+				"text": "Adding and Subtracting Polynomials"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Multiplication of Polynomials"
+			}],
+			"assignment": [{
+				"lti": "MA006 M3 02"
+			}]
+		},
+		{
+			"name": "Section 6.3",
+			"longName": "Section 6.3: Multiplication of Polynomials",
+			"introduction": [{
+				"text": "<p>Section 6.3: Multiplication of Polynomials</p> <ul> <li>Pages 368 to 372 and 374 to 376</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 87</li>  <li>WebAssign Assignment MA006 M3 02</li> </ul> <p>Section 6.3 Solutions</p> <ul> <li>Pages 172 to 173 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_tsvy37e9",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (13:20)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=368",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 368 to 372 and 374 to 376",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=172",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />172 to 173",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch3_3_3",
+				"text": "3.3: Subtraction of Decimals (10:09)",
+				"secure": true
+				
+			},
+			{
+				"faq": "faq.html?t=IIA&c=6&s=3"
+			}
+			
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C06S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0553/toc.html",
+				"img": "tut.png",
+				"text": "Multiplication of Polynomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0041/toc.html",
+				"img": "tut.png",
+				"text": "Binomial and Special Polynomial Products"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Multiplication of Polynomials"
+			}],
+			"assignment": [{
+				"lti": "MA006 M3 02"
+			}]
+		},
+		{
+			"name": "Section 6.4",
+			"longName": "Section 6.4: Polynomials",
+			"introduction": [{
+				"text": "<p>Section 6.4: Polynomials</p> <ul> <li>Pages 378 to 380 and 385 to 386</li> <li>Objectives A and B, Objective C not covered</li> <li>Look at the odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M3 03</li> </ul> <p>Section 6.3 Solutions</p> <ul> <li>Pages 175 to 177 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_yj5ss17c",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (12:26)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=378",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 378 to 380 and 385 to 386",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=175",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 175 to 177",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch3_3_4",
+				"text": "3.4: Multiplication of Decimals (14:03)",
+				"secure": true
+				
+			},
+			{
+				"faq": "faq.html?t=IIA&c=6&s=4"
+			}
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C06S04.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0042/toc.html",
+				"img": "tut.png",
+				"text": "Dividing Polynomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0043/toc.html",
+				"img": "tut.png",
+				"text": "Synthetic Division"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.04-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Division of Polynomials"
+			}],
+			"assignment": [{
+				"lti": "MA006 M3 03"
+			}]
+		}
+		]
+	},
+	
+	
+	
+	{
+		"name": "Chapter 7",
+		"longName": "Chapter 7: Factoring",
+		"chapter": [{
+			"name": "Section 7.1",
+			"longName": "Section 7.1: Common Factors",
+			"introduction": [{
+				"text": "<p>Section 7.1:  Common Factors</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 22 to 26 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_62g0jj62",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (8:51)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=75",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 75 to 83 and 87 to 93",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=22",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 22 to 26",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch7_7_1",
+				"text": "7.1: Pictographs and Circle Graphs (14:21)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=7&s=1"
+			}
+			
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0251/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Solving Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0555/toc.html",
+				"img": "tut.png",
+				"text": "Solving Equations Using Properties of Equality"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
+				"img": "tut.png",
+				"text": "Percent Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
+				"img": "tut.png",
+				"text": "Problems Involving Rates"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Introduction to Equations"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 01"
+			}]
+		},
+		{
+			"name": "Section 7.2",
+			"longName": "Section 7.2: Factoring Polynomials of the Form x2 + bx + c",
+			"introduction": [{
+				"text": "<p>Section 7.2:  Factoring Polynomials of the Form x2 + bx + c</p> <ul> <li>Pages 95 to 101 and 103 to 106</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 139</li>  <li>WebAssign Assignment MA006 M2 02</li> </ul> <p>Section 2.2 Solutions</p> <ul> <li>Pages 29 to 37 of 417 </li> </ul>"
+			},{
+				"kaltura_entryId": "1_12r72omn",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (5:40)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=95",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 95 to 101 and 103 to 106",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=29",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 29 to 37",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch7_7_2",
+				"text": "7.2: Bar Graphs and Broken-Line Graphs (7:55)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=7&s=2"
+			}
+			
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0547/toc.html",
+				"img": "tut.png",
+				"text": "Solving General First-Degree Linear Equations in 1 Variable"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0252/toc.html",
+				"img": "tut.png",
+				"text": "Solving Other Types of Equations"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.02-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "General Equations Part I"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 02"
+			}]
+		},
+		{
+			"name": "Section 7.3",
+			"longName": "Section 7.3: Factoring Polynomials of the Form ax2 + bx + c",
+			"introduction": [{
+				"text": "<p>Section 7.3: Factoring Polynomials of the Form ax2 + bx + c</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
+			},{
+				"kaltura_entryId": "0_2wa8vqd4",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:34)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=109",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 109 to 115",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=38",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 38 to 41",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch7_7_3",
+				"text": "7.3: Histograms and Frequency Polygons (9:59)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=7&s=3"
+			}
+			
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0019/toc.html",
+				"img": "tut.png",
+				"text": "Constructing Equations to Solve Problems"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0557/toc.html",
+				"img": "tut.png",
+				"text": "Translating Sentences into Equations"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "General Equations Part II"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 03"
+			}]
+		},
+		{
+			"name": "Section 7.4",
+			"longName": "Section 7.4: Special Factoring",
+			"introduction": [{
+				"text": "<p>Section 7.4: Special Factoring</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
+			},{
+				"kaltura_entryId": "0_2wa8vqd4",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:34)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=109",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 109 to 115",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=38",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 38 to 41",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch7_7_4",
+				"text": "7.4: Statistical Measures (15:16)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=7&s=4"
+			}
+			
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0019/toc.html",
+				"img": "tut.png",
+				"text": "Constructing Equations to Solve Problems"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0557/toc.html",
+				"img": "tut.png",
+				"text": "Translating Sentences into Equations"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "General Equations Part II"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 03"
+			}]
+		},
+		{
+			"name": "Section 7.5",
+			"longName": "Section 7.5: Solving Equations",
+			"introduction": [{
+				"text": "<p>Section 7.5: Solving Equations</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 22 to 26 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_62g0jj62",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (8:51)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=75",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 75 to 83 and 87 to 93",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=22",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 22 to 26",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch7_7_5",
+				"text": "7.5: Introduction to Probability (9:40)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=7&s=5"
+			}
+			
+			
+			],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0251/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Solving Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0555/toc.html",
+				"img": "tut.png",
+				"text": "Solving Equations Using Properties of Equality"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
+				"img": "tut.png",
+				"text": "Percent Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
+				"img": "tut.png",
+				"text": "Problems Involving Rates"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Introduction to Equations"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 01"
+			}]
+		}
+		
+		
+		]
+	},
+	
+	{
+		"name": "Chapter 10",
+		"longName": "Chapter 10: Rational Numbers",
+		"chapter": [{
+			"name": "Section 10.1",
+			"longName": "Section 10.1: Introduction to Integers",
+			"introduction": [{
+				"text": "<p>Section 10.1:  Introduction to Integers</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 22 to 26 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_62g0jj62",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (8:51)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=75",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 75 to 83 and 87 to 93",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=22",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 22 to 26",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch10_10_1",
+				"text": "10.1: Introduction to Integers (11:31)",
+				"secure": true
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0251/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Solving Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0555/toc.html",
+				"img": "tut.png",
+				"text": "Solving Equations Using Properties of Equality"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
+				"img": "tut.png",
+				"text": "Percent Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
+				"img": "tut.png",
+				"text": "Problems Involving Rates"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Introduction to Equations"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 01"
+			}]
+		},
+		{
+			"name": "Section 10.2",
+			"longName": "Section 10.2: Addition and Subtraction of Integers",
+			"introduction": [{
+				"text": "<p>Section 10.2:  Addition and Subtraction of Integers</p> <ul> <li>Pages 95 to 101 and 103 to 106</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 139</li>  <li>WebAssign Assignment MA006 M2 02</li> </ul> <p>Section 2.2 Solutions</p> <ul> <li>Pages 29 to 37 of 417 </li> </ul>"
+			},{
+				"kaltura_entryId": "1_12r72omn",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (5:40)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=95",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 95 to 101 and 103 to 106",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=29",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 29 to 37",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch10_10_2",
+				"text": "10.2: Addition and Subtraction of Integers (31:53)",
+				"secure": true
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0547/toc.html",
+				"img": "tut.png",
+				"text": "Solving General First-Degree Linear Equations in 1 Variable"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0252/toc.html",
+				"img": "tut.png",
+				"text": "Solving Other Types of Equations"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.02-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "General Equations Part I"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 02"
+			}]
+		},
+		{
+			"name": "Section 10.3",
+			"longName": "Section 10.3: Multiplication and Division of Integers",
+			"introduction": [{
+				"text": "<p>Section 10.3: Multiplication and Division of Integers</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
+			},{
+				"kaltura_entryId": "0_2wa8vqd4",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:34)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=109",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 109 to 115",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=38",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 38 to 41",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch10_10_3",
+				"text": "10.3: Multiplication and Division of Integers (18:40)",
+				"secure": true
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0019/toc.html",
+				"img": "tut.png",
+				"text": "Constructing Equations to Solve Problems"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0557/toc.html",
+				"img": "tut.png",
+				"text": "Translating Sentences into Equations"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "General Equations Part II"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 03"
+			}]
+		},
+		{
+			"name": "Section 10.4",
+			"longName": "Section 10.4: Operation with Rational Numbers",
+			"introduction": [{
+				"text": "<p>Section 10.4: Operation with Rational Numbers</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
+			},{
+				"kaltura_entryId": "0_2wa8vqd4",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:34)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=109",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 109 to 115",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=38",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 38 to 41",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch10_10_4",
+				"text": "10.4: Operation with Rational Numbers (33:03)",
+				"secure": true
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0019/toc.html",
+				"img": "tut.png",
+				"text": "Constructing Equations to Solve Problems"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0557/toc.html",
+				"img": "tut.png",
+				"text": "Translating Sentences into Equations"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "General Equations Part II"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 03"
+			}]
+		},
+		{
+			"name": "Section 10.5",
+			"longName": "Section 10.5: Scientific Notation and the Order of Operations Agreement",
+			"introduction": [{
+				"text": "<p>Section 10.5: Scientific Notation and the Order of Operations Agreement</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 22 to 26 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_62g0jj62",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (8:51)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=75",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 75 to 83 and 87 to 93",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=22",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 22 to 26",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch10_10_5",
+				"text": "10.5: Scientific Notation and the Order of Operations Agreement (33:05)",
+				"secure": true
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0251/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Solving Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0555/toc.html",
+				"img": "tut.png",
+				"text": "Solving Equations Using Properties of Equality"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
+				"img": "tut.png",
+				"text": "Percent Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
+				"img": "tut.png",
+				"text": "Problems Involving Rates"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Introduction to Equations"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 01"
+			}]
+		}
+		
+		
+		]
+	},
+	
+		{
+		"name": "Chapter 11",
+		"longName": "Chapter 11: Introduction to Algebra",
+		"chapter": [{
+			"name": "Section 11.1",
+			"longName": "Section 11.1: Variable Expressions",
+			"introduction": [{
+				"text": "<p>Section 11.1:  Variable Expressions</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 22 to 26 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_62g0jj62",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (8:51)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=75",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 75 to 83 and 87 to 93",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=22",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 22 to 26",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch11_11_1",
+				"text": "11.1: Variable Expressions (27:14)",
+				"secure": true
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0251/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Solving Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0555/toc.html",
+				"img": "tut.png",
+				"text": "Solving Equations Using Properties of Equality"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
+				"img": "tut.png",
+				"text": "Percent Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
+				"img": "tut.png",
+				"text": "Problems Involving Rates"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Introduction to Equations"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 01"
+			}]
+		},
+		{
+			"name": "Section 11.2",
+			"longName": "Section 11.2: Introduction to Equations",
+			"introduction": [{
+				"text": "<p>Section 11.2:  Introduction to Equations</p> <ul> <li>Pages 95 to 101 and 103 to 106</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 139</li>  <li>WebAssign Assignment MA006 M2 02</li> </ul> <p>Section 2.2 Solutions</p> <ul> <li>Pages 29 to 37 of 417 </li> </ul>"
+			},{
+				"kaltura_entryId": "1_12r72omn",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (5:40)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=95",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 95 to 101 and 103 to 106",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=29",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 29 to 37",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch11_11_2",
+				"text": "11.2: Introduction to Equations (24:59)",
+				"secure": true
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0547/toc.html",
+				"img": "tut.png",
+				"text": "Solving General First-Degree Linear Equations in 1 Variable"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0252/toc.html",
+				"img": "tut.png",
+				"text": "Solving Other Types of Equations"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.02-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "General Equations Part I"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 02"
+			}]
+		},
+		{
+			"name": "Section 11.3",
+			"longName": "Section 11.3: General Equations: Part I",
+			"introduction": [{
+				"text": "<p>Section 11.3: General Equations: Part I</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
+			},{
+				"kaltura_entryId": "0_2wa8vqd4",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:34)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=109",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 109 to 115",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=38",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 38 to 41",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch11_11_3",
+				"text": "11.3: General Equations: Part I (14:27)",
+				"secure": true
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0019/toc.html",
+				"img": "tut.png",
+				"text": "Constructing Equations to Solve Problems"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0557/toc.html",
+				"img": "tut.png",
+				"text": "Translating Sentences into Equations"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "General Equations Part II"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 03"
+			}]
+		},
+		{
+			"name": "Section 11.4",
+			"longName": "Section 11.4: General Equations: Part II",
+			"introduction": [{
+				"text": "<p>Section 11.4: General Equations: Part II</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
+			},{
+				"kaltura_entryId": "0_2wa8vqd4",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:34)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=109",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 109 to 115",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=38",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 38 to 41",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch11_11_4",
+				"text": "11.4: General Equations: Part II (11:57)",
+				"secure": true
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0019/toc.html",
+				"img": "tut.png",
+				"text": "Constructing Equations to Solve Problems"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0557/toc.html",
+				"img": "tut.png",
+				"text": "Translating Sentences into Equations"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "General Equations Part II"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 03"
+			}]
+		},
+		{
+			"name": "Section 11.5",
+			"longName": "Section 11.5: Translating Verbal Expressions into Mathematical Expressions",
+			"introduction": [{
+				"text": "<p>Section 11.5: Translating Verbal Expressions into Mathematical Expressions</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 22 to 26 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_62g0jj62",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (8:51)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=75",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 75 to 83 and 87 to 93",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=22",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 22 to 26",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch11_11_5",
+				"text": "11.5: Translating Verbal Expressions into Mathematical Expressions (11:03)",
+				"secure": true
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0251/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Solving Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0555/toc.html",
+				"img": "tut.png",
+				"text": "Solving Equations Using Properties of Equality"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
+				"img": "tut.png",
+				"text": "Percent Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
+				"img": "tut.png",
+				"text": "Problems Involving Rates"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Introduction to Equations"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 01"
+			}]
+		},
+		{
+			"name": "Section 11.6",
+			"longName": "Section 11.6: Translating Sentences into Equations and Solving",
+			"introduction": [{
+				"text": "<p>Section 11.6: Translating Sentences into Equations and Solving</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 22 to 26 of 417</li> </ul>"
+			},{
+				"kaltura_entryId": "1_62g0jj62",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (8:51)"
+			}],
+			"book": [
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=75",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 75 to 83 and 87 to 93",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=22",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 22 to 26",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch11_11_6",
+				"text": "11.6: Translating Sentences into Equations and Solving (9:08)",
+				"secure": true
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0251/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Solving Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0555/toc.html",
+				"img": "tut.png",
+				"text": "Solving Equations Using Properties of Equality"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
+				"img": "tut.png",
+				"text": "Percent Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
+				"img": "tut.png",
+				"text": "Problems Involving Rates"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Introduction to Equations"
+			}],
+			"assignment": [{
+				"lti": "MA006 M2 01"
+			}]
+		}
+		
+		
+		]
+	}
+	
+	]
+}
