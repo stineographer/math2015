@@ -2202,39 +2202,11 @@
 				},
 				{
 					"questionNumber": "6.2.039",
-					"watchit": "aufbcm9_01_02_034"
+					"watchit": "aufmathahp1_06_02_039"
 				},
 				{
-					"questionNumber": "1.2.036",
-					"watchit": "aufmathahp1_01_02_036"
-				},
-				{
-					"questionNumber": "1.2.042",
-					"watchit": "aufmathahp1_01_02_042"
-				},
-				{
-					"questionNumber": "1.2.044",
-					"watchit": "aufbcm9_01_02_044"
-				},
-				{
-					"questionNumber": "1.2.048",
-					"watchit": "aufmathahp1_01_02_048"
-				},
-				{
-					"questionNumber": "1.2.052",
-					"watchit": "aufbcm9_01_02_052"
-				},
-				{
-					"questionNumber": "1.2.054",
-					"watchit": "aufmathahp1_01_02_054"
-				},
-				{
-					"questionNumber": "1.2.060",
-					"watchit": "aufmathahp1_01_02_060"
-				},
-				{
-					"questionNumber": "1.2.072",
-					"watchit": "aufbcm9_01_02_072"
+					"questionNumber": "6.2.041",
+					"watchit": "aufbcm9_06_02_041"
 				}
 				
 				]
