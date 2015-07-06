@@ -2314,6 +2314,33 @@
 				]
 			},
 			
+					{
+				"sectionNumber": "5",
+				"questions": [
+				{
+					"questionNumber": "6.5.002",
+					"watchit": "aufbcm9_06_05_002"
+				},
+				{
+					"questionNumber": "6.5.006",
+					"watchit": "aufbcm9_06_05_006"
+				},
+				{
+					"questionNumber": "6.5.017",
+					"watchit": "aufmathahp1_06_05_017"
+				},
+				{
+					"questionNumber": "6.5.019",
+					"watchit": "aufmathahp1_06_05_019"
+				},
+				{
+					"questionNumber": "6.5.027",
+					"watchit": "aufbcm9_06_05_027"
+				}
+				
+				]
+			},
+			
 			
 			
 			{
