@@ -1562,7 +1562,7 @@
 		]
 	},
 	
-		{
+	{
 		"name": "Chapter 5",
 		"longName": "Chapter 5: Percents",
 		"chapter": [{
