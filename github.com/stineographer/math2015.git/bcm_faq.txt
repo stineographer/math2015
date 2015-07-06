@@ -2271,6 +2271,49 @@
 				]
 			},
 			
+				{
+				"sectionNumber": "4",
+				"questions": [
+				{
+					"questionNumber": "6.4.002",
+					"watchit": "aufbcm9_06_04_002"
+				},
+				{
+					"questionNumber": "6.4.004",
+					"watchit": "aufmathahp1_06_04_004"
+				},
+				{
+					"questionNumber": "6.4.006",
+					"watchit": "aufbcm9_06_04_006"
+				},
+				{
+					"questionNumber": "6.4.013",
+					"watchit": "aufmathahp1_06_04_013"
+				},
+				{
+					"questionNumber": "6.4.015",
+					"watchit": "aufmathahp1_06_04_015"
+				},
+				{
+					"questionNumber": "6.4.017",
+					"watchit": "aufbcm9_06_04_017"
+				},
+				{
+					"questionNumber": "6.4.021",
+					"watchit": "aufbcm9_06_04_021"
+				},
+				{
+					"questionNumber": "6.4.023",
+					"watchit": "aufmathahp1_06_04_023"
+				},
+				{
+					"questionNumber": "6.4.025",
+					"watchit": "aufbcm9_06_04_025"
+				}
+				
+				]
+			},
+			
 			
 			
 			{
