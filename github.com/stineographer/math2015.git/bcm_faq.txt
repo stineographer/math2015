@@ -2299,6 +2299,10 @@
 					"watchit": "aufbcm9_06_04_017"
 				},
 				{
+					"questionNumber": "6.4.019",
+					"watchit": "aufmathahp1_06_04_019"
+				},
+				{
 					"questionNumber": "6.4.021",
 					"watchit": "aufbcm9_06_04_021"
 				},
@@ -2326,12 +2330,20 @@
 					"watchit": "aufbcm9_06_05_006"
 				},
 				{
+					"questionNumber": "6.5.008",
+					"watchit": "aufmathahp1_06_05_008"
+				},
+				{
 					"questionNumber": "6.5.017",
 					"watchit": "aufmathahp1_06_05_017"
 				},
 				{
 					"questionNumber": "6.5.019",
 					"watchit": "aufmathahp1_06_05_019"
+				},
+				{
+					"questionNumber": "6.5.023",
+					"watchit": "aufmathahp1_06_05_023"
 				},
 				{
 					"questionNumber": "6.5.027",
@@ -2495,28 +2507,32 @@
 				"sectionNumber": "4",
 				"questions": [
 				{
-					"questionNumber": "5.4.006",
-					"watchit": "aufmathahp1_05_04_006"
+					"questionNumber": "7.4.002",
+					"watchit": "aufbcm9_07_04_002"
 				},
 				{
-					"questionNumber": "5.4.012",
-					"watchit": "aufmathahp1_05_04_012"
+					"questionNumber": "7.4.005",
+					"watchit": "aufmathahp1_07_04_005"
 				},
 				{
-					"questionNumber": "5.4.014",
-					"watchit": "aufbcm9_05_04_014"
+					"questionNumber": "7.4.006",
+					"watchit": "aufbcm9_07_04_006"
 				},
 				{
-					"questionNumber": "5.4.020",
-					"watchit": "aufmathahp1_05_04_020"
+					"questionNumber": "7.4.014",
+					"watchit": "aufbcm9_07_04_014"
 				},
 				{
-					"questionNumber": "5.4.032",
-					"watchit": "aufbcm9_05_04_032"
+					"questionNumber": "7.4.017",
+					"watchit": "aufmathahp1_07_04_017"
 				},
 				{
-					"questionNumber": "5.4.033",
-					"watchit": "aufbcm9_05_04_033"
+					"questionNumber": "7.4.018",
+					"watchit": "aufbcm9_07_04_018"
+				},
+				{
+					"questionNumber": "7.4.024",
+					"watchit": "aufmathahp1_07_04_024"
 				}
 				]
 			},
