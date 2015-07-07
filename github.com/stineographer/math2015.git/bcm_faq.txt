@@ -3179,6 +3179,108 @@
 			]
 		},
 		{
+			"sectionNumber": "4",
+			"questions": [
+			{
+				"questionNumber": "10.4.004",
+				"watchit": "aufmathahp1_10_04_004"
+			},
+			{
+				"questionNumber": "10.4.010",
+				"watchit": "aufmathahp1_10_04_010"
+			},
+			{
+				"questionNumber": "10.4.016",
+				"watchit": "aufmathahp1_10_04_016"
+			},
+			{
+				"questionNumber": "10.4.018",
+				"watchit": "aufbcm9_10_04_018"
+			},
+			{
+				"questionNumber": "10.4.020",
+				"watchit": "aufbcm9_10_04_020"
+			},
+			{
+				"questionNumber": "10.4.026",
+				"watchit": "aufmathahp1_10_04_026"
+			},
+			{
+				"questionNumber": "10.4.030",
+				"watchit": "aufbcm9_10_04_030"
+			},
+			{
+				"questionNumber": "10.4.030",
+				"watchit": "aufbcm9_10_04_030"
+			},
+			{
+				"questionNumber": "10.4.034",
+				"watchit": "aufmathahp1_10_04_034"
+			},
+			{
+				"questionNumber": "10.4.036",
+				"watchit": "aufbcm9_10_04_036"
+			},
+			{
+				"questionNumber": "10.4.046",
+				"watchit": "aufmathahp1_10_04_046"
+			},
+			{
+				"questionNumber": "10.4.050",
+				"watchit": "aufbcm9_10_04_050"
+			},
+			{
+				"questionNumber": "10.4.054",
+				"watchit": "aufmathahp1_10_04_054"
+			},
+			{
+				"questionNumber": "10.4.060",
+				"watchit": "aufmathahp1_10_04_060"
+			},
+			{
+				"questionNumber": "10.4.062",
+				"watchit": "aufbcm9_10_04_062"
+			},
+			{
+				"questionNumber": "10.4.068",
+				"watchit": "aufmathahp1_10_04_068"
+			},
+			{
+				"questionNumber": "10.4.074",
+				"watchit": "aufbcm9_10_04_074"
+			},
+			{
+				"questionNumber": "10.4.076",
+				"watchit": "aufmathahp1_10_04_076"
+			},
+			{
+				"questionNumber": "10.4.080",
+				"watchit": "aufbcm9_10_04_080"
+			},
+			{
+				"questionNumber": "10.4.084",
+				"watchit": "aufmathahp1_10_04_084"
+			},
+			{
+				"questionNumber": "10.4.095",
+				"watchit": "aufbcm9_10_04_095"
+			},
+			{
+				"questionNumber": "10.4.097",
+				"watchit": "aufmathahp1_10_04_097"
+			},
+			{
+				"questionNumber": "10.4.104",
+				"watchit": "aufmathahp1_10_04_104"
+			},
+			{
+				"questionNumber": "10.4.106",
+				"watchit": "aufmathahp1_10_04_106"
+			}
+			]
+		},
+		
+		{
 			"sectionNumber": "5",
 			"questions": [{
 				"questionNumber": "9.5.003",
