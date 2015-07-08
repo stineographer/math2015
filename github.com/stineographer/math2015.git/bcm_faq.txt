@@ -3406,6 +3406,232 @@
 		}
 		]
 	},
+	
+	{
+		"chapter": "11",
+		"sections": [{
+			"sectionNumber": "1",
+			"questions": [
+			{
+				"questionNumber": "11.1.004",
+				"watchit": "aufbcm9_11_01_004"
+			},
+			{
+				"questionNumber": "11.1.006",
+				"watchit": "aufmathahp1_11_01_006"
+			},
+			{
+				"questionNumber": "11.1.012",
+				"watchit": "aufmathahp1_11_01_012"
+			},
+			{
+				"questionNumber": "11.1.018",
+				"watchit": "aufmathahp1_11_01_018"
+			},
+			{
+				"questionNumber": "11.1.020",
+				"watchit": "aufmathahp1_11_01_020"
+			},
+			{
+				"questionNumber": "11.1.026",
+				"watchit": "aufbcm9_11_01_026"
+			},
+			{
+				"questionNumber": "11.1.032",
+				"watchit": "aufmathahp1_11_01_032"
+			},
+			{
+				"questionNumber": "11.1.040",
+				"watchit": "aufmathahp1_11_01_040"
+			},
+			{
+				"questionNumber": "11.1.042",
+				"watchit": "aufbcm9_11_01_042"
+			},
+			{
+				"questionNumber": "11.1.058",
+				"watchit": "aufmathahp1_11_01_058"
+			},
+			{
+				"questionNumber": "11.1.060",
+				"watchit": "aufmathahp1_11_01_060"
+			},
+			{
+				"questionNumber": "11.1.064",
+				"watchit": "aufbcm9_11_01_064"
+			},
+			{
+				"questionNumber": "11.1.072",
+				"watchit": "aufmathahp1_11_01_072"
+			},
+			{
+				"questionNumber": "11.1.074",
+				"watchit": "aufbcm9_11_01_074"
+			},
+			{
+				"questionNumber": "11.1.080",
+				"watchit": "aufmathahp1_11_01_080"
+			},
+			{
+				"questionNumber": "11.1.088",
+				"watchit": "aufbcm9_11_01_088"
+			},
+			{
+				"questionNumber": "11.1.096",
+				"watchit": "aufmathahp1_11_01_096"
+			},
+			
+			{
+				"questionNumber": "11.1.104",
+				"watchit": "aufmathahp1_11_01_104"
+			},
+			{
+				"questionNumber": "11.1.110",
+				"watchit": "aufmathahp1_11_01_110"
+			},
+			{
+				"questionNumber": "11.1.114",
+				"watchit": "aufbcm9_11_01_114"
+			},
+			{
+				"questionNumber": "11.1.118",
+				"watchit": "aufmathahp1_11_01_118"
+			},
+			{
+				"questionNumber": "11.1.124",
+				"watchit": "aufmathahp1_11_01_124"
+			},
+			{
+				"questionNumber": "11.1.130",
+				"watchit": "aufbcm9_11_01_130"
+			},
+			{
+				"questionNumber": "11.1.132",
+				"watchit": "aufmathahp1_11_01_132"
+			},
+			{
+				"questionNumber": "11.1.136",
+				"watchit": "aufmathahp1_11_01_136"
+			}
+			
+			]
+		},
+		{
+			"sectionNumber": "2",
+			"questions": [{
+				"questionNumber": "12.2.006",
+				"watchit": "aufbcm9_12_02_006"
+			},
+			{
+				"questionNumber": "12.2.014",
+				"watchit": "aufbcm9_12_02_014"
+			},
+			{
+				"questionNumber": "12.2.024",
+				"watchit": "aufbcm9_12_02_024"
+			},
+			{
+				"questionNumber": "12.2.037",
+				"watchit": "aufbcm9_12_02_037"
+			}]
+		},
+		{
+			"sectionNumber": "3",
+			"questions": [{
+				"questionNumber": "12.3.004",
+				"watchit": "aufbcm9_12_03_004"
+			},
+			{
+				"questionNumber": "12.3.014",
+				"watchit": "aufbcm9_12_03_014"
+			},
+			{
+				"questionNumber": "12.3.026",
+				"watchit": "aufbcm9_12_03_026"
+			},
+			{
+				"questionNumber": "12.3.032",
+				"watchit": "aufbcm9_12_03_032"
+			},
+			{
+				"questionNumber": "12.3.040",
+				"watchit": "aufbcm9_12_03_040"
+			},
+			{
+				"questionNumber": "12.3.047",
+				"watchit": "aufbcm9_12_03_047"
+			}]
+		},
+		{
+			"sectionNumber": "4",
+			"questions": [{
+				"questionNumber": "12.4.006",
+				"watchit": "aufbcm9_12_04_006"
+			},
+			{
+				"questionNumber": "12.4.012",
+				"watchit": "aufbcm9_12_04_012"
+			},
+			{
+				"questionNumber": "12.4.022",
+				"watchit": "aufbcm9_12_04_022"
+			},
+			{
+				"questionNumber": "12.4.031",
+				"watchit": "aufbcm9_12_04_031"
+			}
+			]
+		},
+		{
+			"sectionNumber": "5",
+			"questions": [
+			{
+				"questionNumber": "12.5.004",
+				"watchit": "aufbcm9_12_05_004"
+			},
+			{
+				"questionNumber": "12.5.016",
+				"watchit": "aufbcm9_12_05_016"
+			},
+			{
+				"questionNumber": "12.5.026",
+				"watchit": "aufbcm9_12_05_026"
+			},
+			{
+				"questionNumber": "12.5.035",
+				"watchit": "aufbcm9_12_05_035"
+			},
+			{
+				"questionNumber": "12.5.040",
+				"watchit": "aufbcm9_12_05_040"
+			}
+			]
+		},
+		{
+			"sectionNumber": "6",
+			"questions": [{
+				"questionNumber": "12.6.004",
+				"watchit": "aufbcm9_12_06_004"
+			},
+			{
+				"questionNumber": "12.6.012",
+				"watchit": "aufbcm9_12_06_012"
+			},
+			{
+				"questionNumber": "12.6.015",
+				"watchit": "aufbcm9_12_06_015"
+			},
+			{
+				"questionNumber": "12.6.017",
+				"watchit": "aufbcm9_12_06_017"
+			},
+			{
+				"questionNumber": "12.6.019",
+				"watchit": "aufbcm9_12_06_019"
+			}]
+		}]
+	},
+	
 	{
 		"chapter": "12",
 		"sections": [{
