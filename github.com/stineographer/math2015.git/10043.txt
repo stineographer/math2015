@@ -70,7 +70,7 @@
 			"name": "Section 1.2",
 			"longName": "Section 1.2: Addition of Whole Numbers",
 			"introduction": [{
-				"text": "<p>Section 1.2: Addition of Whole Numbers</p> <ul> <li>Pages 18 to 33</li> <li>Objectives A to G</li> <li>Look at the odd questions 1 to 189</li> <li>Complete WebAssign Assignment MA006 M1 02 but attempt after completing Section 1.3 material</li> </ul> <p>Section 1.2 Solutions</p> <ul> <li>Pages 9 to 12 of 417</li> </ul>"
+				"text": "<p>Section 1.2: Addition of Whole Numbers</p> <ul> <li>Pages 8 to 15</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 02K</li> </ul> <p>Section 1.2 Solutions</p> <ul> <li>Pages 1 to 4</li> </ul>"
 			},
 			{
 				"kaltura_entryId": "1_pcs4d9v7",
@@ -78,15 +78,15 @@
 				"text": "Getting Started Video (10:36)"
 			}],
 			"book": [{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=18",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 18 to 33",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch1.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 8 to 15",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=9",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 9 to 12",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=1",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 1 to 4",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -106,24 +106,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0009/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0202/toc.html",
 				"img": "tut.png",
-				"text": "Converting Fractions, Decimals, and Percents"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0248/toc.html",
-				"img": "tut.png",
-				"text": "Operations with Rational Numbers"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0011/toc.html",
-				"img": "tut.png",
-				"text": "Exponents"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0058/toc.html",
-				"img": "tut.png",
-				"text": "Simplifying Radical Expressions"
+				"text": "Addition of Whole Numbers"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.06-prac1/1.html",
@@ -136,7 +121,7 @@
 				"text": "Multiplication and Division of Rational Numbers"
 			}],
 			"assignment": [{
-				"lti": "MA006 M1 02<br />After Completing Section 1.3"
+				"lti": "MATH 10043 M1 02K"
 			}]
 		},
 		{
