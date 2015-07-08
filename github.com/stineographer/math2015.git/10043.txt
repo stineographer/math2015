@@ -128,7 +128,7 @@
 			"name": "Section 1.3",
 			"longName": "Section 1.3: Subtraction of Whole Numbers",
 			"introduction": [{
-				"text": "<p>Section 1.3: Subtraction of Whole Numbers</p> <ul> <li>Pages 34 to 37</li> <li>Objective A</li> <li>Look at the odd questions 1 to 35</li> <li>WebAssign Assignment<br />MA006 M1 02</li> </ul> <p>Section 1.3 Solutions</p> <ul> <li>Pages 12 to 13 of 417</li> </ul>"
+				"text": "<p>Section 1.3: Subtraction of Whole Numbers</p> <ul> <li>Pages 16 to 23</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 03K</li> </ul> <p>Section 1.3 Solutions</p> <ul> <li>Pages 4 to 8</li> </ul>"
 			},{
 				"kaltura_entryId": "1_9le2864f",
 				"img": "Book_Video.png",
@@ -136,15 +136,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=34",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 34 to 37",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch1.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 16 to 23",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=12",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 12 to 13",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=4",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 4 to 8",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -164,9 +164,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0206/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0522/toc.html",
 				"img": "tut.png",
-				"text": "Exponential Notation and the Order of Operations Agreement"
+				"text": "Subtraction of Whole Numbers"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.04-prac1/1.html",
@@ -174,7 +174,7 @@
 				"text": "Exponents and the Order of Operations Agreement"
 			}],
 			"assignment": [{
-				"lti": "MA006 M1 02"
+				"lti": "MATH 10043 M1 03K"
 			}]
 		},
 		{
