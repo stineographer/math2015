@@ -3750,21 +3750,94 @@
 		},
 		{
 			"sectionNumber": "4",
-			"questions": [{
-				"questionNumber": "12.4.006",
-				"watchit": "aufbcm9_12_04_006"
+			"questions": [
+			{
+				"questionNumber": "11.4.002",
+				"watchit": "aufmathahp1_11_04_002"
 			},
 			{
-				"questionNumber": "12.4.012",
-				"watchit": "aufbcm9_12_04_012"
+				"questionNumber": "11.4.004",
+				"watchit": "aufbcm9_11_04_004"
 			},
 			{
-				"questionNumber": "12.4.022",
-				"watchit": "aufbcm9_12_04_022"
+				"questionNumber": "11.4.010",
+				"watchit": "aufmathahp1_11_04_010"
 			},
 			{
-				"questionNumber": "12.4.031",
-				"watchit": "aufbcm9_12_04_031"
+				"questionNumber": "11.4.016",
+				"watchit": "aufmathahp1_11_04_016"
+			},
+			{
+				"questionNumber": "11.4.022",
+				"watchit": "aufbcm9_11_04_022"
+			},
+			{
+				"questionNumber": "11.4.024",
+				"watchit": "aufmathahp1_11_04_024"
+			},
+			{
+				"questionNumber": "11.4.030",
+				"watchit": "aufmathahp1_11_04_030"
+			},
+			{
+				"questionNumber": "11.4.032",
+				"watchit": "aufbcm9_11_04_032"
+			},
+			{
+				"questionNumber": "11.4.038",
+				"watchit": "aufmathahp1_11_04_038"
+			},
+			{
+				"questionNumber": "11.4.044",
+				"watchit": "aufmathahp1_11_04_044"
+			},
+			{
+				"questionNumber": "11.4.046",
+				"watchit": "aufbcm9_11_04_046"
+			},
+			{
+				"questionNumber": "11.4.052",
+				"watchit": "aufmathahp1_11_04_052"
+			},
+			{
+				"questionNumber": "11.4.062",
+				"watchit": "aufmathahp1_11_04_062"
+			},
+			{
+				"questionNumber": "11.4.068",
+				"watchit": "aufmathahp1_11_04_068"
+			},
+			{
+				"questionNumber": "11.4.070",
+				"watchit": "aufbcm9_11_04_070"
+			},
+			{
+				"questionNumber": "11.4.076",
+				"watchit": "aufmathahp1_11_04_076"
+			},
+			{
+				"questionNumber": "11.4.082",
+				"watchit": "aufmathahp1_11_04_082"
+			},
+			{
+				"questionNumber": "11.4.088",
+				"watchit": "aufmathahp1_11_04_088"
+			},
+			{
+				"questionNumber": "11.4.094",
+				"watchit": "aufmathahp1_11_04_094"
+			},
+			{
+				"questionNumber": "11.4.096",
+				"watchit": "aufbcm9_11_04_096"
+			},
+			{
+				"questionNumber": "11.4.102",
+				"watchit": "aufmathahp1_11_04_102"
+			},
+			{
+				"questionNumber": "11.4.106",
+				"watchit": "aufmathahp1_11_04_106"
 			}
 			]
 		},
