@@ -437,13 +437,13 @@
 	},
 	
 	{
-		"name": "Chapter 2",
+		"name": "MODULE 1",
 		"longName": "Chapter 2: Fractions",
 		"chapter": [{
 			"name": "Section 2.1",
 			"longName": "Section 2.1: The Least Common Multiple and Greatest Common Factor",
 			"introduction": [{
-				"text": "<p>Section 2.1:  The Least Common Multiple and Greatest Common Factor</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 22 to 26 of 417</li> </ul>"
+				"text": "<p>Section 2.1:  The Least Common Multiple and Greatest Common Factor</p> <ul> <li>Pages 63 to 67</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 08K </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 26 to 27</li> </ul>"
 			},{
 				"kaltura_entryId": "1_62g0jj62",
 				"img": "Book_Video.png",
@@ -451,15 +451,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=75",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 75 to 83 and 87 to 93",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch2.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 63 to 67",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=22",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 22 to 26",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=26",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 26 to 27",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -479,24 +479,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0251/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0208/toc.html",
 				"img": "tut.png",
-				"text": "Introduction to Solving Equations"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0555/toc.html",
-				"img": "tut.png",
-				"text": "Solving Equations Using Properties of Equality"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
-				"img": "tut.png",
-				"text": "Percent Equations"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
-				"img": "tut.png",
-				"text": "Problems Involving Rates"
+				"text": "The Least Common Multiple and Greatest Common Factor"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
@@ -504,14 +489,14 @@
 				"text": "Introduction to Equations"
 			}],
 			"assignment": [{
-				"lti": "MA006 M2 01"
+				"lti": "MATH 10043 M1 08K"
 			}]
 		},
 		{
 			"name": "Section 2.2",
 			"longName": "Section 2.2: Introduction to Fractions",
 			"introduction": [{
-				"text": "<p>Section 2.2: Introduction to Fractions</p> <ul> <li>Pages 95 to 101 and 103 to 106</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 139</li>  <li>WebAssign Assignment MA006 M2 02</li> </ul> <p>Section 2.2 Solutions</p> <ul> <li>Pages 29 to 37 of 417 </li> </ul>"
+				"text": "<p>Section 2.2: Introduction to Fractions</p> <ul> <li>Pages 68 to 71</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 09K</li> </ul> <p>Section 2.2 Solutions</p> <ul> <li>Pages 27 to 28</li> </ul>"
 			},{
 				"kaltura_entryId": "1_12r72omn",
 				"img": "Book_Video.png",
@@ -519,15 +504,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=95",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 95 to 101 and 103 to 106",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch2.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 68 to 71",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=29",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 29 to 37",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=27",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 27 to 28",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -548,14 +533,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0547/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0209/toc.html",
 				"img": "tut.png",
-				"text": "Solving General First-Degree Linear Equations in 1 Variable"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0252/toc.html",
-				"img": "tut.png",
-				"text": "Solving Other Types of Equations"
+				"text": "Introduction to Fractions"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.02-prac1/1.html",
@@ -563,14 +543,14 @@
 				"text": "General Equations Part I"
 			}],
 			"assignment": [{
-				"lti": "MA006 M2 02"
+				"lti": "MATH 10043 M1 09K"
 			}]
 		},
 		{
 			"name": "Section 2.3",
 			"longName": "Section 2.3: Writing Equivalent Fractions",
 			"introduction": [{
-				"text": "<p>Section 2.3: Writing Equivalent Fractions</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
+				"text": "<p>Section 2.3: Writing Equivalent Fractions</p> <ul> <li>Pages 72 to 75</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 10K</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 28 to 30</li> </ul>"
 			},{
 				"kaltura_entryId": "0_2wa8vqd4",
 				"img": "Book_Video.png",
@@ -578,15 +558,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=109",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 109 to 115",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch2.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 72 to 75",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=38",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 38 to 41",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=28",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 28 to 30",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -607,14 +587,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0019/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0210/toc.html",
 				"img": "tut.png",
-				"text": "Constructing Equations to Solve Problems"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0557/toc.html",
-				"img": "tut.png",
-				"text": "Translating Sentences into Equations"
+				"text": "Writing Equivalent Fractions"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
@@ -622,14 +597,14 @@
 				"text": "General Equations Part II"
 			}],
 			"assignment": [{
-				"lti": "MA006 M2 03"
+				"lti": "MATH 10043 M1 10K"
 			}]
 		},
 		{
 			"name": "Section 2.4",
 			"longName": "Section 2.4: Addition of Fractions and Mixed Numbers",
 			"introduction": [{
-				"text": "<p>Section 2.4: Addition of Fractions and Mixed Numbers</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
+				"text": "<p>Section 2.4: Addition of Fractions and Mixed Numbers</p> <ul> <li>Pages 76 to 83</li> <li>All objectives</li> <li>Look at all odd numbered</li>  <li>WebAssign Assignment MATH 10043 M1 11K</li> </ul> <p>Section 2.4 Solutions</p> <ul> <li>Pages 30 to 33</li> </ul>"
 			},{
 				"kaltura_entryId": "0_2wa8vqd4",
 				"img": "Book_Video.png",
@@ -637,15 +612,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=109",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 109 to 115",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch2.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 76 to 83",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=38",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 38 to 41",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=30",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 30 to 33",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -666,14 +641,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0019/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0211/toc.html",
 				"img": "tut.png",
-				"text": "Constructing Equations to Solve Problems"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0557/toc.html",
-				"img": "tut.png",
-				"text": "Translating Sentences into Equations"
+				"text": " Addition of Fractions and Mixed Numbers"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
@@ -681,14 +651,14 @@
 				"text": "General Equations Part II"
 			}],
 			"assignment": [{
-				"lti": "MA006 M2 03"
+				"lti": "MATH 10043 M1 11K"
 			}]
 		},
 		{
 			"name": "Section 2.5",
 			"longName": "Section 2.5: Subtraction of Fractions and Mixed Numbers",
 			"introduction": [{
-				"text": "<p>Section 2.5:  Subtraction of Fractions and Mixed Numbers</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 22 to 26 of 417</li> </ul>"
+				"text": "<p>Section 2.5:  Subtraction of Fractions and Mixed Numbers</p> <ul> <li>Pages 84 to 91</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 12K </li> </ul> <p>Section 2.5 Solutions</p> <ul> <li>Pages 33 to 36</li> </ul>"
 			},{
 				"kaltura_entryId": "1_62g0jj62",
 				"img": "Book_Video.png",
@@ -696,15 +666,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=75",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 75 to 83 and 87 to 93",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch2.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 84 to 91",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=22",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 22 to 26",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=33",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 33 to 36",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -725,24 +695,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0251/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0212/toc.html",
 				"img": "tut.png",
-				"text": "Introduction to Solving Equations"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0555/toc.html",
-				"img": "tut.png",
-				"text": "Solving Equations Using Properties of Equality"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
-				"img": "tut.png",
-				"text": "Percent Equations"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
-				"img": "tut.png",
-				"text": "Problems Involving Rates"
+				"text": "Subtraction of Fractions and Mixed Numbers"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
@@ -750,14 +705,14 @@
 				"text": "Introduction to Equations"
 			}],
 			"assignment": [{
-				"lti": "MA006 M2 01"
+				"lti": "MATH 101043 M1 12K"
 			}]
 		},
 		{
 			"name": "Section 2.6",
 			"longName": "Section 2.6: Multiplication of Fractions and Mixed Numbers",
 			"introduction": [{
-				"text": "<p>Section 2.6:  Multiplication of Fractions and Mixed Numbers</p> <ul> <li>Pages 95 to 101 and 103 to 106</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 139</li>  <li>WebAssign Assignment MA006 M2 02</li> </ul> <p>Section 2.2 Solutions</p> <ul> <li>Pages 29 to 37 of 417 </li> </ul>"
+				"text": "<p>Section 2.6:  Multiplication of Fractions and Mixed Numbers</p> <ul> <li>Pages 92 to 99</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>WebAssign Assignment MATH 10043 M1 13K</li> </ul> <p>Section 2.6 Solutions</p> <ul> <li>Pages 37 to 39</li> </ul>"
 			},{
 				"kaltura_entryId": "1_12r72omn",
 				"img": "Book_Video.png",
@@ -765,15 +720,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=95",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 95 to 101 and 103 to 106",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch2.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 92 to 99",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=29",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 29 to 37",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=37",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 37 to 39",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -795,14 +750,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0547/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0213/toc.html",
 				"img": "tut.png",
-				"text": "Solving General First-Degree Linear Equations in 1 Variable"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0252/toc.html",
-				"img": "tut.png",
-				"text": "Solving Other Types of Equations"
+				"text": "Multiplication of Fractions and Mixed Numbers"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.02-prac1/1.html",
@@ -810,14 +760,14 @@
 				"text": "General Equations Part I"
 			}],
 			"assignment": [{
-				"lti": "MA006 M2 02"
+				"lti": "MATH 10043 M1 13K"
 			}]
 		},
 		{
 			"name": "Section 2.7",
 			"longName": "Section 2.7: Division of Fractions and Mixed Numbers",
 			"introduction": [{
-				"text": "<p>Section 2.7: Division of Fractions and Mixed Numbers</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
+				"text": "<p>Section 2.7: Division of Fractions and Mixed Numbers</p> <ul> <li>Pages 100 to 108</li> <li>All objectives/li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 14K</li> </ul> <p>Section 2.7 Solutions</p> <ul> <li>Pages 39 to 44</li> </ul>"
 			},{
 				"kaltura_entryId": "0_2wa8vqd4",
 				"img": "Book_Video.png",
@@ -825,15 +775,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=109",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 109 to 115",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch2.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 100 to 108",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=38",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 38 to 41",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=39",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 39 to 44",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -854,14 +804,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0019/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0214/toc.html",
 				"img": "tut.png",
-				"text": "Constructing Equations to Solve Problems"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0557/toc.html",
-				"img": "tut.png",
-				"text": "Translating Sentences into Equations"
+				"text": "Division of Fractions and Mixed Numbers"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
@@ -869,14 +814,14 @@
 				"text": "General Equations Part II"
 			}],
 			"assignment": [{
-				"lti": "MA006 M2 03"
+				"lti": "MATH 10043 M1 15K"
 			}]
 		},
 		{
 			"name": "Section 2.8",
 			"longName": "Section 2.8: Order, Exponents, and the Order of Operations Agreement",
 			"introduction": [{
-				"text": "<p>Section 2.8: Order, Exponents, and the Order of Operations Agreement</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
+				"text": "<p>Section 2.8: Order, Exponents, and the Order of Operations Agreement</p> <ul> <li>Pages 109 to 112</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 15K</li> </ul> <p>Section 2.8 Solutions</p> <ul> <li>Pages 44 to 46</li> </ul>"
 			},{
 				"kaltura_entryId": "0_2wa8vqd4",
 				"img": "Book_Video.png",
@@ -884,15 +829,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=109",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 109 to 115",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch2.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 109 to 112",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=38",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 38 to 41",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=44",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 44 to 46",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -910,16 +855,6 @@
 				"href": "PowerPoint/M2/PPM02C02S03.pdf",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
-			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0019/toc.html",
-				"img": "tut.png",
-				"text": "Constructing Equations to Solve Problems"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0557/toc.html",
-				"img": "tut.png",
-				"text": "Translating Sentences into Equations"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
