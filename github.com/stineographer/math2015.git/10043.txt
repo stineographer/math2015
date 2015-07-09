@@ -536,7 +536,14 @@
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0209/toc.html",
 				"img": "tut.png",
 				"text": "Introduction to Fractions"
-			}],
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0527/toc.html",
+				"img": "tut.png",
+				"text": "Ordering Fractions"
+			}
+			
+			],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.02-prac1/1.html",
 				"img": "acethetest.png",
@@ -869,13 +876,13 @@
 	]
 	},
 	{
-		"name": "Chapter 3",
+		"name": "MODULE 1",
 		"longName": "Chapter 3: Decimals",
 		"chapter": [{
 			"name": "Section 3.1",
 			"longName": "Section 3.1: Introduction to Decimals",
 			"introduction": [{
-				"text": "<p>Section 3.1: Introduction to Decimals</p> <ul> <li>Pages 347 to 359</li> <li>All Objectives</li> <li>Look at all odd numbered questions 1 to 123</li>  <li>WebAssign Assignment MA006 M3 01</li> </ul> <p>Chapter 6.1 Solutions</p> <ul> <li>Pages 167 to 170 of 304</li> </ul>"
+				"text": "<p>Section 3.1: Introduction to Decimals</p> <ul> <li>Pages 125 to 131</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 16K</li> </ul> <p>Chapter 3.1 Solutions</p> <ul> <li>Pages 56 to 57</li> </ul>"
 			},{
 				"kaltura_entryId": "1_5fak1716",
 				"img": "Book_Video.png",
@@ -883,15 +890,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=347",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 347 to 359",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch3.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 125 to 131",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=167",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 167 to 170",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=56",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 56 to 57",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -912,14 +919,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0036/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0216/toc.html",
 				"img": "tut.png",
-				"text": "Multiplication and Powers of Monomials"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0037/toc.html",
-				"img": "tut.png",
-				"text": "Exponents and Scientific Notation"
+				"text": "Introduction to Decimals"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.01-prac1/1.html",
@@ -927,14 +929,14 @@
 				"text": "Exponential Expressions"
 			}],
 			"assignment": [{
-				"lti": "MA006 M3 01"
+				"lti": "MATH 10043 M1 16K"
 			}]
 		},
 		{
 			"name": "Section 3.2",
 			"longName": "Section 3.2: Addition of Decimals",
 			"introduction": [{
-				"text": "<p>Section 3.2: Addition of Decimals</p> <ul> <li>Pages 360 to 367</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 39</li>  <li>WebAssign Assignment MA006 M3 02 attempt after completing Section 6.3 material</li> </ul> <p>Section 6.2 Solutions</p> <ul> <li>Pages 170 to 171 of 417</li> </ul>"
+				"text": "<p>Section 3.2: Addition of Decimals</p> <ul> <li>Pages 132 to 135</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M1 17K</li> </ul> <p>Section 3.2 Solutions</p> <ul> <li>Pages 57 to 58</li> </ul>"
 			},{
 				"kaltura_entryId": "1_1v2wir2b",
 				"img": "Book_Video.png",
@@ -942,15 +944,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=360",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 360 to 367",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch3.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 132 to 135",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=170",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 170 to 171",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=57",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 57 to 58",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -970,34 +972,25 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0038/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0217/toc.html",
 				"img": "tut.png",
-				"text": "Introduction to Polynomials"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0044/toc.html",
-				"img": "tut.png",
-				"text": "Graphing Polynomial Functions by Point Plotting"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0039/toc.html",
-				"img": "tut.png",
-				"text": "Adding and Subtracting Polynomials"
-			}],
+				"text": "Addition of Decimals"
+			}
+			],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
 				"img": "acethetest.png",
 				"text": "Multiplication of Polynomials"
 			}],
 			"assignment": [{
-				"lti": "MA006 M3 02"
+				"lti": "MATH 10043 M1 17K"
 			}]
 		},
 		{
 			"name": "Section 3.3",
 			"longName": "Section 3.3: Subtraction of Decimals",
 			"introduction": [{
-				"text": "<p>Section 3.3: Subtraction of Decimals</p> <ul> <li>Pages 368 to 372 and 374 to 376</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 87</li>  <li>WebAssign Assignment MA006 M3 02</li> </ul> <p>Section 6.3 Solutions</p> <ul> <li>Pages 172 to 173 of 417</li> </ul>"
+				"text": "<p>Section 3.3: Subtraction of Decimals</p> <ul> <li>Pages 136 to 139</li> <li>All Objectives</li> <li>Look at all the odd numbered questions</li>  <li>WebAssign Assignment MATH 10043 M1 18K</li> </ul> <p>Section 3.3 Solutions</p> <ul> <li>Pages 58 to 60</li> </ul>"
 			},{
 				"kaltura_entryId": "1_tsvy37e9",
 				"img": "Book_Video.png",
@@ -1005,15 +998,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=368",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 368 to 372 and 374 to 376",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch3.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 136 to 139",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=172",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />172 to 173",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=58",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />58 to 60",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1035,14 +1028,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0553/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0217/toc.html",
 				"img": "tut.png",
-				"text": "Multiplication of Polynomials"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0041/toc.html",
-				"img": "tut.png",
-				"text": "Binomial and Special Polynomial Products"
+				"text": "Subtraction of Decimals"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
@@ -1050,14 +1038,14 @@
 				"text": "Multiplication of Polynomials"
 			}],
 			"assignment": [{
-				"lti": "MA006 M3 02"
+				"lti": "MATH 10043 M1 18K"
 			}]
 		},
 		{
 			"name": "Section 3.4",
 			"longName": "Section 3.4: Multiplication of Decimals",
 			"introduction": [{
-				"text": "<p>Section 3.4: Multiplication of Decimals</p> <ul> <li>Pages 378 to 380 and 385 to 386</li> <li>Objectives A and B, Objective C not covered</li> <li>Look at the odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M3 03</li> </ul> <p>Section 6.3 Solutions</p> <ul> <li>Pages 175 to 177 of 417</li> </ul>"
+				"text": "<p>Section 3.4: Multiplication of Decimals</p> <ul> <li>Pages 140 to 149</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 19K</li> </ul> <p>Section 3.4 Solutions</p> <ul> <li>Pages 60 to 64</li> </ul>"
 			},{
 				"kaltura_entryId": "1_yj5ss17c",
 				"img": "Book_Video.png",
@@ -1065,15 +1053,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=378",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 378 to 380 and 385 to 386",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch3.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 140 to 149",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=175",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 175 to 177",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=60",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 60 to 64",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1094,14 +1082,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0042/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0218/toc.html",
 				"img": "tut.png",
-				"text": "Dividing Polynomials"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0043/toc.html",
-				"img": "tut.png",
-				"text": "Synthetic Division"
+				"text": "Multiplication of Decimals"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.04-prac1/1.html",
@@ -1109,14 +1092,14 @@
 				"text": "Division of Polynomials"
 			}],
 			"assignment": [{
-				"lti": "MA006 M3 03"
+				"lti": "MATH 10043 M1 19K"
 			}]
 		},
 		{
 			"name": "Section 3.5",
 			"longName": "Section 3.5: Division of Decimals",
 			"introduction": [{
-				"text": "<p>Section 3.5: Division of Decimals</p> <ul> <li>Pages 378 to 380 and 385 to 386</li> <li>Objectives A and B, Objective C not covered</li> <li>Look at the odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M3 03</li> </ul> <p>Section 6.3 Solutions</p> <ul> <li>Pages 175 to 177 of 417</li> </ul>"
+				"text": "<p>Section 3.5: Division of Decimals</p> <ul> <li>Pages 150 to 158</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 20K</li> </ul> <p>Section 3.5 Solutions</p> <ul> <li>Pages 64 to 68</li> </ul>"
 			},{
 				"kaltura_entryId": "1_yj5ss17c",
 				"img": "Book_Video.png",
@@ -1124,15 +1107,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=378",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 378 to 380 and 385 to 386",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch3.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 150 to 158",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=175",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 175 to 177",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=64",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 64 to 68",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1154,14 +1137,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0042/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0218/toc.html",
 				"img": "tut.png",
-				"text": "Dividing Polynomials"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0043/toc.html",
-				"img": "tut.png",
-				"text": "Synthetic Division"
+				"text": "Division of Decimals"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.04-prac1/1.html",
@@ -1169,14 +1147,14 @@
 				"text": "Division of Polynomials"
 			}],
 			"assignment": [{
-				"lti": "MA006 M3 03"
+				"lti": "MATH 10043 M1 20K"
 			}]
 		},
 		{
 			"name": "Section 3.6",
 			"longName": "Section 3.6: Comparing and Converting Fractions and Decimals",
 			"introduction": [{
-				"text": "<p>Section 3.6: Comparing and Converting Fractions and Decimals</p> <ul> <li>Pages 378 to 380 and 385 to 386</li> <li>Objectives A and B, Objective C not covered</li> <li>Look at the odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M3 03</li> </ul> <p>Section 6.3 Solutions</p> <ul> <li>Pages 175 to 177 of 417</li> </ul>"
+				"text": "<p>Section 3.6: Comparing and Converting Fractions and Decimals</p> <ul> <li>Pages 159 to 162</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 21K</li> </ul> <p>Section 3.6 Solutions</p> <ul> <li>Pages 68 to 70</li> </ul>"
 			},{
 				"kaltura_entryId": "1_yj5ss17c",
 				"img": "Book_Video.png",
@@ -1184,15 +1162,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=378",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 378 to 380 and 385 to 386",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch3.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 159 to 162",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=175",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 175 to 177",
+				"href": "hhttps://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=68",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 68 to 70",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1213,14 +1191,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0042/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0219/toc.html",
 				"img": "tut.png",
-				"text": "Dividing Polynomials"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0043/toc.html",
-				"img": "tut.png",
-				"text": "Synthetic Division"
+				"text": "Comparing and Converting Fractions and Decimals"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.04-prac1/1.html",
@@ -1228,7 +1201,7 @@
 				"text": "Division of Polynomials"
 			}],
 			"assignment": [{
-				"lti": "MA006 M3 03"
+				"lti": "MATH 10043 M1 21K"
 			}]
 		}
 		]
