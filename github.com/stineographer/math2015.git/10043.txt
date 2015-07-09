@@ -1376,13 +1376,13 @@
 	},
 	
 	{
-		"name": "Chapter 5",
+		"name": "MODULE 2",
 		"longName": "Chapter 5: Percents",
 		"chapter": [{
 			"name": "Section 5.1",
 			"longName": "Section 5.1: Introduction to Percents",
 			"introduction": [{
-				"text": "<p>Section 5.1: Introduction to Percents</p> <ul> <li>Pages 347 to 359</li> <li>All Objectives</li> <li>Look at all odd numbered questions 1 to 123</li>  <li>WebAssign Assignment MA006 M3 01</li> </ul> <p>Chapter 6.1 Solutions</p> <ul> <li>Pages 167 to 170 of 304</li> </ul>"
+				"text": "<p>Section 5.1: Introduction to Percents</p> <ul> <li>Pages 201 to 205</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 04</li> </ul> <p>Chapter 5.1 Solutions</p> <ul> <li>Pages 94 to 95</li> </ul>"
 			},{
 				"kaltura_entryId": "1_5fak1716",
 				"img": "Book_Video.png",
@@ -1390,21 +1390,21 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=347",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 347 to 359",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch5.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 201 to 205",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=167",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 167 to 170",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=94",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 94 to 95",
 				"target": "sol_book",
 				"secure": true
 			}],
 			"video": [{
-				"cengage_vidName": "auf_bcm_ch3_3_1",
-				"text": "4.1: Introduction to Decimals (13:58)",
+				"cengage_vidName": "auf_bcm_ch5_5_1",
+				"text": "5.1: Introduction to Percents (22:07)",
 				"secure": true
 				
 			},
@@ -1419,30 +1419,33 @@
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
 			}],
-			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0036/toc.html",
+			"tutorial": [
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0223/toc.html",
 				"img": "tut.png",
-				"text": "Multiplication and Powers of Monomials"
+				"text": "Introduction to Percents"
 			},
 			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0037/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0009/toc.html",
 				"img": "tut.png",
-				"text": "Exponents and Scientific Notation"
-			}],
+				"text": "Converting Fractions, Decimals, and Percents"
+			}
+			
+			],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.01-prac1/1.html",
 				"img": "acethetest.png",
 				"text": "Exponential Expressions"
 			}],
 			"assignment": [{
-				"lti": "MA006 M3 01"
+				"lti": "MATH 10043 M2 04K"
 			}]
 		},
 		{
 			"name": "Section 5.2",
 			"longName": "Section 5.2: Percent Equations: Part I",
 			"introduction": [{
-				"text": "<p>Section 5.2: Percent Equations: Part I</p> <ul> <li>Pages 360 to 367</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 39</li>  <li>WebAssign Assignment MA006 M3 02 attempt after completing Section 6.3 material</li> </ul> <p>Section 6.2 Solutions</p> <ul> <li>Pages 170 to 171 of 417</li> </ul>"
+				"text": "<p>Section 5.2: Percent Equations: Part I</p> <ul> <li>Pages 206 to 209</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M2 05K</li> </ul> <p>Section 5.2 Solutions</p> <ul> <li>Pages 95 to 97</li> </ul>"
 			},{
 				"kaltura_entryId": "1_1v2wir2b",
 				"img": "Book_Video.png",
@@ -1450,21 +1453,21 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=360",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 360 to 367",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch5.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 201 to 205",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=170",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 170 to 171",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=95",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 206 to 209",
 				"target": "sol_book",
 				"secure": true
 			}],
 			"video": [{
-				"cengage_vidName": "auf_bcm_ch3_3_2",
-				"text": "5.2: Addition of Decimals (9:15)",
+				"cengage_vidName": "auf_bcm_ch5_5_2",
+				"text": "5.2: Percent Equations: Part I (16:55)",
 				"secure": true
 			},
 			{
@@ -1479,19 +1482,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0038/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
 				"img": "tut.png",
-				"text": "Introduction to Polynomials"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0044/toc.html",
-				"img": "tut.png",
-				"text": "Graphing Polynomial Functions by Point Plotting"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0039/toc.html",
-				"img": "tut.png",
-				"text": "Adding and Subtracting Polynomials"
+				"text": "Percent Equations"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
@@ -1499,14 +1492,14 @@
 				"text": "Multiplication of Polynomials"
 			}],
 			"assignment": [{
-				"lti": "MA006 M3 02"
+				"lti": "MATH 10043 M2 05K"
 			}]
 		},
 		{
 			"name": "Section 5.3",
 			"longName": "Section 5.3: Percent Equations: Part II",
 			"introduction": [{
-				"text": "<p>Section 5.3: Percent Equations: Part II</p> <ul> <li>Pages 368 to 372 and 374 to 376</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 87</li>  <li>WebAssign Assignment MA006 M3 02</li> </ul> <p>Section 6.3 Solutions</p> <ul> <li>Pages 172 to 173 of 417</li> </ul>"
+				"text": "<p>Section 5.3: Percent Equations: Part II</p> <ul> <li>Pages 210 to 213</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M2 06K</li> </ul> <p>Section 5.3 Solutions</p> <ul> <li>Pages 97 to 99</li> </ul>"
 			},{
 				"kaltura_entryId": "1_tsvy37e9",
 				"img": "Book_Video.png",
@@ -1514,21 +1507,21 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=368",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 368 to 372 and 374 to 376",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch5.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 210 to 213",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=172",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />172 to 173",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=97",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />97 to 99",
 				"target": "sol_book",
 				"secure": true
 			}],
 			"video": [{
-				"cengage_vidName": "auf_bcm_ch3_3_3",
-				"text": "5.3: Subtraction of Decimals (10:09)",
+				"cengage_vidName": "auf_bcm_ch5_5_3",
+				"text": "5.3: Percent Equations: Part II (14:14)",
 				"secure": true
 				
 			},
@@ -1542,14 +1535,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0553/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
 				"img": "tut.png",
-				"text": "Multiplication of Polynomials"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0041/toc.html",
-				"img": "tut.png",
-				"text": "Binomial and Special Polynomial Products"
+				"text": "Percent Equations"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
@@ -1557,14 +1545,14 @@
 				"text": "Multiplication of Polynomials"
 			}],
 			"assignment": [{
-				"lti": "MA006 M3 02"
+				"lti": "MATH 10043 M2 06K"
 			}]
 		},
 		{
 			"name": "Section 5.4",
 			"longName": "Section 5.4: Percent Equations: Part III",
 			"introduction": [{
-				"text": "<p>Section 5.4: Percent Equations: Part III</p> <ul> <li>Pages 368 to 372 and 374 to 376</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 87</li>  <li>WebAssign Assignment MA006 M3 02</li> </ul> <p>Section 6.3 Solutions</p> <ul> <li>Pages 172 to 173 of 417</li> </ul>"
+				"text": "<p>Section 5.4: Percent Equations: Part III</p> <ul> <li>Pages 214 to 217</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 07K</li> </ul> <p>Section 5.4 Solutions</p> <ul> <li>Pages 99 to 100</li> </ul>"
 			},{
 				"kaltura_entryId": "1_tsvy37e9",
 				"img": "Book_Video.png",
@@ -1572,21 +1560,21 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=368",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 368 to 372 and 374 to 376",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch5.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 214 to 217",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=172",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />172 to 173",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=99",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />99 to 100",
 				"target": "sol_book",
 				"secure": true
 			}],
 			"video": [{
-				"cengage_vidName": "auf_bcm_ch3_3_3",
-				"text": "5.4: Subtraction of Decimals (10:09)",
+				"cengage_vidName": "auf_bcm_ch5_5_4",
+				"text": "5.4: Percent Equations: Part III (10:57)",
 				"secure": true
 				
 			},
@@ -1600,14 +1588,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0553/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
 				"img": "tut.png",
-				"text": "Multiplication of Polynomials"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0041/toc.html",
-				"img": "tut.png",
-				"text": "Binomial and Special Polynomial Products"
+				"text": "Percent Equations"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
@@ -1615,14 +1598,14 @@
 				"text": "Multiplication of Polynomials"
 			}],
 			"assignment": [{
-				"lti": "MA006 M3 02"
+				"lti": "MATH M2 07K"
 			}]
 		},
 		{
 			"name": "Section 5.5",
 			"longName": "Section 5.5: Percent Problems: Proportion Method",
 			"introduction": [{
-				"text": "<p>Section 5.5: Percent Problems: Proportion Method</p> <ul> <li>Pages 368 to 372 and 374 to 376</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 87</li>  <li>WebAssign Assignment MA006 M3 02</li> </ul> <p>Section 6.3 Solutions</p> <ul> <li>Pages 172 to 173 of 417</li> </ul>"
+				"text": "<p>Section 5.5: Percent Problems: Proportion Method</p> <ul> <li>Pages 218 to 221</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 08K</li> </ul> <p>Section 5.5 Solutions</p> <ul> <li>Pages 101 to 103</li> </ul>"
 			},{
 				"kaltura_entryId": "1_tsvy37e9",
 				"img": "Book_Video.png",
@@ -1630,21 +1613,21 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=368",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 368 to 372 and 374 to 376",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch5.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 218 to 221",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=172",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />172 to 173",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=101",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />101 to 103",
 				"target": "sol_book",
 				"secure": true
 			}],
 			"video": [{
-				"cengage_vidName": "auf_bcm_ch3_3_3",
-				"text": "5.5: Subtraction of Decimals (10:09)",
+				"cengage_vidName": "auf_bcm_ch5_5_5",
+				"text": "5.5: Percent Problems: Proportion Method (9:51)",
 				"secure": true
 				
 			},
@@ -1658,14 +1641,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0553/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0225/toc.html",
 				"img": "tut.png",
-				"text": "Multiplication of Polynomials"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0041/toc.html",
-				"img": "tut.png",
-				"text": "Binomial and Special Polynomial Products"
+				"text": "Percent Problems: Proportion Method"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
@@ -1673,7 +1651,7 @@
 				"text": "Multiplication of Polynomials"
 			}],
 			"assignment": [{
-				"lti": "MA006 M3 02"
+				"lti": "MATH M2 08K"
 			}]
 		}
 		]
