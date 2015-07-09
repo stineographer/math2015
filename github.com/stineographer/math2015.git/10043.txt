@@ -181,7 +181,7 @@
 			"name": "Section 1.4",
 			"longName": "Section 1.4: Multiplication of Whole Numbers",
 			"introduction": [{
-				"text": "<p>Section 1.4: Multiplication of Whole Numbers</p> <ul> <li>Pages 38 to 55</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 209</li> <li>WebAssign Assignment MA006 M1 03</li> </ul> <p>Section 1.4 Solutions</p> <ul> <li>Pages 13 to 16 of 417</li> </ul>"
+				"text": "<p>Section 1.4: Multiplication of Whole Numbers</p> <ul> <li>Pages 24 to 31</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M1 04K</li> </ul> <p>Section 1.4 Solutions</p> <ul> <li>Pages 8 to 10</li> </ul>"
 			},{
 				"kaltura_entryId": "1_tc5tf1cg",
 				"img": "Book_Video.png",
@@ -189,15 +189,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=38",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 38 to 55",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch1.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 24 to 31",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=13",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 13 to 16",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=8",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 8 to 10",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -218,19 +218,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0250/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0204/toc.html",
 				"img": "tut.png",
-				"text": "Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0013/toc.html",
-				"img": "tut.png",
-				"text": "Evaluating Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0012/toc.html",
-				"img": "tut.png",
-				"text": "Variable Expressions and Verbal Expressions"
+				"text": "Multiplication of Whole Numbers"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.01-prac1/1.html",
@@ -248,14 +238,14 @@
 				"text": "Translating Verbal Expressions into Variable Expressions"
 			}],
 			"assignment": [{
-				"lti": "MA006 M1 03"
+				"lti": "MATH 10043 M1 04K"
 			}]
 		},
 		{
 			"name": "Section 1.5",
-			"longName": "Section 1.5:  Division of Whole Numbers",
+			"longName": "Section 1.5: Division of Whole Numbers",
 			"introduction": [{
-				"text": "<p>Section 1.5:  Division of Whole Numbers</p> <ul> <li>Pages 38 to 55</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 209</li> <li>WebAssign Assignment MA006 M1 03</li> </ul> <p>Section 1.4 Solutions</p> <ul> <li>Pages 13 to 16 of 417</li> </ul>"
+				"text": "<p>Section 1.5: Division of Whole Numbers</p> <ul> <li>Pages 32 to 44</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 05K</li> </ul> <p>Section 1.5 Solutions</p> <ul> <li>Pages 11 to 15</li> </ul>"
 			},{
 				"kaltura_entryId": "1_tc5tf1cg",
 				"img": "Book_Video.png",
@@ -263,15 +253,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=38",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 38 to 55",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch1.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 32 to 44",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=13",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 13 to 16",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=11",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 11 to 15",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -292,19 +282,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0250/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0205/toc.html",
 				"img": "tut.png",
-				"text": "Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0013/toc.html",
-				"img": "tut.png",
-				"text": "Evaluating Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0012/toc.html",
-				"img": "tut.png",
-				"text": "Variable Expressions and Verbal Expressions"
+				"text": "Division of Whole Numbers"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.01-prac1/1.html",
@@ -322,14 +302,14 @@
 				"text": "Translating Verbal Expressions into Variable Expressions"
 			}],
 			"assignment": [{
-				"lti": "MA006 M1 03"
+				"lti": "MATH 10043 M1 05K"
 			}]
 		},
 		{
 			"name": "Section 1.6",
 			"longName": "Section 1.6: Exponential Notation and the Order of Operations Agreement",
 			"introduction": [{
-				"text": "<p>Section 1.6: Exponential Notation and the Order of Operations Agreement</p> <ul> <li>Pages 38 to 55</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 209</li> <li>WebAssign Assignment MA006 M1 03</li> </ul> <p>Section 1.4 Solutions</p> <ul> <li>Pages 13 to 16 of 417</li> </ul>"
+				"text": "<p>Section 1.6: Exponential Notation and the Order of Operations Agreement</p> <ul> <li>Pages 45 to 48</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M1 06K</li> </ul> <p>Section 1.6 Solutions</p> <ul> <li>Pages 15 to 16</li> </ul>"
 			},{
 				"kaltura_entryId": "1_tc5tf1cg",
 				"img": "Book_Video.png",
@@ -337,15 +317,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=38",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 38 to 55",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch1.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 45 to 48",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=13",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 13 to 16",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=15",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 15 to 16",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -365,19 +345,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0250/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0206/toc.html",
 				"img": "tut.png",
-				"text": "Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0013/toc.html",
-				"img": "tut.png",
-				"text": "Evaluating Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0012/toc.html",
-				"img": "tut.png",
-				"text": "Variable Expressions and Verbal Expressions"
+				"text": "Exponential Notation and the Order of Operations Agreement"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.01-prac1/1.html",
@@ -395,14 +365,14 @@
 				"text": "Translating Verbal Expressions into Variable Expressions"
 			}],
 			"assignment": [{
-				"lti": "MA006 M1 03"
+				"lti": "MATH 10043 M1 06K"
 			}]
 		},
 		{
 			"name": "Section 1.7",
 			"longName": "Section 1.7: Prime Numbers and Factoring",
 			"introduction": [{
-				"text": "<p>Section 1.7: Prime Numbers and Factoring</p> <ul> <li>Pages 38 to 55</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 209</li> <li>WebAssign Assignment MA006 M1 03</li> </ul> <p>Section 1.4 Solutions</p> <ul> <li>Pages 13 to 16 of 417</li> </ul>"
+				"text": "<p>Section 1.7: Prime Numbers and Factoring</p> <ul> <li>Pages 49 to 52</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 07K</li> </ul> <p>Section 1.7 Solutions</p> <ul> <li>Pages 16 to 19</li> </ul>"
 			},{
 				"kaltura_entryId": "1_tc5tf1cg",
 				"img": "Book_Video.png",
@@ -410,15 +380,15 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=38",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 38 to 55",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch1.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 49 to 52",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=13",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 13 to 16",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=16",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 16 to 19",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -437,19 +407,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0250/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0207/toc.html",
 				"img": "tut.png",
-				"text": "Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0013/toc.html",
-				"img": "tut.png",
-				"text": "Evaluating Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0012/toc.html",
-				"img": "tut.png",
-				"text": "Variable Expressions and Verbal Expressions"
+				"text": "Prime Numbers and Factoring"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.01-prac1/1.html",
@@ -467,7 +427,7 @@
 				"text": "Translating Verbal Expressions into Variable Expressions"
 			}],
 			"assignment": [{
-				"lti": "MA006 M1 03"
+				"lti": "MATH 10043 M1 07K"
 			}]
 		}
 		
