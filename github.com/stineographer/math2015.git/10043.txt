@@ -1168,7 +1168,7 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "hhttps://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=68",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=68",
 				"img": "BCM_sol.jpg",
 				"text": "Solution Manual<br />Pages 68 to 70",
 				"target": "sol_book",
@@ -1208,13 +1208,13 @@
 	},
 	
 	{
-		"name": "Chapter 4",
+		"name": "MODULE 2",
 		"longName": "Chapter 4: Ratio and Proportion",
 		"chapter": [{
 			"name": "Section 4.1",
 			"longName": "Section 4.1: Ratio",
 			"introduction": [{
-				"text": "<p>Section 4.1: Ratio</p> <ul> <li>Pages 347 to 359</li> <li>All Objectives</li> <li>Look at all odd numbered questions 1 to 123</li>  <li>WebAssign Assignment MA006 M3 01</li> </ul> <p>Chapter 6.1 Solutions</p> <ul> <li>Pages 167 to 170 of 304</li> </ul>"
+				"text": "<p>Section 4.1: Ratio</p> <ul> <li>Pages 173 to 177</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 01K</li> </ul> <p>Chapter 4.1 Solutions</p> <ul> <li>Pages 78 to 79</li> </ul>"
 			},{
 				"kaltura_entryId": "1_5fak1716",
 				"img": "Book_Video.png",
@@ -1222,21 +1222,21 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=347",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 347 to 359",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch4.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 173 to 177",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=167",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 167 to 170",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=78",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 173 to 177",
 				"target": "sol_book",
 				"secure": true
 			}],
 			"video": [{
-				"cengage_vidName": "auf_bcm_ch3_3_1",
-				"text": "4.1: Ratio (13:58)",
+				"cengage_vidName": "auf_bcm_ch4_4_1",
+				"text": "4.1: Ratio (7:59)",
 				"secure": true
 				
 			},
@@ -1252,14 +1252,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0036/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0220/toc.html",
 				"img": "tut.png",
-				"text": "Multiplication and Powers of Monomials"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0037/toc.html",
-				"img": "tut.png",
-				"text": "Exponents and Scientific Notation"
+				"text": "Ratio"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.01-prac1/1.html",
@@ -1267,14 +1262,14 @@
 				"text": "Exponential Expressions"
 			}],
 			"assignment": [{
-				"lti": "MA006 M3 01"
+				"lti": "MATH 10043 M2 01K"
 			}]
 		},
 		{
 			"name": "Section 4.2",
 			"longName": "Section 4.2: Rates",
 			"introduction": [{
-				"text": "<p>Section 4.2: Rates</p> <ul> <li>Pages 360 to 367</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 39</li>  <li>WebAssign Assignment MA006 M3 02 attempt after completing Section 6.3 material</li> </ul> <p>Section 6.2 Solutions</p> <ul> <li>Pages 170 to 171 of 417</li> </ul>"
+				"text": "<p>Section 4.2: Rates</p> <ul> <li>Pages 360 to 367</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 02K</li> </ul> <p>Section 4.2 Solutions</p> <ul> <li>Pages 79 to 81</li> </ul>"
 			},{
 				"kaltura_entryId": "1_1v2wir2b",
 				"img": "Book_Video.png",
@@ -1282,21 +1277,21 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=360",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 360 to 367",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch4.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 178 to 181",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=170",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 170 to 171",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=79",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 79 to 81",
 				"target": "sol_book",
 				"secure": true
 			}],
 			"video": [{
-				"cengage_vidName": "auf_bcm_ch3_3_2",
-				"text": "4.2: Addition of Decimals (9:15)",
+				"cengage_vidName": "auf_bcm_ch4_4_2",
+				"text": "4.2: Rates (10:29)",
 				"secure": true
 			},
 			{
@@ -1311,19 +1306,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0038/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0221/toc.html",
 				"img": "tut.png",
-				"text": "Introduction to Polynomials"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0044/toc.html",
-				"img": "tut.png",
-				"text": "Graphing Polynomial Functions by Point Plotting"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0039/toc.html",
-				"img": "tut.png",
-				"text": "Adding and Subtracting Polynomials"
+				"text": "Rates"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
@@ -1331,14 +1316,14 @@
 				"text": "Multiplication of Polynomials"
 			}],
 			"assignment": [{
-				"lti": "MA006 M3 02"
+				"lti": "MATH 10043 M2 02K"
 			}]
 		},
 		{
 			"name": "Section 4.3",
 			"longName": "Section 4.3: Proportions",
 			"introduction": [{
-				"text": "<p>Section 4.3: Proportions</p> <ul> <li>Pages 368 to 372 and 374 to 376</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 87</li>  <li>WebAssign Assignment MA006 M3 02</li> </ul> <p>Section 6.3 Solutions</p> <ul> <li>Pages 172 to 173 of 417</li> </ul>"
+				"text": "<p>Section 4.3: Proportions</p> <ul> <li>Pages 182 to 189</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 03K</li> </ul> <p>Section 4.3 Solutions</p> <ul> <li>Pages 81 to 84</li> </ul>"
 			},{
 				"kaltura_entryId": "1_tsvy37e9",
 				"img": "Book_Video.png",
@@ -1346,21 +1331,21 @@
 			}],
 			"book": [
 			{
-				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=368",
-				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 368 to 372 and 374 to 376",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch4.swf",
+				"img": "BCM.jpg",
+				"text": "Full eBook<br />Pages 182 to 189",
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=172",
-				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />172 to 173",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=81",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />81 to 84",
 				"target": "sol_book",
 				"secure": true
 			}],
 			"video": [{
-				"cengage_vidName": "auf_bcm_ch3_3_3",
-				"text": "4.3: Subtraction of Decimals (10:09)",
+				"cengage_vidName": "auf_bcm_ch4_4_3",
+				"text": "4.3: Proportions (15:07)",
 				"secure": true
 				
 			},
@@ -1374,14 +1359,9 @@
 				"text": "Powerpoint Slides"
 			}],
 			"tutorial": [{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0553/toc.html",
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0222/toc.html",
 				"img": "tut.png",
-				"text": "Multiplication of Polynomials"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0041/toc.html",
-				"img": "tut.png",
-				"text": "Binomial and Special Polynomial Products"
+				"text": "Proportions"
 			}],
 			"ace": [{
 				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
@@ -1389,7 +1369,7 @@
 				"text": "Multiplication of Polynomials"
 			}],
 			"assignment": [{
-				"lti": "MA006 M3 02"
+				"lti": "MATH 10043 M2 03K"
 			}]
 		}
 		]
