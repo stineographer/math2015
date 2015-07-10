@@ -2430,75 +2430,204 @@
 	{
 		"name": "Module 5",
 		"longName": "Chapter 12:  Geometry",
-		"chapter": [
-		{
-			"name": "Section 12.2",
-			"longName": "Section 12.2: Plane Geometric Figures",
-			"introduction": 
-			[
-				{
-					"text": "<p>Section 12.2: Plane Geometric Figures</p> <ul> <li>Pages 530 to 539</li> <li>All Objectives</li> <li>Look at the all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M5 01K</li> </ul><p>Section 12.2 Solutions</p> <ul> <li>Pages 271 to 273</li> </ul>"
-				},
-				{
-					"kaltura_entryId": "1_xifis1c8",
-					"img": "Book_Video.png",
-					"text": "Getting Started Video (6:19)"
-				}
-			],
-			"book": 
-			[
-				{
-					"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch12.swf",
-					"img": "BCM.jpg",
-					"text": "Full eBook<br />Pages 530 to 539"
-				},
-				{
-					"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=271",
-					"img": "BCM_sol.jpg",
-					"text": "Solution Manual<br />Pages 271 to 273",
-					"target": "sol_book",
-					"secure": true
-				}
-			],
-			"video": 
-			[
-				{
-					"cengage_vidName": "auf_bcm_ch12_12_2",
-					"text": "12.2:  Plane Geometric Figures (26:59)",
-					"secure": true
-				},
-				{
-					"faq": "faq.html?t=BCM&c=12&s=2"
-				}
-			],
-			"presentation": [{
-				"href": "PowerPoint/M5/PPM05C12.pdf",
-				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
-			}],
-			"tutorial": 
-			[
-				{
-					"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0254/toc.html",
-					"img": "tut.png",
-					"text": "Geometry Problems"
-				},
-				{
-					"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0106/toc.html",
-					"img": "tut.png",
-					"text": "Plane Geometric Figures"
-				}
-			],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part II"
-			}],
-			"assignment": [{
-				"lti": "MATH 10043 M5 01K"
-			}]
-		}]
+		"chapter": 
+		[
+			{
+				"name": "Section 12.2",
+				"longName": "Section 12.2: Plane Geometric Figures",
+				"introduction": 
+				[
+					{
+						"text": "<p>Section 12.2: Plane Geometric Figures</p> <ul> <li>Pages 530 to 539</li> <li>All Objectives</li> <li>Look at the all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M5 01K</li> </ul><p>Section 12.2 Solutions</p> <ul> <li>Pages 273 to 276</li> </ul>"
+					},
+					{
+						"kaltura_entryId": "1_xifis1c8",
+						"img": "Book_Video.png",
+						"text": "Getting Started Video (6:19)"
+					}
+				],
+				"book": 
+				[
+					{
+						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch12.swf",
+						"img": "BCM.jpg",
+						"text": "Full eBook<br />Pages 530 to 539"
+					},
+					{
+						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=273",
+						"img": "BCM_sol.jpg",
+						"text": "Solution Manual<br />Pages 273 to 276",
+						"target": "sol_book",
+						"secure": true
+					}
+				],
+				"video": 
+				[
+					{
+						"cengage_vidName": "auf_bcm_ch12_12_2",
+						"text": "12.2:  Plane Geometric Figures (26:59)",
+						"secure": true
+					},
+					{
+						"faq": "faq.html?t=BCM&c=12&s=2"
+					}
+				],
+				"presentation": [{
+					"href": "PowerPoint/M5/PPM05C12.pdf",
+					"img": "Powerpoint.png",
+					"text": "Powerpoint Slides"
+				}],
+				"tutorial": 
+				[
+					{
+						"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0254/toc.html",
+						"img": "tut.png",
+						"text": "Geometry Problems"
+					},
+					{
+						"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0106/toc.html",
+						"img": "tut.png",
+						"text": "Plane Geometric Figures"
+					}
+				],
+				"ace": [{
+					"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
+					"img": "acethetest.png",
+					"text": "General Equations Part II"
+				}],
+				"assignment": [{
+					"lti": "MATH 10043 M5 01K"
+				}]
+			},
+			
+			{
+				"name": "Section 12.3",
+				"longName": "Section 12.3: Area",
+				"introduction": 
+				[
+					{
+						"text": "<p>Section 12.3: Area</p> <ul> <li>Pages 540 to 547</li> <li>All Objectives</li> <li>Look at the all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M5 02K</li> </ul><p>Section 12.3 Solutions</p> <ul> <li>Pages 276 to 279</li> </ul>"
+					},
+					{
+						"kaltura_entryId": "1_xifis1c8",
+						"img": "Book_Video.png",
+						"text": "Getting Started Video (6:19)"
+					}
+				],
+				"book": 
+				[
+					{
+						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch12.swf",
+						"img": "BCM.jpg",
+						"text": "Full eBook<br />Pages 540 to 547"
+					},
+					{
+						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=276",
+						"img": "BCM_sol.jpg",
+						"text": "Solution Manual<br />Pages 276 to 279",
+						"target": "sol_book",
+						"secure": true
+					}
+				],
+				"video": 
+				[
+					{
+						"cengage_vidName": "auf_bcm_ch12_12_3",
+						"text": "12.3:  Area (27:55)",
+						"secure": true
+					},
+					{
+						"faq": "faq.html?t=BCM&c=12&s=3"
+					}
+				],
+				"presentation": [{
+					"href": "PowerPoint/M5/PPM05C12.pdf",
+					"img": "Powerpoint.png",
+					"text": "Powerpoint Slides"
+				}],
+				"tutorial": 
+				[
+					{
+						"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0256/toc.html",
+						"img": "tut.png",
+						"text": "Area"
+					}
+				],
+				"ace": [{
+					"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
+					"img": "acethetest.png",
+					"text": "General Equations Part II"
+				}],
+				"assignment": [{
+					"lti": "MATH 10043 M5 02K"
+				}]
+			},
+			
+			{
+				"name": "Section 12.4",
+				"longName": "Section 12.4: Volume",
+				"introduction": 
+				[
+					{
+						"text": "<p>Section 12.4: Volume</p> <ul> <li>Pages 548 to 557</li> <li>All Objectives</li> <li>Look at the all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M5 03K</li> </ul><p>Section 12.4 Solutions</p> <ul> <li>Pages 279 to 282</li> </ul>"
+					},
+					{
+						"kaltura_entryId": "1_xifis1c8",
+						"img": "Book_Video.png",
+						"text": "Getting Started Video (6:19)"
+					}
+				],
+				"book": 
+				[
+					{
+						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch12.swf",
+						"img": "BCM.jpg",
+						"text": "Full eBook<br />Pages 548 to 557"
+					},
+					{
+						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=279",
+						"img": "BCM_sol.jpg",
+						"text": "Solution Manual<br />Pages 279 to 282",
+						"target": "sol_book",
+						"secure": true
+					}
+				],
+				"video": 
+				[
+					{
+						"cengage_vidName": "auf_bcm_ch12_12_4",
+						"text": "12.4:  Volume (19:07)",
+						"secure": true
+					},
+					{
+						"faq": "faq.html?t=BCM&c=12&s=4"
+					}
+				],
+				"presentation": [{
+					"href": "PowerPoint/M5/PPM05C12.pdf",
+					"img": "Powerpoint.png",
+					"text": "Powerpoint Slides"
+				}],
+				"tutorial": 
+				[
+					{
+						"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0257/toc.html",
+						"img": "tut.png",
+						"text": "Volume"
+					}
+				],
+				"ace": [{
+					"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
+					"img": "acethetest.png",
+					"text": "General Equations Part II"
+				}],
+				"assignment": [{
+					"lti": "MATH 10043 M5 03K"
+				}]
+			}
+		]
 	}
-	
-	]
+]
 }
+	
+	
