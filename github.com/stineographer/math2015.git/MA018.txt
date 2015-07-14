@@ -1,0 +1,1072 @@
+{
+	"module": [{
+		"name": "Module 1",
+		"longName": "Module 1: Rational Expressions",
+		"chapter": [{
+			"name": "Section 8.1",
+			"longName": "Section 8.1: Multiplication and Division of Rational Expressions",
+			"introduction": [{
+				"kaltura_entryId": "1_unri6eg0",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (12:28)"
+			}],
+			"book": [{
+				"text": "<p>Section 8.1: Multiplication and Division of Rational Expressions</p> <ul> <li>Pages 457 to 465</li> <li>Objectives A to C</li> <li>Look at the odd questions 1 to 79</li> <li>WebAssign Assignment MA018 M1 01</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=457",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 457 to 465",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=224",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 8 Section 1",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch8_8_1",
+				"text": "8.1: Multiplication and Division of Rational Expressions",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=8&s=1"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M1/PPM01C08S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0050/toc.html",
+				"img": "tut.png",
+				"text": "Rational Expressions and Equations"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0051/toc.html",
+				"img": "tut.png",
+				"text": "Multiplying and Dividing Rational Expressions"
+			}],
+				"assignment": [{
+				"lti": "MA018 M1 01"
+			}]
+		},
+		{
+			"name": "Section 8.2",
+			"longName": "Section 8.2: Addition and Subtraction of Rational Expressions",
+			"introduction": [{
+				"kaltura_entryId": "1_73f5gcfp",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (15:34)"
+			}],
+			"book": [{
+				"text": "<p>Section 8.2: Addition and Subtraction of Rational Expressions</p> <ul> <li>Pages 466 to 473</li> <li>Objectives A & B</li> <li>Look at the odd questions 1 to 83</li> <li>WebAssign Assignment MA018 M1 02</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=466",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 466 to 473",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=227",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 8 Section 2",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch8_8_2",
+				"text": "8.2: Addition and Subtraction of Rational Expressions",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=8&s=2"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M1/PPM01C08S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0052/toc.html",
+				"img": "tut.png",
+				"text": "Adding and Subtracting Rational Expressions"
+			}],
+			"assignment": [{
+				"lti": "MA018 M1 02"
+			}]
+		},
+		{
+			"name": "Section 8.3",
+			"longName": "Section 8.3:  Complex Fractions",
+			"introduction": [{
+				"kaltura_entryId": "1_eb6a63d2",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (9:58)"
+			}],
+			"book": [{
+				"text": "<p>Section 8.3:  Complex Fractions</p> <ul> <li>Pages 474 to 477</li> <li>Objective A</li> <li>Look at the odd questions 1 to 45</li> <li>WebAssign Assignment<br />MA018 M1 03<br />after completing Section 8.4</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=474",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 474 to 477",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=233",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 8 Section 3",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch8_8_3",
+				"text": "8.3: Complex Fractions",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=8&s=3"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M1/PPM01C08S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0052/toc.html",
+				"img": "tut.png",
+				"text": "Simplifying Complex Fractions"
+			}],
+			"assignment": [{
+				"lti": "MA018 M1 03<br />after completing Section 8.4"
+			}]
+		},
+		{
+			"name": "Section 8.4",
+			"longName": "Section 8.4: Solving Equations Containing Fractions",
+			"introduction": [{
+				"kaltura_entryId": "1_q0a3j1b1",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (7:22)"
+			}],
+			"book": [{
+				"text": "<p>Section 8.4: Solving Equations Containing Fractions</p> <ul> <li>Pages 478 to 481</li> <li>Objective A</li> <li>Look at the odd questions 1 to 35</li> <li>WebAssign Assignment MA018 M1 03</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=478",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 478 to 481",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=237",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 8 Section 4",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch8_8_4",
+				"text": "8.4: Solving Equations Containing Fractions",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=8&s=4"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M1/PPM01C08S04.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0018/toc.html",
+				"img": "tut.png",
+				"text": "Constructing Equations to Solve Problems"
+			}],
+			"assignment": [{
+				"lti": "MA018 M1 03"
+			}]
+		},
+		{
+			"name": "Section 8.5",
+			"longName": "Section 8.5: Ratio and Proportion",
+			"introduction": [{
+				"kaltura_entryId": "1_7k5b35oz",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (2:40)"
+			}],
+			"book": [{
+				"text": "<p>Section 8.5: Ratio and Proportion</p> <ul> <li>Pages 482 to 483 and 486 to 487</li> <li>Objective A & B only</li> <li>Look at the odd questions 1 to 29</li> <li>WebAssign Assignment MA018 M1 04<br />after completing Section 8.6</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=482",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 482 to 483 and 486 to 487",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=241",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 8 Section 5",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch8_8_5",
+				"text": "8.5: Ratio and Proportion",
+				"secure": true,
+				"end": "1126"
+			},
+			{
+				"faq": "faq.html?t=IIA&c=8&s=5"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M1/PPM01C08S05.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0054/toc.html",
+				"img": "tut.png",
+				"text": "Solving Proportions"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0543/toc.html",
+				"img": "tut.png",
+				"text": "Similar and Congruent Triangles"
+			}],
+			"assignment": [{
+				"lti": "MA018 M1 04<br />after completing Section 8.6"
+			}]
+		},
+		{
+			"name": "Section 8.6",
+			"longName": "Section 8.6: Literal Equations",
+			"introduction": [{
+				"kaltura_entryId": "1_jw18eijp",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (5:29)"
+			}],
+			"book": [{
+				"text": "<p>Section 8.6: Literal Equations</p> <ul> <li>Pages 490 to 493</li> <li>Objective A</li> <li>Look at the odd questions 1 to 39</li> <li>WebAssign Assignment MA018 M1 04</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=490",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 490 to 493",
+				"prependLti": "true"
+			},
+			{
+				"href": "Extra_Files/IIA_Solution_Manual_Sec8.6.pdf",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 8 Section 6",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch8_8_6",
+				"text": "8.6: Literal Equations",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=8&s=6"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M1/PPM01C08S06.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0018/toc.html",
+				"img": "tut.png",
+				"text": "Constructing Equations to Solve Problems"
+			}],
+			"assignment": [{
+				"lti": "MA018 M1 04"
+			}]
+		}]
+	},
+	{
+		"name": "Module 2",
+		"longName": "Module 2: Linear Functions",
+		"chapter": [{
+			"name": "Section 4.1",
+			"longName": "Section 4.1:  The Rectangular Coordinate System",
+			"introduction": [{
+				"kaltura_entryId": "1_z1brm0wv",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:51)"
+			}],
+			"book": [{
+				"text": "<p>Section 4.1:  The Rectangular Coordinate System</p> <ul> <li>Pages 221 to 231</li> <li>Objectives A to C</li> <li>Look at the odd questions 1 to 39</li>  <li>WebAssign Assignment MA018 M2 01 </li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=221",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 221 to 231",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=93",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 4 Section 1",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch4_4_1",
+				"text": "4.1: The Rectangular Coordinate System",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=4&s=1"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C04S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Graph_Paper.pdf",
+				"img": "Graph_Paper.gif",
+				"text": "Graph Paper"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0558/toc.html",
+				"img": "tut.png",
+				"text": "The Rectangular Coordinate System"
+			}],
+			"assignment": [{
+				"lti": "MA018 M2 01"
+			}]
+		},
+		{
+			"name": "Section 4.2",
+			"longName": "Section 4.2:  Introduction to Functions",
+			"introduction": [{
+				"kaltura_entryId": "1_e0jw4g4y",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (13:35)"
+			}],
+			"book": [{
+				"text": "<p>Section 4.2:  Introduction to Functions</p> <ul> <li>Pages 232 to 243</li> <li>Objective A</li> <li>Look at the odd questions 1 to 91</li>  <li>WebAssign Assignment MA018 M2 02</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=232",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 232 to 243",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=96",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 4 Section 2",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch4_4_2",
+				"text": "4.2: Introduction to Functions",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=4&s=2"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C04S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0002/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Functions"
+			}],
+			"assignment": [{
+				"lti": "MA018 M2 02"
+			}]
+		},
+		{
+			"name": "Section 4.3",
+			"longName": "Section 4.3:  Linear Functions",
+			"introduction": [{
+				"kaltura_entryId": "1_w6arl6x7",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (8:24)"
+			}],
+			"book": [{
+				"text": "<p>Section 4.3:  Linear Functions</p> <ul> <li>Pages 244 to 255</li> <li>Objectives A and D</li> <li>Look at odd questions 1 to 47</li>  <li>WebAssign Assignment MA018 M2 03<br />after completing Section 4.4</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=244",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 244 to 255",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=98",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 4 Section 3",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch4_4_3",
+				"text": "4.3: Linear Functions",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=4&s=3"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C04S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Graph_Paper.pdf",
+				"img": "Graph_Paper.gif",
+				"text": "Graph Paper"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0027/toc.html",
+				"img": "tut.png",
+				"text": "Graphing Linear Equations of the Form Ax + By = C"
+			}],
+			"assignment": [{
+				"lti": "MA018 M2 03<br />after completing Section 4.4"
+			}]
+		},
+		{
+			"name": "Section 4.4",
+			"longName": "Section 4.4:  Slope of a Straight Line",
+			"introduction": [{
+				"kaltura_entryId": "1_q92cfgfm",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (12:08)"
+			}],
+			"book": [{
+				"text": "<p>Section 4.4:  Slope of a Straight Line</p> <ul> <li>Pages 256 to 265</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 51</li>  <li>WebAssign Assignment MA018 M2 03</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=256",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 256 to 265",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=102",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 4 Section 4",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch4_4_4",
+				"text": "4.4: Slope of a Straight Line",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=4&s=4"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C04S04.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Graph_Paper.pdf",
+				"img": "Graph_Paper.gif",
+				"text": "Graph Paper"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0001/toc.html",
+				"img": "tut.png",
+				"text": "Slope of a Line"
+			}],
+			"assignment": [{
+				"lti": "MA018 M2 03"
+			}]
+		},
+		{
+			"name": "Section 4.5",
+			"longName": "Section 4.5:  Finding the Equations of Lines",
+			"introduction": [{
+				"kaltura_entryId": "1_t33frezj",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:33)"
+			}],
+			"book": [{
+				"text": "<p>Section 4.5:  Finding the Equations of Lines</p> <ul> <li>Pages 267 to 275</li> <li>Objectives A to C</li> <li>Look at odd questions 1 to 95</li>  <li>WebAssign Assignment MA018 M2 04<br />after completing Section 4.6</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=267",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 267 to 275",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=105",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 4 Section 5",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch4_4_5",
+				"text": "4.5: Finding Equations of Lines",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=4&s=5"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C04S05.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0029/toc.html",
+				"img": "tut.png",
+				"text": "Writing Equations of Lines Given Two or More Points"
+			}],
+			"assignment": [{
+				"lti": "MA018 M2 04<br />after completing Section 4.6"
+			}]
+		},
+		{
+			"name": "Section 4.6",
+			"longName": "Section 4.6:  Parallel and Perpendicular Lines",
+			"introduction": [{
+				"kaltura_entryId": "1_edpr26wh",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (8:10)"
+			}],
+			"book": [{
+				"text": "<p>Section 4.6:  Parallel and Perpendicular Lines</p> <ul> <li>Pages 276 to 281</li> <li>Objective A</li> <li>Look at odd questions 1 to 33</li>  <li>WebAssign Assignment MA018 M2 04</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=276",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 276 to 281",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=112",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 4 Section 6",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch4_4_6",
+				"text": "4.6: Parallel and Perpendicular Lines",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=4&s=6"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C04S06.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0030/toc.html",
+				"img": "tut.png",
+				"text": "Parallel and Perpendicular Lines"
+			}],
+			"assignment": [{
+				"lti": "MA018 M2 04"
+			}]
+		}]
+	},
+	{
+		"name": "Module 3",
+		"longName": "Module 3:  Systems of Linear Equations",
+		"chapter": [{
+			"name": "Section 5.1",
+			"longName": "Section 5.1:  Solving Systems of Linear Equations by Graphing and by the Substitution Method",
+			"introduction": [{
+				"kaltura_entryId": "1_ezeov1ez",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (23:31)"
+			}],
+			"book": [{
+				"text": "<p>Section 5.1:  Solving Systems of Linear Equations by Graphing and by the Substitution Method</p> <ul> <li>Pages 299 to 311</li> <li>Objectives A to C</li> <li>Look at all odd numbered questions 1 to 69</li>  <li>WebAssign Assignment MA018 M3 01</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=299",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 299 to 311",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=128",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 5 Section 1",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch5_5_1",
+				"text": "5.1: Solving Systems of Linear Equations by Graphing and Substitution",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=5&s=1"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C05S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Graph_Paper.pdf",
+				"img": "Graph_Paper.gif",
+				"text": "Graph Paper"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0003/toc.html",
+				"img": "tut.png",
+				"text": "Solving Systems of Linear Equations in Two Variables"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0020/toc.html",
+				"img": "tut.png",
+				"text": "Solving a Simple Interest Problem"
+			}],
+			"assignment": [{
+				"lti": "MA018 M3 01"
+			}]
+		},
+		{
+			"name": "Section 5.2",
+			"longName": "Section 5.2:  Solving Systems of Linear Equations by the Addition Method",
+			"introduction": [{
+				"kaltura_entryId": "0_uwccn55h",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:32)"
+			}],
+			"book": [{
+				"text": "<p>Section 5.2:  Solving Systems of Linear Equations by the Addition Method</p> <ul> <li>Pages 312 to 323</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 67</li>  <li>WebAssign Assignment MA018 M3 02</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=312",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 312 to 323",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=134",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 5 Section 2",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch5_5_2",
+				"text": "5.2: Solving Systems of Linear Equations by the Addition Method",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=5&s=2"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C05S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0003/toc.html",
+				"img": "tut.png",
+				"text": "Solving Systems of Linear Equations by the Addition Method"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0297/toc.html",
+				"img": "tut.png",
+				"text": "Numbers of Solutions and Applications of Linear Systems with Three Variables"
+			}],
+			"assignment": [{
+				"lti": "MA018 M3 02"
+			}]
+		},
+		{
+			"name": "Section 5.3",
+			"longName": "Section 5.3:  Application Problems",
+			"introduction": [{
+				"kaltura_entryId": "0_rl1ldsa0",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (3:11)"
+			}],
+			"book": [{
+				"text": "<p>Section 5.3:  Application Problems</p> <ul> <li>Pages 324 to 330</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 29</li>  <li>WebAssign Assignment MA018 M3 03</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=324",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 324 to 330",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=145",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 5 Section 3",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch5_5_4",
+				"text": "5.3: Application Problems",
+				"secure": true,
+				"vl": "auf_algii_ch5_5_3"
+			},
+			{
+				"faq": "faq.html?t=IIA&c=5&s=3"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C05S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"assignment": [{
+				"lti": "MA018 M3 03"
+			}]
+		}]
+	},
+	{
+		"name": "Module 4",
+		"longName": "Module 4:  Exponential and Logarithmic Functions",
+		"chapter": [{
+			"name": "Section 12.1",
+			"longName": "Section 12.1:  Exponential Functions",
+			"introduction": [{
+				"kaltura_entryId": "1_98yv0hui",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (9:19)"
+			}],
+			"book": [{
+				"text": "<p>Section 12.1:  Exponential Functions</p> <ul> <li>Pages 673 to 680</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 37</li>  <li>WebAssign Assignment MA018 M4 01</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=673",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 673 to 680",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=365",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 12 Section 1",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch12_12_1",
+				"text": "12.1: Exponential Functions",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=12&s=1"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M4/PPM04C12S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Graph_Paper.pdf",
+				"img": "Graph_Paper.gif",
+				"text": "Graph Paper"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0082/toc.html",
+				"img": "tut.png",
+				"text": "Exponential Functions"
+			}],
+			"assignment": [{
+				"lti": "MA018 M4 01"
+			}]
+		},
+		{
+			"name": "Section 12.2",
+			"longName": "Section 12.2:  Introduction to Logarithms",
+			"introduction": [{
+				"kaltura_entryId": "1_4yu7k75r",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (10:37)"
+			}],
+			"book": [{
+				"text": "<p>Section 12.2:  Introduction to Logarithms</p> <ul> <li>Pages 681 to 691</li> <li>Objectives A to C</li> <li>Look at the odd questions 1 to 127</li>  <li>WebAssign Assignment MA018 M4 02</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=681",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 681 to 691",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=368",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 12 Section 2",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch12_12_2",
+				"text": "12.2: Introduction Logarithms",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=12&s=2"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M4/PPM04C12S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Log_Rules.pdf",
+				"img": "Rules.png",
+				"text": "Properties of Logarithms"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0083/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Logarithms"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0084/toc.html",
+				"img": "tut.png",
+				"text": "Graphs and Properties of Logarithms"
+			}],
+			"assignment": [{
+				"lti": "MA018 M4 02"
+			}]
+		},
+		{
+			"name": "Section 12.3",
+			"longName": "Section 12.3:  Graphs of Logarithmic Functions",
+			"introduction": [{
+				"kaltura_entryId": "1_5742sitf",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (3:12)"
+			}],
+			"book": [{
+				"text": "<p>Section 12.3:  Graphs of Logarithmic Functions</p> <ul> <li>Pages 692 to 695</li> <li>Objective A</li> <li>Look at the odd questions 1 to 23</li>  <li>WebAssign Assignment MA018 M4 03<br />after completing Section 12.4 </li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=692",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 692 to 695",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=371",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 12 Section 3",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch12_12_3",
+				"text": "12.3: Graphs and Logarithmic Functions",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=12&s=3"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M4/PPM04C12S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Graph_Paper.pdf",
+				"img": "Graph_Paper.gif",
+				"text": "Graph Paper"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0084/toc.html",
+				"img": "tut.png",
+				"text": "Graphs and Properties of Logarithms"
+			}],
+			"assignment": [{
+				"lti": "MA018 M4 03<br />after completing Section 12.4"
+			}]
+		},
+		{
+			"name": "Section 12.4",
+			"longName": "Section 12.4:  Solving Exponential and Logarithmic Equations",
+			"introduction": [{
+				"kaltura_entryId": "1_3fwttnzq",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (7:10)"
+			}],
+			"book": [{
+				"text": "<p>Section 12.4:  Solving Exponential and Logarithmic Equations</p> <ul> <li>Pages 696 to 701</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 53</li>  <li>WebAssign Assignment MA018 M4 03</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=696",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 696 to 701",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=373",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 12 Section 4",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch12_12_4",
+				"text": "12.4: Solving Logarithmic and Exponential Equations",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=12&s=4"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M4/PPM04C12S04.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0086/toc.html",
+				"img": "tut.png",
+				"text": "Exponential and Logarithmic Equations"
+			}],			
+			"assignment": [{
+				"lti": "MA018 M4 03"
+			}]
+		}]
+	},
+	{
+		"name": "Module 5",
+		"longName": "Module 5:  Geometry (Chapter 12 BCM)",
+		"chapter": [{
+			"name": "Chapter 12",
+			"longName": "Module 5:  Geometry (Chapter 12 BCM)",
+			"introduction": [{
+				"kaltura_entryId": "1_xifis1c8",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:19)"
+			}],
+			"book": [{
+				"text": "<p>Module 5:  Geometry (Chapter 12 BCM)</p> <ul> <li>Read Chapter 12 Pages 517 to 561</li> <li>Sections 12.1 to 12.6 all Objectives</li> <li>Look at the all odd numbered questions</li><li>Watch the textbook section videos</li>  <li>WebAssign Assignment MA018 M5 01 to 04</li> </ul>"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch12.swf",
+				"img": "BCM.jpg",
+				"text": "Chapter 12"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=275",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />BCM Chapter 12",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch12_12_1",
+				"text": "12.1:  Angles, Lines, and Geometric Figures (51:56)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch12_12_2",
+				"text": "12.2:  Plane Geometric Figures (26:59)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch12_12_3",
+				"text": "12.3:  Area (27:56)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch12_12_4",
+				"text": "12.4:  Volume (19:08)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch12_12_5",
+				"text": "12.5:  The Pythagorean Theorem (31:28)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch12_12_6",
+				"text": "12.6:  Similar and Congruent Triangles (15:35)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=BCM&c=12"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M5/PPM05C12.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Table_of_Geometric_Formulas.pdf",
+				"img": "Geometry_Formulas.png",
+				"text": "Formula Sheet"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0254/toc.html",
+				"img": "tut.png",
+				"text": "Angles, Lines, and Geometric Figures"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0106/toc.html",
+				"img": "tut.png",
+				"text": "Geometry Problems"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0255/toc.html",
+				"img": "tut.png",
+				"text": "Plane Geometric Figures"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0566/toc.html",
+				"img": "tut.png",
+				"text": "Composite Figures"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0256/toc.html",
+				"img": "tut.png",
+				"text": "Area"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0257/toc.html",
+				"img": "tut.png",
+				"text": "Volume"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0258/toc.html",
+				"img": "tut.png",
+				"text": "The Pythagorean Theorem"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0259/toc.html",
+				"img": "tut.png",
+				"text": "Similar and Congruent Triangles"
+			}],
+			"assignment": [{
+				"lti": "Section 12.1:  MA018 05 01"
+			},
+			{
+				"lti": "Section 12.2:  MA018 M5 02"
+			},
+			{
+				"lti": "Sections 12.3 and 12.4:  MA018 M5 03"
+			},
+			{
+				"lti": "Sections 12.5 and 12.6:  MA018 M5 04"
+			}]
+		}]
+	}]
+}

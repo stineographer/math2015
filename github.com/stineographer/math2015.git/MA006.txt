@@ -1,0 +1,1241 @@
+{
+	"module": [{
+		"name": "Module 1",
+		"longName": "Module 1: Integers, Exponents and Order of Operations",
+		"chapter": [{
+			"name": "Section 1.1",
+			"longName": "Section 1.1: Introduction to Integers",
+			"introduction": [{
+				"kaltura_entryId": "1_k3fqapmz",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (20:43)"
+			}],
+			"book": [{
+				"text": "<p>Section 1.1: Introduction to Integers</p> <ul> <li>Pages 1 to 17</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 189</li> <li>WebAssign Assignment MA006 M1 01</li> </ul> <br /> <p>Section 1.1 Solutions</p> <ul> <li>Pages 6 to 9 of 417</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=1",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 1 to 17",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=6",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 6 to 9",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch1_1_1",
+				"text": "1.1: Integers (45:55)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=1&s=1"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M1/PPM01C01S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0246/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Integers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0007/toc.html",
+				"img": "tut.png",
+				"text": "Opposites and Absolute Value"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0008/toc.html",
+				"img": "tut.png",
+				"text": "Operations with Integers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0247/toc.html",
+				"img": "tut.png",
+				"text": "Operations with Integers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0526/toc.html",
+				"img": "tut.png",
+				"text": "Multiplying and Dividing Integers"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M1 01"
+			}]
+		},
+		{
+			"name": "Section 1.2",
+			"longName": "Section 1.2: Rational & Irrational Numbers",
+			"introduction": [{
+				"kaltura_entryId": "1_pcs4d9v7",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (10:36)"
+			}],
+			"book": [{
+				"text": "<p>Section 1.2: Rational Numbers</p> <ul> <li>Pages 18 to 33</li> <li>Objectives A to G</li> <li>Look at the odd questions 1 to 189</li> <li>Complete WebAssign Assignment MA006 M1 02 but attempt after completing Section 1.3 material</li> </ul> <br /> <p>Section 1.2 Solutions</p> <ul> <li>Pages 9 to 12 of 417</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=18",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 18 to 33",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=9",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 9 to 12",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch1_1_2",
+				"text": "1.2: Rational and Irrational Numbers (66:08)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=1&s=2"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M1/PPM01C01S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0009/toc.html",
+				"img": "tut.png",
+				"text": "Converting Fractions, Decimals, and Percents"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0248/toc.html",
+				"img": "tut.png",
+				"text": "Operations with Rational Numbers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0011/toc.html",
+				"img": "tut.png",
+				"text": "Exponents"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0058/toc.html",
+				"img": "tut.png",
+				"text": "Simplifying Radical Expressions"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M1 02<br />After Completing Section 1.3"
+			}]
+		},
+		{
+			"name": "Section 1.3",
+			"longName": "Section 1.3: Order of Operations",
+			"introduction": [{
+				"kaltura_entryId": "1_9le2864f",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (3:19)"
+			}],
+			"book": [{
+				"text": "<p>Section 1.3: Order of Operations</p> <ul> <li>Pages 34 to 37</li> <li>Objective A</li> <li>Look at the odd questions 1 to 35</li> <li>WebAssign Assignment<br />MA006 M1 02</li> </ul> <br /> <p>Section 1.3 Solutions</p> <ul> <li>Pages 12 to 13 of 417</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=34",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 34 to 37",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=12",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 12 to 13",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch1_1_3",
+				"text": "1.3: The Order of Operations Agreement (14:25)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=1&s=3"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M1/PPM01C01S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0206/toc.html",
+				"img": "tut.png",
+				"text": "Exponential Notation and the Order of Operations Agreement"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M1 02"
+			}]
+		},
+		{
+			"name": "Section 1.4",
+			"longName": "Section 1.4: Variable Expressions",
+			"introduction": [{
+				"kaltura_entryId": "1_tc5tf1cg",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (14:47)"
+			}],
+			"book": [{
+				"text": "<p>Section 1.4: Variable Expressions</p> <ul> <li>Pages 38 to 55</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 209</li> <li>WebAssign Assignment MA006 M1 03</li> </ul> <br /> <p>Section 1.4 Solutions</p> <ul> <li>Pages 13 to 16 of 417</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=38",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 38 to 55",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=13",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 13 to 16",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch1_1_4",
+				"text": "1.4: Variable Expressions (34:26)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=1&s=4"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M1/PPM01C01S04.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0250/toc.html",
+				"img": "tut.png",
+				"text": "Variable Expressions"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0013/toc.html",
+				"img": "tut.png",
+				"text": "Evaluating Variable Expressions"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0012/toc.html",
+				"img": "tut.png",
+				"text": "Variable Expressions and Verbal Expressions"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M1 03"
+			}]
+		}]
+	},
+	{
+		"name": "Module 2",
+		"longName": "Module 2: First Degree Equations",
+		"chapter": [{
+			"name": "Section 2.1",
+			"longName": "Section 2.1: Introduction to Equations",
+			"introduction": [{
+				"kaltura_entryId": "1_62g0jj62",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (8:51)"
+			}],
+			"book": [{
+				"text": "<p>Section 2.1:  Introduction to Equations</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul> <br /> <p>Section 2.1 Solutions</p> <ul> <li>Pages 22 to 26 of 417</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=75",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 75 to 83 and 87 to 93",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=22",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 22 to 26",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch2_2_1",
+				"text": "2.1: Introduction to Equations (45:19)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=2&s=1"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0251/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Solving Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0555/toc.html",
+				"img": "tut.png",
+				"text": "Solving Equations Using Properties of Equality"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
+				"img": "tut.png",
+				"text": "Percent Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
+				"img": "tut.png",
+				"text": "Problems Involving Rates"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M2 01"
+			}]
+		},
+		{
+			"name": "Section 2.2",
+			"longName": "Section 2.2: General Equations",
+			"introduction": [{
+				"kaltura_entryId": "1_12r72omn",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (5:40)"
+			}],
+			"book": [{
+				"text": "<p>Section 2.2:  General Equations</p> <ul> <li>Pages 95 to 101 and 103 to 106</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 139</li>  <li>WebAssign Assignment MA006 M2 02</li> </ul> <br /> <p>Section 2.2 Solutions</p> <ul> <li>Pages 29 to 37 of 417 </li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=95",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 95 to 101 and 103 to 106",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=29",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 29 to 37",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch11_11_3",
+				"text": "2.2: General Equations - Part I (14:28)",
+				"secure": true,
+				"vl": "auf_bcm_ch11_11_3_algii"
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch11_11_4",
+				"text": "2.2: General Equations - Part II (11:57)",
+				"secure": true,
+				"vl": "auf_bcm_ch11_11_4_algii"
+			},
+			{
+				"faq": "faq.html?t=IIA&c=2&s=2"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0547/toc.html",
+				"img": "tut.png",
+				"text": "Solving General First-Degree Linear Equations in 1 Variable"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0252/toc.html",
+				"img": "tut.png",
+				"text": "Solving Other Types of Equations"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M2 02"
+			}]
+		},
+		{
+			"name": "Section 2.3",
+			"longName": "Section 2.3: Sentences to Equations",
+			"introduction": [{
+				"kaltura_entryId": "0_2wa8vqd4",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:34)"
+			}],
+			"book": [{
+				"text": "<p>Section 2.3: Sentences into Equations</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <br /> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=109",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 109 to 115",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=38",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 38 to 41",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch2_2_3",
+				"text": "2.3: Translating Sentences into Equations",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=2&s=3"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0019/toc.html",
+				"img": "tut.png",
+				"text": "Constructing Equations to Solve Problems"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0557/toc.html",
+				"img": "tut.png",
+				"text": "Translating Sentences into Equations"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M2 03"
+			}]
+		}]
+	},
+	{
+		"name": "Module 3",
+		"longName": "Module 3: Polynomials",
+		"chapter": [{
+			"name": "Section 6.1",
+			"longName": "Section 6.1: Exponential Expressions",
+			"introduction": [{
+				"kaltura_entryId": "1_5fak1716",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (26:04)"
+			}],
+			"book": [{
+				"text": "<p>Section 6.1: Exponential Expression</p> <ul> <li>Pages 347 to 359</li> <li>All Objectives</li> <li>Look at all odd numbered questions 1 to 123</li>  <li>WebAssign Assignment MA006 M3 01</li> </ul> <br /> <p>Chapter 6.1 Solutions</p> <ul> <li>Pages 167 to 170 of 304</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=347",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 347 to 359",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=167",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 167 to 170",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch6_6_1",
+				"text": "6.1: Exponential Expressions (31:47)",
+				"secure": true,
+				"end": "1903"
+			},
+			{
+				"faq": "faq.html?t=IIA&c=6&s=1"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C06S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0036/toc.html",
+				"img": "tut.png",
+				"text": "Multiplication and Powers of Monomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0037/toc.html",
+				"img": "tut.png",
+				"text": "Exponents and Scientific Notation"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M3 01"
+			}]
+		},
+		{
+			"name": "Section 6.2",
+			"longName": "Section 6.2: Polynomial Functions",
+			"introduction": [{
+				"kaltura_entryId": "1_1v2wir2b",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (16:24)"
+			}],
+			"book": [{
+				"text": "<p>Section 6.2: Polynomial Functions</p> <ul> <li>Pages 360 to 367</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 39</li>  <li>WebAssign Assignment MA006 M3 02 attempt after completing Section 6.3 material</li> </ul> <br /> <p>Section 6.2 Solutions</p> <ul> <li>Pages 170 to 171 of 417</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=360",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 360 to 367",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=170",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 170 to 171",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch6_6_2",
+				"text": "6.2: Introduction to Polynomial Functions (23:39)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=6&s=2"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C06S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0038/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Polynomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0044/toc.html",
+				"img": "tut.png",
+				"text": "Graphing Polynomial Functions by Point Plotting"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0039/toc.html",
+				"img": "tut.png",
+				"text": "Adding and Subtracting Polynomials"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M3 02"
+			}]
+		},
+		{
+			"name": "Section 6.3",
+			"longName": "Section 6.3: Multiplication of Polynomials",
+			"introduction": [{
+				"kaltura_entryId": "1_tsvy37e9",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (13:20)"
+			}],
+			"book": [{
+				"text": "<p>Section 6.3: Multiplication of Polynomials</p> <ul> <li>Pages 368 to 372 and 374 to 376</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 87</li>  <li>WebAssign Assignment MA006 M3 02</li> </ul> <br /> <p>Section 6.3 Solutions</p> <ul> <li>Pages 172 to 173 of 417</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=368",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 368 to 372 and 374 to 376",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=172",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />172 to 173",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch6_6_3",
+				"text": "6.3: Multiplication of Polynomials (17:50)",
+				"secure": true,
+				"end": "1070"
+			},
+			{
+				"faq": "faq.html?t=IIA&c=6&s=3"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C06S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0553/toc.html",
+				"img": "tut.png",
+				"text": "Multiplication of Polynomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0041/toc.html",
+				"img": "tut.png",
+				"text": "Binomial and Special Polynomial Products"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M3 02"
+			}]
+		},
+		{
+			"name": "Section 6.4",
+			"longName": "Section 6.4: Division of Polynomials",
+			"introduction": [{
+				"kaltura_entryId": "1_yj5ss17c",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (12:26)"
+			}],
+			"book": [{
+				"text": "<p>Section 6.4: Division of Polynomials</p> <ul> <li>Pages 378 to 380 and 385 to 386</li> <li>Objectives A and B, Objective C not covered</li> <li>Look at the odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M3 03</li> </ul> <br /> <p>Section 6.3 Solutions</p> <ul> <li>Pages 175 to 177 of 417</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=378",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 378 to 380 and 385 to 386",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=175",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 175 to 177",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch6_6_4",
+				"text": "6.4: Division of Polynomials (15:25)",
+				"secure": true,
+				"end": "925"
+			},
+			{
+				"faq": "faq.html?t=IIA&c=6&s=4"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C06S04.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0042/toc.html",
+				"img": "tut.png",
+				"text": "Dividing Polynomials"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M3 03"
+			}]
+		}]
+	},
+	{
+		"name": "Module 4",
+		"longName": "Module 4: Factoring",
+		"chapter": [{
+			"name": "Section 7.1",
+			"longName": "Section 7.1: Common Factors",
+			"introduction": [{
+				"kaltura_entryId": "1_e1vzwcxr",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (15:40)"
+			}],
+			"book": [{
+				"text": "<p>Section 7.1: Common Factors</p> <ul> <li>Pages 403 to 409</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 69</li>  <li>WebAssign Assignment MA006 M4 01 - attempt after completing the Section 7.2 material</li> </ul> <br /> <p>Section 7.1 Solutions</p> <ul> <li>Pages 189 to 190</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=403",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 403 to 409",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=189",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 189 to 190",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch7_7_1",
+				"text": "7.1: Common Factors (18:51)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=7&s=1"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M4/PPM04C07S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0554/toc.html",
+				"img": "tut.png",
+				"text": "Factoring Polynomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0045/toc.html",
+				"img": "tut.png",
+				"text": "Common Factors and Grouping"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M4 01<br />After Completing Section 7.2"
+
+			}]
+		},
+		{
+			"name": "Section 7.2",
+			"longName": "Section 7.2: Factoring: x&sup2; + bx + c",
+			"introduction": [{
+				"kaltura_entryId": "1_zczktp8s",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (11:21)"
+			}],
+			"book": [{
+				"text": "<p>Section 7.2: Factoring</p> <ul> <li>Pages 410 to 417</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 129</li>  <li>WebAssign Assignment MA006 M4 01</li> </ul> <br /> <p>Section 7.2 Solutions</p> <ul> <li>Pages 190 to 197</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=410",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 410 to 417",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=190",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 190 to 197",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"text": "Introduction on how to factor a quadratic.  What is the question that must be answered? (8:51)",
+				"kaltura_entryId": "1_6399c9sc",
+				"img": "Factor_Intro_Screenshot.png"
+			},
+			{
+				"text": "Answering the question using prime factorization (25:38)",
+				"kaltura_entryId": "1_zxwnurw3",
+				"img": "Prime_Factorization_Screenshot.png"
+			},
+			{
+				"cengage_vidName": "auf_algii_ch7_7_2",
+				"text": "7.2: Factoring Polynomials of the Form x&sup2; + bx + c (23:17)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=7&s=2"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M4/PPM04C07S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0047/toc.html",
+				"img": "tut.png",
+				"text": "Factoring Second Degree Trinomials"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M4 01"
+			}]
+		},
+		{
+			"name": "Section 7.3",
+			"longName": "Section 7.3: Factoring: ax&sup2; + bx + c",
+			"introduction": [{
+				"kaltura_entryId": "1_fhpuof5y",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (10:53)"
+			}],
+			"book": [{
+				"text": "<p>Section 7.3: Factoring</p> <ul> <li>Pages 418 to 425</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 131</li>  <li>WebAssign Assignment MA006 M4 02 </li> </ul> <br /> <p>Section 7.3 Solutions</p> <ul> <li>Pages 197 to 206</li> </ul> "
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=418",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 418 to 425",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=197",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />197 to 206",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch7_7_3",
+				"text": "7.3: Factoring Polynomials of the Form ax&sup2; + bx + c (16:40)",
+				"secure": true
+			},
+			{
+				"text": "7.3 Factor by Grouping (27:55)",
+				"kaltura_entryId": "0_jmbc26r8",
+				"img": "Grouping_Video.png"
+			},
+			{
+				"faq": "faq.html?t=IIA&c=7&s=3"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M4/PPM04C07S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0047/toc.html",
+				"img": "tut.png",
+				"text": "Factoring Second Degree Trinomials"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M4 02"
+			}]
+		},
+		{
+			"name": "Section 7.4",
+			"longName": "Section 7.4: Special Factoring",
+			"introduction": [{
+				"kaltura_entryId": "1_b97aha0y",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (13:34)"
+			}],
+			"book": [{
+				"text": "<p>Section 7.4: Special Factoring</p> <ul> <li>Pages 426 to 427 and 432 to 433</li> <li>Objective A only</li> <li>Look at the odd questions 1 to 43</li>  <li>WebAssign Assignment MA006 M4 03 - attempt after completing Section 7.5 material </li> </ul> <br /> <p>Section 7.4 Solutions</p> <ul> <li>Pages 207 to 208</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=426",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 426 to 427 and 432 to 433",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=207",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 207 to 208",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch7_7_4",
+				"text": "7.4: Special Factoring (7:00)",
+				"secure": true,
+				"end": "420"
+			},
+			{
+				"faq": "faq.html?t=IIA&c=7&s=4"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M4/PPM04C07S04.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0046/toc.html",
+				"img": "tut.png",
+				"text": "Factoring Special Products"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0048/toc.html",
+				"img": "tut.png",
+				"text": "Factoring Polynomials"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M4 03<br />After Completing Section 7.5"
+			}]
+		},
+		{
+			"name": "Section 7.5",
+			"longName": "Section 7.5: Solving Equations",
+			"introduction": [{
+				"kaltura_entryId": "1_i8e43s7m",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (9:50)"
+			}],
+			"book": [{
+				"text": "<p>Section 7.5: Solving Equations</p> <ul> <li>Pages 436 to 443</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 77</li>  <li>WebAssign Assignment MA006 M4 03</li> </ul> <br /> <p>Section 7.5 Solutions</p> <ul> <li>Pages 209 to 213</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=436",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 436 to 443",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=209",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 209 to 213",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch7_7_5",
+				"text": "7.5: Solving Equations (26:40)",
+				"secure": true,
+				"end": "1600"
+			},
+			{
+				"faq": "faq.html?t=IIA&c=7&s=5"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M4/PPM04C07S05.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0049/toc.html",
+				"img": "tut.png",
+				"text": "Solving Equations by Factoring"
+			}],
+			"assignment": [{
+				"lti":  "MA006 M4 03"
+			}]
+		}]
+	},
+	{
+		"name": "Module 5",
+		"longName": "Module 5: Ratios, Proportions, Percents and Unit Conversions",
+		"chapter": [{
+			"name": "Chapter 4",
+			"longName": "Chapter 4: Ratio & Proportion",
+			"introduction": [{
+				"kaltura_entryId": "0_ntljnwca",
+				"img": "Book_Video.png",
+				"text": "Ratio & Proportion Getting Started Video (33:16)"
+			}],
+			"book": [{
+				"text": "<p>Read  -  Chapter 4<ul><li>Sections 4.1 to 4.3 pages 173 to 200</li><li>All Objectives</li><li>Look at all odd numbered questions</li></ul></p><p>Watch Textbook Videos</p><p>Complete WebAssign Assignment<br /> MA006 M5 01</p>"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch04.swf",
+				"img": "BCM.jpg",
+				"text": "Chapter 4 eBook<br />Pages 173 to 200",
+				"secure": true
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?&INITIAL_PAGE=82",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 82 to 97",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch4_4_1",
+				"text": "4.1: Ratio (7:59)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch4_4_2",
+				"text": "4.2: Rates (10:29)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch4_4_3",
+				"text": "4.3: Proportions (15:07)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=BCM&c=4"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M5/RatiosAndProportionsPresentation.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0220/toc.html",
+				"img": "tut.png",
+				"text": "Ratios"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0221/toc.html",
+				"img": "tut.png",
+				"text": "Rates"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0222/toc.html",
+				"img": "tut.png",
+				"text": "Proportions"
+			}],
+			"assignment": [{
+				"lti":  "MA006 05 01"
+			}]
+		},
+		{
+			"name": "Chapter 5",
+			"longName": "Chapter 5: Basic Percent",
+			"introduction": [{
+				"kaltura_entryId": "1_0by3jier",
+				"img": "Book_Video.png",
+				"text": "Basic Percent Getting Started Video (36:30)"
+			}],
+			"book": [{
+				"text": "<p>Read - Chapter 5<ul><li>Sections 5.1 to 5.5 pages 201 to 232</li><li>All Objectives</li><li>Look at odd numbered questions in Section 5.1 and 5.5</li></ul></p><p>Watch Textbook Videos</p><p>Complete WebAssign Assignment<br />MA006 M5 02</p>"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch05.swf",
+				"img": "BCM.jpg",
+				"text": "Chapter 5 eBook<br />Pages 201 to 232",
+				"secure": true
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?&INITIAL_PAGE=98",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 98 to 117",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch5_5_1",
+				"text": "5.1: Introduction to Percents (22:07)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch5_5_2",
+				"text": "5.2: Equations: Part I (16:57)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch5_5_3",
+				"text": "5.3: Equations: Part II (14:14)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch5_5_4",
+				"text": "5.4: Equations: Part III (10:57)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch5_5_5",
+				"text": "5.5: Proportion Method (9.51)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=BCM&c=5"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M5/BasicPercentPresentation.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0223/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Percents"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
+				"img": "tut.png",
+				"text": "Percent Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0225/toc.html",
+				"img": "tut.png",
+				"text": "Proportion Method"
+			}],
+			"assignment": [{
+				"lti":  "MA006 05 02"
+			}]
+		},
+		{
+			"name": "Chapter 6",
+			"longName": "Chapter 6: Percent Change",
+			"introduction": [{
+				"kaltura_entryId": "0_0c4ka7k7",
+				"img": "Book_Video.png",
+				"text": "Percent Change Getting Started Video (39:50)"
+			}],
+			"book": [{
+				"text": "<p>Read  -  Chapter 6 <ul> <li>Sections 6.1 and 6.2 pages 233 to 247</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li> </ul> </p> <p>Watch Textbook Videos</p> <p>Complete WebAssign Assignment<br />MA006 M5 03</p>"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch06.swf",
+				"img": "BCM.jpg",
+				"text": "Chapter 6 eBook<br />Pages 233 to 247",
+				"secure": true
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?&INITIAL_PAGE=118",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 118 to 124",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch6_6_1",
+				"text": "6.1: Applications to Purchasing (9:14)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch6_6_2",
+				"text": "6.2: Percent Increase and Decrease (30:48)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=BCM&c=6"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M5/PercentChangePresentation.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0226/toc.html",
+				"img": "tut.png",
+				"text": "Applications to Purchasing"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0227/toc.html",
+				"img": "tut.png",
+				"text": "Percent Increase and Percent Decrease"
+			}],
+			"assignment": [{
+				"lti":  "MA006 05 03"
+			}]
+		},
+		{
+			"name": "Chapter 8",
+			"longName": "Chapter 8: Imperial",
+			"introduction": [{
+				"kaltura_entryId": "0_fxkw11it",
+				"img": "Book_Video.png",
+				"text": "Imperial Unit Conversions Getting Started Video (11:59)"
+			}],
+			"book": [{
+				"text": "<p>Read  -  Chapter 8</p> <ul> <li>Sections 8.1 to 8.4 pages 339 to 355</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li> </ul> <p>Watch Textbook Videos</p><p>Complete WebAssign Assignment<br />MA006 M5 04</p>"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch08.swf",
+				"img": "BCM.jpg",
+				"text": "Chapter 8 eBook<br />Pages 339 to 355",
+				"secure": true
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?&INITIAL_PAGE=175",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 175 to 181",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch8_8_1",
+				"text": "8.1: Length (28:04)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch8_8_2",
+				"text": "8.2: Weight (11:46)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch8_8_3",
+				"text": "8.3: Capacity (11:15)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch8_8_4",
+				"text": "8.4: Time (7:29)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=BCM&c=8"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M5/ImperialUnitConversionsPresentation.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/M5/MA006_Unit_Conversion_Tables.pdf",
+				"img": "Conversions.png",
+				"text": "Conversion Table"
+			},
+			{
+				"href": "PowerPoint/M5/ConversionsUsedByWebAssign.pdf",
+				"img": "Webassign_conversions.png",
+				"text": "Conversions Used by WebAssign"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0238/toc.html",
+				"img": "tut.png",
+				"text": "U.S. Customary Length"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
+				"img": "tut.png",
+				"text": "U.S. Customary Weight"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0225/toc.html",
+				"img": "tut.png",
+				"text": "Time"
+			}],
+			"assignment": [{
+				"lti":  "MA006 05 04"
+			}]
+		},
+		{
+			"name": "Chapter 9",
+			"longName": "Chapter 9: Metric",
+			"introduction": [{
+				"kaltura_entryId": "0_68j80auo",
+				"img": "Book_Video.png",
+				"text": "Metric Unit Conversions Getting Started Video (8:45)" 
+			}],
+			"book": [{
+				"text": "<p>Read - Chapter 9</p> <ul> <li>Sections 9.1 to 9.3 and Section 9.5 pages 371 to 383 and 388 to 391</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li> </ul> <p>Watch Textbook Videos</p> <p>Complete WebAssign Assignment<br />MA006 M5 05</p>"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch09.swf",
+				"img": "BCM.jpg",
+				"text": "Chapter 5 eBook<br />Pages 371 to 383 & 388 to 391",
+				"secure": true
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=191",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 191 to 204",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch9_9_1",
+				"text": "9.1: Length (14:53)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch9_9_2",
+				"text": "9.2: Mass (13:04)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch9_9_3",
+				"text": "9.3: Capacity (13:07)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch9_9_5",
+				"text": "9.5: Conversion Between the U.S. Customary and the Metric Systems of Measurement (15:47)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=BCM&c=9"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M5/MetricUnitConversionsPresentation.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/M5/MA006_Unit_Conversion_Tables.pdf",
+				"img": "Conversions.png",
+				"text": "Conversion Table"
+			},
+			{
+				"href": "PowerPoint/M5/ConversionsUsedByWebAssign.pdf",
+				"img": "Webassign_conversions.png",
+				"text": "Conversions Used by WebAssign"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0243/toc.html",
+				"img": "tut.png",
+				"text": "The Metric System of Measurement"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0244/toc.html",
+				"img": "tut.png",
+				"text": "Conversion Between U.S. Customary and Metric Measures"
+			}],
+			"assignment": [{
+				"lti":  "MA006 05 05"
+			}]
+		}]
+	}]
+}
