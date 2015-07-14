@@ -64,7 +64,7 @@
 			"name": "Section 1.2",
 			"longName": "Section 1.2: Addition of Whole Numbers",
 			"introduction": [{
-				"text": "<p>Section 1.2: Addition of Whole Numbers</p> <ul> <li>Pages 8 to 15</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 02K</li> </ul> <p>Section 1.2 Solutions</p> <ul> <li>Pages 1 to 4</li> </ul>"
+				"text": "<p>Section 1.2: Addition of Whole Numbers</p> <ul> <li>Pages 8 to 15</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 02K</li> </ul>"
 			},
 			{
 				"kaltura_entryId": "0_3rbwp33v",
@@ -113,7 +113,7 @@
 			"name": "Section 1.3",
 			"longName": "Section 1.3: Subtraction of Whole Numbers",
 			"introduction": [{
-				"text": "<p>Section 1.3: Subtraction of Whole Numbers</p> <ul> <li>Pages 16 to 23</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 03K</li> </ul> <p>Section 1.3 Solutions</p> <ul> <li>Pages 4 to 8</li> </ul>"
+				"text": "<p>Section 1.3: Subtraction of Whole Numbers</p> <ul> <li>Pages 16 to 23</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 03K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -127,7 +127,7 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=4",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=8",
 				"img": "BCM_sol.jpg",
 				"text": "Solution Manual<br />Chapter 1 Section 3",
 				"target": "sol_book",
@@ -166,7 +166,7 @@
 			"name": "Section 1.4",
 			"longName": "Section 1.4: Multiplication of Whole Numbers",
 			"introduction": [{
-				"text": "<p>Section 1.4: Multiplication of Whole Numbers</p> <ul> <li>Pages 24 to 31</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M1 04K</li> </ul> <p>Section 1.4 Solutions</p> <ul> <li>Pages 8 to 10</li> </ul>"
+				"text": "<p>Section 1.4: Multiplication of Whole Numbers</p> <ul> <li>Pages 24 to 31</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M1 04K</li>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -180,9 +180,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=8",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=12",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 8 to 10",
+				"text": "Solution Manual<br />Chapter 1 Section 4",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -216,7 +216,7 @@
 			"name": "Section 1.5",
 			"longName": "Section 1.5: Division of Whole Numbers",
 			"introduction": [{
-				"text": "<p>Section 1.5: Division of Whole Numbers</p> <ul> <li>Pages 32 to 44</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 05K</li> </ul> <p>Section 1.5 Solutions</p> <ul> <li>Pages 11 to 15</li> </ul>"
+				"text": "<p>Section 1.5: Division of Whole Numbers</p> <ul> <li>Pages 32 to 44</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 05K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -230,9 +230,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=11",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=15",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 11 to 15",
+				"text": "Solution Manual<br />Chapter 1 Section 5",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -266,7 +266,7 @@
 			"name": "Section 1.6",
 			"longName": "Section 1.6: Exponential Notation and the Order of Operations Agreement",
 			"introduction": [{
-				"text": "<p>Section 1.6: Exponential Notation and the Order of Operations Agreement</p> <ul> <li>Pages 45 to 48</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M1 06K</li> </ul> <p>Section 1.6 Solutions</p> <ul> <li>Pages 15 to 16</li> </ul>"
+				"text": "<p>Section 1.6: Exponential Notation and the Order of Operations Agreement</p> <ul> <li>Pages 45 to 48</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M1 06K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -280,9 +280,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=15",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=19",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 15 to 16",
+				"text": "Solution Manual<br />Chapter 1 Section 6",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -315,7 +315,7 @@
 			"name": "Section 1.7",
 			"longName": "Section 1.7: Prime Numbers and Factoring",
 			"introduction": [{
-				"text": "<p>Section 1.7: Prime Numbers and Factoring</p> <ul> <li>Pages 49 to 52</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 07K</li> </ul> <p>Section 1.7 Solutions</p> <ul> <li>Pages 16 to 19</li> </ul>"
+				"text": "<p>Section 1.7: Prime Numbers and Factoring</p> <ul> <li>Pages 49 to 52</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 07K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -329,9 +329,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=16",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=20",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 16 to 19",
+				"text": "Solution Manual<br />Chapter 1 Section 7",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -372,7 +372,7 @@
 			"name": "Section 2.1",
 			"longName": "Section 2.1: The Least Common Multiple and Greatest Common Factor",
 			"introduction": [{
-				"text": "<p>Section 2.1:  The Least Common Multiple and Greatest Common Factor</p> <ul> <li>Pages 63 to 67</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 08K </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 26 to 27</li> </ul>"
+				"text": "<p>Section 2.1:  The Least Common Multiple and Greatest Common Factor</p> <ul> <li>Pages 63 to 67</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 08K </li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -386,9 +386,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=26",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=30",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 26 to 27",
+				"text": "Solution Manual<br />Chapter 2 Section 1",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -421,7 +421,7 @@
 			"name": "Section 2.2",
 			"longName": "Section 2.2: Introduction to Fractions",
 			"introduction": [{
-				"text": "<p>Section 2.2: Introduction to Fractions</p> <ul> <li>Pages 68 to 71</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 09K</li> </ul> <p>Section 2.2 Solutions</p> <ul> <li>Pages 27 to 28</li> </ul>"
+				"text": "<p>Section 2.2: Introduction to Fractions</p> <ul> <li>Pages 68 to 71</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 09K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -435,9 +435,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=27",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=31",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 27 to 28",
+				"text": "Solution Manual<br />Chapter 2 Section 2",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -478,7 +478,7 @@
 			"name": "Section 2.3",
 			"longName": "Section 2.3: Writing Equivalent Fractions",
 			"introduction": [{
-				"text": "<p>Section 2.3: Writing Equivalent Fractions</p> <ul> <li>Pages 72 to 75</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 10K</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 28 to 30</li> </ul>"
+				"text": "<p>Section 2.3: Writing Equivalent Fractions</p> <ul> <li>Pages 72 to 75</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 10K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -492,9 +492,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=28",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=32",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 28 to 30",
+				"text": "Solution Manual<br />Chapter 2 Section 3",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -528,7 +528,7 @@
 			"name": "Section 2.4",
 			"longName": "Section 2.4: Addition of Fractions and Mixed Numbers",
 			"introduction": [{
-				"text": "<p>Section 2.4: Addition of Fractions and Mixed Numbers</p> <ul> <li>Pages 76 to 83</li> <li>All objectives</li> <li>Look at all odd numbered</li>  <li>WebAssign Assignment MATH 10043 M1 11K</li> </ul> <p>Section 2.4 Solutions</p> <ul> <li>Pages 30 to 33</li> </ul>"
+				"text": "<p>Section 2.4: Addition of Fractions and Mixed Numbers</p> <ul> <li>Pages 76 to 83</li> <li>All objectives</li> <li>Look at all odd numbered</li>  <li>WebAssign Assignment MATH 10043 M1 11K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -542,9 +542,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=30",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=34",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 30 to 33",
+				"text": "Solution Manual<br />Chapter 2 Section 4",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -578,7 +578,7 @@
 			"name": "Section 2.5",
 			"longName": "Section 2.5: Subtraction of Fractions and Mixed Numbers",
 			"introduction": [{
-				"text": "<p>Section 2.5:  Subtraction of Fractions and Mixed Numbers</p> <ul> <li>Pages 84 to 91</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 12K </li> </ul> <p>Section 2.5 Solutions</p> <ul> <li>Pages 33 to 36</li> </ul>"
+				"text": "<p>Section 2.5:  Subtraction of Fractions and Mixed Numbers</p> <ul> <li>Pages 84 to 91</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 12K </li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -592,9 +592,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=33",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=37",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 33 to 36",
+				"text": "Solution Manual<br />Chapter 2 Section 5",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -628,7 +628,7 @@
 			"name": "Section 2.6",
 			"longName": "Section 2.6: Multiplication of Fractions and Mixed Numbers",
 			"introduction": [{
-				"text": "<p>Section 2.6:  Multiplication of Fractions and Mixed Numbers</p> <ul> <li>Pages 92 to 99</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>WebAssign Assignment MATH 10043 M1 13K</li> </ul> <p>Section 2.6 Solutions</p> <ul> <li>Pages 37 to 39</li> </ul>"
+				"text": "<p>Section 2.6:  Multiplication of Fractions and Mixed Numbers</p> <ul> <li>Pages 92 to 99</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>WebAssign Assignment MATH 10043 M1 13K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -642,9 +642,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=37",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=40",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 37 to 39",
+				"text": "Solution Manual<br />Chapter 2 Section 6",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -679,7 +679,7 @@
 			"name": "Section 2.7",
 			"longName": "Section 2.7: Division of Fractions and Mixed Numbers",
 			"introduction": [{
-				"text": "<p>Section 2.7: Division of Fractions and Mixed Numbers</p> <ul> <li>Pages 100 to 108</li> <li>All objectives/li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 14K</li> </ul> <p>Section 2.7 Solutions</p> <ul> <li>Pages 39 to 44</li> </ul>"
+				"text": "<p>Section 2.7: Division of Fractions and Mixed Numbers</p> <ul> <li>Pages 100 to 108</li> <li>All objectives/li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 14K</li>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -693,9 +693,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=39",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=43",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 39 to 44",
+				"text": "Solution Manual<br />Chapter 2 Section 7",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -729,7 +729,7 @@
 			"name": "Section 2.8",
 			"longName": "Section 2.8: Order, Exponents, and the Order of Operations Agreement",
 			"introduction": [{
-				"text": "<p>Section 2.8: Order, Exponents, and the Order of Operations Agreement</p> <ul> <li>Pages 109 to 112</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 15K</li> </ul> <p>Section 2.8 Solutions</p> <ul> <li>Pages 44 to 46</li> </ul>"
+				"text": "<p>Section 2.8: Order, Exponents, and the Order of Operations Agreement</p> <ul> <li>Pages 109 to 112</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 15K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -743,9 +743,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=44",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=48",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 44 to 46",
+				"text": "Solution Manual<br />Chapter 2 Section 8",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -779,7 +779,7 @@
 			"name": "Section 3.1",
 			"longName": "Section 3.1: Introduction to Decimals",
 			"introduction": [{
-				"text": "<p>Section 3.1: Introduction to Decimals</p> <ul> <li>Pages 125 to 131</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 16K</li> </ul> <p>Chapter 3.1 Solutions</p> <ul> <li>Pages 56 to 57</li> </ul>"
+				"text": "<p>Section 3.1: Introduction to Decimals</p> <ul> <li>Pages 125 to 131</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 16K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -793,9 +793,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=56",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=60",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 56 to 57",
+				"text": "Solution Manual<br />Chapter 3 Section 1",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -829,7 +829,7 @@
 			"name": "Section 3.2",
 			"longName": "Section 3.2: Addition of Decimals",
 			"introduction": [{
-				"text": "<p>Section 3.2: Addition of Decimals</p> <ul> <li>Pages 132 to 135</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M1 17K</li> </ul> <p>Section 3.2 Solutions</p> <ul> <li>Pages 57 to 58</li> </ul>"
+				"text": "<p>Section 3.2: Addition of Decimals</p> <ul> <li>Pages 132 to 135</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M1 17K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -843,9 +843,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=57",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=61",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 57 to 58",
+				"text": "Solution Manual<br />Chapter 3 Section 2",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -879,7 +879,7 @@
 			"name": "Section 3.3",
 			"longName": "Section 3.3: Subtraction of Decimals",
 			"introduction": [{
-				"text": "<p>Section 3.3: Subtraction of Decimals</p> <ul> <li>Pages 136 to 139</li> <li>All Objectives</li> <li>Look at all the odd numbered questions</li>  <li>WebAssign Assignment MATH 10043 M1 18K</li> </ul> <p>Section 3.3 Solutions</p> <ul> <li>Pages 58 to 60</li> </ul>"
+				"text": "<p>Section 3.3: Subtraction of Decimals</p> <ul> <li>Pages 136 to 139</li> <li>All Objectives</li> <li>Look at all the odd numbered questions</li>  <li>WebAssign Assignment MATH 10043 M1 18K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -893,9 +893,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=58",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=62",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />58 to 60",
+				"text": "Solution Manual<br />Chapter 3 Section 3",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -930,7 +930,7 @@
 			"name": "Section 3.4",
 			"longName": "Section 3.4: Multiplication of Decimals",
 			"introduction": [{
-				"text": "<p>Section 3.4: Multiplication of Decimals</p> <ul> <li>Pages 140 to 149</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 19K</li> </ul> <p>Section 3.4 Solutions</p> <ul> <li>Pages 60 to 64</li> </ul>"
+				"text": "<p>Section 3.4: Multiplication of Decimals</p> <ul> <li>Pages 140 to 149</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 19K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -944,9 +944,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=60",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=64",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 60 to 64",
+				"text": "Solution Manual<br />Chapter 3 Section 4",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -980,7 +980,7 @@
 			"name": "Section 3.5",
 			"longName": "Section 3.5: Division of Decimals",
 			"introduction": [{
-				"text": "<p>Section 3.5: Division of Decimals</p> <ul> <li>Pages 150 to 158</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 20K</li> </ul> <p>Section 3.5 Solutions</p> <ul> <li>Pages 64 to 68</li> </ul>"
+				"text": "<p>Section 3.5: Division of Decimals</p> <ul> <li>Pages 150 to 158</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 20K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -994,9 +994,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=64",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=68",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 64 to 68",
+				"text": "Solution Manual<br />Chapter 3 Section 5",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1031,7 +1031,7 @@
 			"name": "Section 3.6",
 			"longName": "Section 3.6: Comparing and Converting Fractions and Decimals",
 			"introduction": [{
-				"text": "<p>Section 3.6: Comparing and Converting Fractions and Decimals</p> <ul> <li>Pages 159 to 162</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 21K</li> </ul> <p>Section 3.6 Solutions</p> <ul> <li>Pages 68 to 70</li> </ul>"
+				"text": "<p>Section 3.6: Comparing and Converting Fractions and Decimals</p> <ul> <li>Pages 159 to 162</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 21K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1045,9 +1045,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=68",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=72",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 68 to 70",
+				"text": "Solution Manual<br />Chapter 3 Section 6",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1087,7 +1087,7 @@
 			"name": "Section 4.1",
 			"longName": "Section 4.1: Ratio",
 			"introduction": [{
-				"text": "<p>Section 4.1: Ratio</p> <ul> <li>Pages 173 to 177</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 01K</li> </ul> <p>Chapter 4.1 Solutions</p> <ul> <li>Pages 78 to 79</li> </ul>"
+				"text": "<p>Section 4.1: Ratio</p> <ul> <li>Pages 173 to 177</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 01K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1101,9 +1101,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=78",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=82",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 173 to 177",
+				"text": "Solution Manual<br />Chapter 4 Section 1",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1138,7 +1138,7 @@
 			"name": "Section 4.2",
 			"longName": "Section 4.2: Rates",
 			"introduction": [{
-				"text": "<p>Section 4.2: Rates</p> <ul> <li>Pages 360 to 367</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 02K</li> </ul> <p>Section 4.2 Solutions</p> <ul> <li>Pages 79 to 81</li> </ul>"
+				"text": "<p>Section 4.2: Rates</p> <ul> <li>Pages 360 to 367</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 02K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1152,9 +1152,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=79",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=83",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 79 to 81",
+				"text": "Solution Manual<br />Chapter 4 Section 2",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1188,7 +1188,7 @@
 			"name": "Section 4.3",
 			"longName": "Section 4.3: Proportions",
 			"introduction": [{
-				"text": "<p>Section 4.3: Proportions</p> <ul> <li>Pages 182 to 189</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 03K</li> </ul> <p>Section 4.3 Solutions</p> <ul> <li>Pages 81 to 84</li> </ul>"
+				"text": "<p>Section 4.3: Proportions</p> <ul> <li>Pages 182 to 189</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 03K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1202,9 +1202,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=81",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=85",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />81 to 84",
+				"text": "Solution Manual<br />Chapter 4 Section 3",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1243,7 +1243,7 @@
 			"name": "Section 5.1",
 			"longName": "Section 5.1: Introduction to Percents",
 			"introduction": [{
-				"text": "<p>Section 5.1: Introduction to Percents</p> <ul> <li>Pages 201 to 205</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 04</li> </ul> <p>Chapter 5.1 Solutions</p> <ul> <li>Pages 94 to 95</li> </ul>"
+				"text": "<p>Section 5.1: Introduction to Percents</p> <ul> <li>Pages 201 to 205</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 04</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1257,9 +1257,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=94",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=98",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 94 to 95",
+				"text": "Solution Manual<br />Chapter 5 Section 1",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1302,7 +1302,7 @@
 			"name": "Section 5.2",
 			"longName": "Section 5.2: Percent Equations: Part I",
 			"introduction": [{
-				"text": "<p>Section 5.2: Percent Equations: Part I</p> <ul> <li>Pages 206 to 209</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M2 05K</li> </ul> <p>Section 5.2 Solutions</p> <ul> <li>Pages 95 to 97</li> </ul>"
+				"text": "<p>Section 5.2: Percent Equations: Part I</p> <ul> <li>Pages 206 to 209</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M2 05K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1316,9 +1316,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=95",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=99",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 206 to 209",
+				"text": "Solution Manual<br />Chapter 5 Section 2",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1356,7 +1356,7 @@
 			"name": "Section 5.3",
 			"longName": "Section 5.3: Percent Equations: Part II",
 			"introduction": [{
-				"text": "<p>Section 5.3: Percent Equations: Part II</p> <ul> <li>Pages 210 to 213</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M2 06K</li> </ul> <p>Section 5.3 Solutions</p> <ul> <li>Pages 97 to 99</li> </ul>"
+				"text": "<p>Section 5.3: Percent Equations: Part II</p> <ul> <li>Pages 210 to 213</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M2 06K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1370,9 +1370,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=97",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=101",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />97 to 99",
+				"text": "Solution Manual<br />Chapter 5 Section 3",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1405,7 +1405,7 @@
 			"name": "Section 5.4",
 			"longName": "Section 5.4: Percent Equations: Part III",
 			"introduction": [{
-				"text": "<p>Section 5.4: Percent Equations: Part III</p> <ul> <li>Pages 214 to 217</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 07K</li> </ul> <p>Section 5.4 Solutions</p> <ul> <li>Pages 99 to 100</li> </ul>"
+				"text": "<p>Section 5.4: Percent Equations: Part III</p> <ul> <li>Pages 214 to 217</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 07K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1419,9 +1419,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=99",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=103",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />99 to 100",
+				"text": "Solution Manual<br />Chapter 5 Section 4",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1454,7 +1454,7 @@
 			"name": "Section 5.5",
 			"longName": "Section 5.5: Percent Problems: Proportion Method",
 			"introduction": [{
-				"text": "<p>Section 5.5: Percent Problems: Proportion Method</p> <ul> <li>Pages 218 to 221</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 08K</li> </ul> <p>Section 5.5 Solutions</p> <ul> <li>Pages 101 to 103</li> </ul>"
+				"text": "<p>Section 5.5: Percent Problems: Proportion Method</p> <ul> <li>Pages 218 to 221</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 08K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1468,9 +1468,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=101",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=105",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />101 to 103",
+				"text": "Solution Manual<br />Chapter 5 Section 5",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1509,7 +1509,7 @@
 			"name": "Section 6.1",
 			"longName": "Section 6.1: Applications to Purchasing",
 			"introduction": [{
-				"text": "<p>Section 6.1: Applications to Purchasing</p> <ul> <li>Pages 233 to 237</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M2 09K</li> </ul> <p>Section 6.1 Solutions</p> <ul> <li>Pages 114 to 116</li> </ul>"
+				"text": "<p>Section 6.1: Applications to Purchasing</p> <ul> <li>Pages 233 to 237</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M2 09K</li> </ul>"
 			},
 			{
 				"kaltura_entryId": "0_3rbwp33v",
@@ -1523,9 +1523,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=114",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=118",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 114 to 116",
+				"text": "Solution Manual<br />Chapter 6 Section 1",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1558,7 +1558,7 @@
 			"name": "Section 6.2",
 			"longName": "Section 6.2: Percent Increase and Percent Decrease",
 			"introduction": [{
-				"text": "<p>Section 6.2: Percent Increase and Percent Decrease</p> <ul> <li>Pages 238 to 247</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M2 10K</li> </ul> <p>Section 6.2 Solutions</p> <ul> <li>Pages 116 to 120</li> </ul>"
+				"text": "<p>Section 6.2: Percent Increase and Percent Decrease</p> <ul> <li>Pages 238 to 247</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M2 10K</li> </ul>"
 			},
 			{
 				"kaltura_entryId": "0_3rbwp33v",
@@ -1572,9 +1572,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=116",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=120",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 116 to 120",
+				"text": "Solution Manual<br />Chapter 6 Section 2",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1609,7 +1609,7 @@
 			"name": "Section 6.6",
 			"longName": "Section 6.6: Wages",
 			"introduction": [{
-				"text": "<p>Section 6.6: Wages</p> <ul> <li>Pages 268 to 271</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M2 11K</li> </ul> <p>Section 6.6 Solutions</p> <ul> <li>Pages 127 to 128</li> </ul>"
+				"text": "<p>Section 6.6: Wages</p> <ul> <li>Pages 268 to 271</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M2 11K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1623,9 +1623,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=127",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=131",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 127 to 128",
+				"text": "Solution Manual<br />Chapter 6 Section 6",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1670,7 +1670,7 @@
 			"name": "Section 7.4",
 			"longName": "Section 7.4: Statistical Measures",
 			"introduction": [{
-				"text": "<p>Section 7.4: Statistical Measures</p> <ul> <li>Pages 311 to 320</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 12K</li> </ul> <p>Section 7.4 Solutions</p> <ul> <li>Pages 148 to 154</li> </ul>"
+				"text": "<p>Section 7.4: Statistical Measures</p> <ul> <li>Pages 311 to 320</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 12K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1684,9 +1684,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=148",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=152",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 148 to 154",
+				"text": "Solution Manual<br />Chapter 7 Section 4",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1719,7 +1719,7 @@
 			"name": "Section 7.5",
 			"longName": "Section 7.5: Introduction to Probability",
 			"introduction": [{
-				"text": "<p>Section 7.5: Introduction to Probability</p> <ul> <li>Pages 321 to 326</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 13K</li> </ul> <p>Section 7.5 Solutions</p> <ul> <li>Pages 154 to 157</li> </ul>"
+				"text": "<p>Section 7.5: Introduction to Probability</p> <ul> <li>Pages 321 to 326</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 13K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1733,9 +1733,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=154",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=158",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 154 to 157",
+				"text": "Solution Manual<br />Chapter 7 Section 5",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1783,7 +1783,7 @@
 			"name": "Section 10.1",
 			"longName": "Section 10.1: Introduction to Integers",
 			"introduction": [{
-				"text": "<p>Section 10.1:  Introduction to Integers</p> <ul> <li>Pages 403 to 409</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M3 01K </li> </ul> <p>Section 10.1 Solutions</p> <ul> <li>Pages 204 to 26 of 206</li> </ul>"
+				"text": "<p>Section 10.1:  Introduction to Integers</p> <ul> <li>Pages 403 to 409</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M3 01K </li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1797,9 +1797,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=204",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=208",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 204 to 206",
+				"text": "Solution Manual<br />Chapter 10 Section 1",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1837,7 +1837,7 @@
 			"name": "Section 10.2",
 			"longName": "Section 10.2: Addition and Subtraction of Integers",
 			"introduction": [{
-				"text": "<p>Section 10.2:  Addition and Subtraction of Integers</p> <ul> <li>Pages 410 to 418/li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M3 01K</li> </ul> <p>Section 10.2 Solutions</p> <ul> <li>Pages 206 to 211</li> </ul>"
+				"text": "<p>Section 10.2:  Addition and Subtraction of Integers</p> <ul> <li>Pages 410 to 418/li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M3 01K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1851,9 +1851,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=206",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=210",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 206 to 211",
+				"text": "Solution Manual<br />Chapter 10 Section 2",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1886,7 +1886,7 @@
 			"name": "Section 10.3",
 			"longName": "Section 10.3: Multiplication and Division of Integers",
 			"introduction": [{
-				"text": "<p>Section 10.3: Multiplication and Division of Integers</p> <ul> <li>Pages 419 to 427</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M3 03K</li> </ul> <p>Section 10.3 Solutions</p> <ul> <li>Pages 211 to 215</li> </ul>"
+				"text": "<p>Section 10.3: Multiplication and Division of Integers</p> <ul> <li>Pages 419 to 427</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M3 03K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1900,9 +1900,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=211",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=215",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 211 to 215",
+				"text": "Solution Manual<br />Chapter 10 Section 3",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1935,7 +1935,7 @@
 			"name": "Section 10.4",
 			"longName": "Section 10.4: Operation with Rational Numbers",
 			"introduction": [{
-				"text": "<p>Section 10.4: Operation with Rational Numbers</p> <ul> <li>Pages 428 to 438</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M3 04K</li> </ul> <p>Section 10.4 Solutions</p> <ul> <li>Pages 215 to 222</li> </ul>"
+				"text": "<p>Section 10.4: Operation with Rational Numbers</p> <ul> <li>Pages 428 to 438</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M3 04K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -1949,9 +1949,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=215",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=219",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 215 to 222",
+				"text": "Solution Manual<br />Chapter 10 Section 4",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1993,7 +1993,7 @@
 			"name": "Section 11.1",
 			"longName": "Section 11.1: Variable Expressions",
 			"introduction": [{
-				"text": "<p>Section 11.1:  Variable Expressions</p> <ul> <li>Pages 459 to 469</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M4 01K </li> </ul> <p>Section 11.1 Solutions</p> <ul> <li>Pages 236 to 239</li> </ul>"
+				"text": "<p>Section 11.1:  Variable Expressions</p> <ul> <li>Pages 459 to 469</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M4 01K </li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -2007,9 +2007,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=236",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=240",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 236 to 239",
+				"text": "Solution Manual<br />Chapter 11 Section 1",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -2047,7 +2047,7 @@
 			"name": "Section 11.2",
 			"longName": "Section 11.2: Introduction to Equations",
 			"introduction": [{
-				"text": "<p>Section 11.2:  Introduction to Equations</p> <ul> <li>Pages 470 to 479</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M4 02K</li> </ul> <p>Section 11.2 Solutions</p> <ul> <li>Pages 240 to 243</li> </ul>"
+				"text": "<p>Section 11.2:  Introduction to Equations</p> <ul> <li>Pages 470 to 479</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M4 02K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -2061,9 +2061,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=240",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=244",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 240 to 243",
+				"text": "Solution Manual<br />Chapter 11 Section 2",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -2096,7 +2096,7 @@
 			"name": "Section 11.3",
 			"longName": "Section 11.3: General Equations: Part I",
 			"introduction": [{
-				"text": "<p>Section 11.3: General Equations: Part I</p> <ul> <li>Pages 408 to 486</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M4 03K</li> </ul> <p>Section 11.3 Solutions</p> <ul> <li>Pages 243 to 248</li> </ul>"
+				"text": "<p>Section 11.3: General Equations: Part I</p> <ul> <li>Pages 408 to 486</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M4 03K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -2110,9 +2110,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=243",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=247",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 243 to 248",
+				"text": "Solution Manual<br />Chapter 11 Section 3",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -2145,7 +2145,7 @@
 			"name": "Section 11.4",
 			"longName": "Section 11.4: General Equations: Part II",
 			"introduction": [{
-				"text": "<p>Section 11.4: General Equations: Part II</p> <ul> <li>Pages 487 to 493</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M4 04K</li> </ul> <p>Section 11.4 Solutions</p> <ul> <li>Pages 248 to 254</li> </ul>"
+				"text": "<p>Section 11.4: General Equations: Part II</p> <ul> <li>Pages 487 to 493</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M4 04K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -2159,9 +2159,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=248",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=252",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 248 to 254",
+				"text": "Solution Manual<br />Chapter 11 Section 4",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -2206,7 +2206,7 @@
 				"introduction": 
 				[
 					{
-						"text": "<p>Section 12.2: Plane Geometric Figures</p> <ul> <li>Pages 530 to 539</li> <li>All Objectives</li> <li>Look at the all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M5 01K</li> </ul><p>Section 12.2 Solutions</p> <ul> <li>Pages 273 to 276</li> </ul>"
+						"text": "<p>Section 12.2: Plane Geometric Figures</p> <ul> <li>Pages 530 to 539</li> <li>All Objectives</li> <li>Look at the all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M5 01K</li> </ul>"
 					},
 					{
 						"kaltura_entryId": "1_xifis1c8",
@@ -2222,9 +2222,9 @@
 						"text": "Full eBook<br />Pages 530 to 539"
 					},
 					{
-						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=273",
+						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=277",
 						"img": "BCM_sol.jpg",
-						"text": "Solution Manual<br />Pages 273 to 276",
+						"text": "Solution Manual<br />Chapter 12 Section 2",
 						"target": "sol_book",
 						"secure": true
 					}
@@ -2270,7 +2270,7 @@
 				"introduction": 
 				[
 					{
-						"text": "<p>Section 12.3: Area</p> <ul> <li>Pages 540 to 547</li> <li>All Objectives</li> <li>Look at the all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M5 02K</li> </ul><p>Section 12.3 Solutions</p> <ul> <li>Pages 276 to 279</li> </ul>"
+						"text": "<p>Section 12.3: Area</p> <ul> <li>Pages 540 to 547</li> <li>All Objectives</li> <li>Look at the all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M5 02K</li> </ul>"
 					},
 					{
 						"kaltura_entryId": "1_xifis1c8",
@@ -2286,9 +2286,9 @@
 						"text": "Full eBook<br />Pages 540 to 547"
 					},
 					{
-						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=276",
+						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=280",
 						"img": "BCM_sol.jpg",
-						"text": "Solution Manual<br />Pages 276 to 279",
+						"text": "Solution Manual<br />Chapter 12 Section 3",
 						"target": "sol_book",
 						"secure": true
 					}
@@ -2329,7 +2329,7 @@
 				"introduction": 
 				[
 					{
-						"text": "<p>Section 12.4: Volume</p> <ul> <li>Pages 548 to 557</li> <li>All Objectives</li> <li>Look at the all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M5 03K</li> </ul><p>Section 12.4 Solutions</p> <ul> <li>Pages 279 to 282</li> </ul>"
+						"text": "<p>Section 12.4: Volume</p> <ul> <li>Pages 548 to 557</li> <li>All Objectives</li> <li>Look at the all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M5 03K</li> </ul>"
 					},
 					{
 						"kaltura_entryId": "1_xifis1c8",
@@ -2345,9 +2345,9 @@
 						"text": "Full eBook<br />Pages 548 to 557"
 					},
 					{
-						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=279",
+						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=283",
 						"img": "BCM_sol.jpg",
-						"text": "Solution Manual<br />Pages 279 to 282",
+						"text": "Solution Manual<br />Chapter 12 Section 4",
 						"target": "sol_book",
 						"secure": true
 					}
