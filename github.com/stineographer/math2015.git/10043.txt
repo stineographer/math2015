@@ -11,10 +11,10 @@
 			"introduction": 
 			[
 				{
-					"text": "<p>Section 1.1: Introduction to Whole Numbers</p> <ul> <li>Pages 2 to 7</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 01K</li> </ul> <p>Section 1.1 Solutions</p> <ul> <li>Page 1</li> </ul>"
+					"text": "<p>Section 1.1: Introduction to Whole Numbers</p> <ul> <li>Pages 2 to 7</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 01K</li> </ul>"
 				},
 				{
-					"kaltura_entryId": "1_k3fqapmz",
+					"kaltura_entryId": "0_3rbwp33v",
 					"img": "Book_Video.png",
 					"text": "Getting Started Video (20:43)"
 				}
@@ -28,9 +28,9 @@
 					"prependLti": "true"
 				},
 				{
-					"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=1",
+					"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=5",
 					"img": "BCM_sol.jpg",
-					"text": "Solution Manual<br />Page 1",
+					"text": "Solution Manual<br />Chapter 1 Section 1",
 					"target": "sol_book",
 					"secure": true
 				}
@@ -55,11 +55,7 @@
 				"img": "tut.png",
 				"text": "Introduction to Whole Numbers"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Introduction to Integers"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 01K"
 			}]
@@ -71,7 +67,7 @@
 				"text": "<p>Section 1.2: Addition of Whole Numbers</p> <ul> <li>Pages 8 to 15</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 02K</li> </ul> <p>Section 1.2 Solutions</p> <ul> <li>Pages 1 to 4</li> </ul>"
 			},
 			{
-				"kaltura_entryId": "1_pcs4d9v7",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (10:36)"
 			}],
@@ -82,9 +78,9 @@
 				"prependLti": "true"
 			},
 			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=1",
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=5",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 1 to 4",
+				"text": "Solution Manual<br />Chapter 2 Section 2",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -108,16 +104,7 @@
 				"img": "tut.png",
 				"text": "Addition of Whole Numbers"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.06-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Addition and Subtraction of Rational Numbers"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.07-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Multiplication and Division of Rational Numbers"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 02K"
 			}]
@@ -128,7 +115,7 @@
 			"introduction": [{
 				"text": "<p>Section 1.3: Subtraction of Whole Numbers</p> <ul> <li>Pages 16 to 23</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 03K</li> </ul> <p>Section 1.3 Solutions</p> <ul> <li>Pages 4 to 8</li> </ul>"
 			},{
-				"kaltura_entryId": "1_9le2864f",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (3:19)"
 			}],
@@ -142,7 +129,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=4",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 4 to 8",
+				"text": "Solution Manual<br />Chapter 1 Section 3",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -181,7 +168,7 @@
 			"introduction": [{
 				"text": "<p>Section 1.4: Multiplication of Whole Numbers</p> <ul> <li>Pages 24 to 31</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M1 04K</li> </ul> <p>Section 1.4 Solutions</p> <ul> <li>Pages 8 to 10</li> </ul>"
 			},{
-				"kaltura_entryId": "1_tc5tf1cg",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (14:47)"
 			}],
@@ -220,21 +207,7 @@
 				"img": "tut.png",
 				"text": "Multiplication of Whole Numbers"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Evaluating Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.02-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Simplifying Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Translating Verbal Expressions into Variable Expressions"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 04K"
 			}]
@@ -245,7 +218,7 @@
 			"introduction": [{
 				"text": "<p>Section 1.5: Division of Whole Numbers</p> <ul> <li>Pages 32 to 44</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 05K</li> </ul> <p>Section 1.5 Solutions</p> <ul> <li>Pages 11 to 15</li> </ul>"
 			},{
-				"kaltura_entryId": "1_tc5tf1cg",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (14:47)"
 			}],
@@ -284,21 +257,7 @@
 				"img": "tut.png",
 				"text": "Division of Whole Numbers"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Evaluating Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.02-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Simplifying Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Translating Verbal Expressions into Variable Expressions"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 05K"
 			}]
@@ -309,7 +268,7 @@
 			"introduction": [{
 				"text": "<p>Section 1.6: Exponential Notation and the Order of Operations Agreement</p> <ul> <li>Pages 45 to 48</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M1 06K</li> </ul> <p>Section 1.6 Solutions</p> <ul> <li>Pages 15 to 16</li> </ul>"
 			},{
-				"kaltura_entryId": "1_tc5tf1cg",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (14:47)"
 			}],
@@ -347,21 +306,7 @@
 				"img": "tut.png",
 				"text": "Exponential Notation and the Order of Operations Agreement"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Evaluating Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.02-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Simplifying Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Translating Verbal Expressions into Variable Expressions"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 06K"
 			}]
@@ -372,7 +317,7 @@
 			"introduction": [{
 				"text": "<p>Section 1.7: Prime Numbers and Factoring</p> <ul> <li>Pages 49 to 52</li> <li>All objectives</li> <li>Look at all the odd numbered</li> <li>Complete WebAssign Assignment MATH 10043 M1 07K</li> </ul> <p>Section 1.7 Solutions</p> <ul> <li>Pages 16 to 19</li> </ul>"
 			},{
-				"kaltura_entryId": "1_tc5tf1cg",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (14:47)"
 			}],
@@ -409,21 +354,7 @@
 				"img": "tut.png",
 				"text": "Prime Numbers and Factoring"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Evaluating Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.02-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Simplifying Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Translating Verbal Expressions into Variable Expressions"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 07K"
 			}]
@@ -443,7 +374,7 @@
 			"introduction": [{
 				"text": "<p>Section 2.1:  The Least Common Multiple and Greatest Common Factor</p> <ul> <li>Pages 63 to 67</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 08K </li> </ul> <p>Section 2.1 Solutions</p> <ul> <li>Pages 26 to 27</li> </ul>"
 			},{
-				"kaltura_entryId": "1_62g0jj62",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (8:51)"
 			}],
@@ -481,11 +412,7 @@
 				"img": "tut.png",
 				"text": "The Least Common Multiple and Greatest Common Factor"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Introduction to Equations"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 08K"
 			}]
@@ -496,7 +423,7 @@
 			"introduction": [{
 				"text": "<p>Section 2.2: Introduction to Fractions</p> <ul> <li>Pages 68 to 71</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 09K</li> </ul> <p>Section 2.2 Solutions</p> <ul> <li>Pages 27 to 28</li> </ul>"
 			},{
-				"kaltura_entryId": "1_12r72omn",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (5:40)"
 			}],
@@ -542,11 +469,7 @@
 			}
 			
 			],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.02-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part I"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 09K"
 			}]
@@ -557,7 +480,7 @@
 			"introduction": [{
 				"text": "<p>Section 2.3: Writing Equivalent Fractions</p> <ul> <li>Pages 72 to 75</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 10K</li> </ul> <p>Section 2.3 Solutions</p> <ul> <li>Pages 28 to 30</li> </ul>"
 			},{
-				"kaltura_entryId": "0_2wa8vqd4",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (6:34)"
 			}],
@@ -596,11 +519,7 @@
 				"img": "tut.png",
 				"text": "Writing Equivalent Fractions"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part II"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 10K"
 			}]
@@ -611,7 +530,7 @@
 			"introduction": [{
 				"text": "<p>Section 2.4: Addition of Fractions and Mixed Numbers</p> <ul> <li>Pages 76 to 83</li> <li>All objectives</li> <li>Look at all odd numbered</li>  <li>WebAssign Assignment MATH 10043 M1 11K</li> </ul> <p>Section 2.4 Solutions</p> <ul> <li>Pages 30 to 33</li> </ul>"
 			},{
-				"kaltura_entryId": "0_2wa8vqd4",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (6:34)"
 			}],
@@ -650,11 +569,7 @@
 				"img": "tut.png",
 				"text": " Addition of Fractions and Mixed Numbers"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part II"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 11K"
 			}]
@@ -665,7 +580,7 @@
 			"introduction": [{
 				"text": "<p>Section 2.5:  Subtraction of Fractions and Mixed Numbers</p> <ul> <li>Pages 84 to 91</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 12K </li> </ul> <p>Section 2.5 Solutions</p> <ul> <li>Pages 33 to 36</li> </ul>"
 			},{
-				"kaltura_entryId": "1_62g0jj62",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (8:51)"
 			}],
@@ -704,11 +619,7 @@
 				"img": "tut.png",
 				"text": "Subtraction of Fractions and Mixed Numbers"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Introduction to Equations"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 101043 M1 12K"
 			}]
@@ -719,7 +630,7 @@
 			"introduction": [{
 				"text": "<p>Section 2.6:  Multiplication of Fractions and Mixed Numbers</p> <ul> <li>Pages 92 to 99</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>WebAssign Assignment MATH 10043 M1 13K</li> </ul> <p>Section 2.6 Solutions</p> <ul> <li>Pages 37 to 39</li> </ul>"
 			},{
-				"kaltura_entryId": "1_12r72omn",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (5:40)"
 			}],
@@ -759,11 +670,7 @@
 				"img": "tut.png",
 				"text": "Multiplication of Fractions and Mixed Numbers"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.02-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part I"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 13K"
 			}]
@@ -774,7 +681,7 @@
 			"introduction": [{
 				"text": "<p>Section 2.7: Division of Fractions and Mixed Numbers</p> <ul> <li>Pages 100 to 108</li> <li>All objectives/li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 14K</li> </ul> <p>Section 2.7 Solutions</p> <ul> <li>Pages 39 to 44</li> </ul>"
 			},{
-				"kaltura_entryId": "0_2wa8vqd4",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (6:34)"
 			}],
@@ -813,11 +720,7 @@
 				"img": "tut.png",
 				"text": "Division of Fractions and Mixed Numbers"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part II"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 15K"
 			}]
@@ -828,7 +731,7 @@
 			"introduction": [{
 				"text": "<p>Section 2.8: Order, Exponents, and the Order of Operations Agreement</p> <ul> <li>Pages 109 to 112</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 15K</li> </ul> <p>Section 2.8 Solutions</p> <ul> <li>Pages 44 to 46</li> </ul>"
 			},{
-				"kaltura_entryId": "0_2wa8vqd4",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (6:34)"
 			}],
@@ -861,11 +764,7 @@
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part II"
-			}],
+			
 			"assignment": [{
 				"lti": "MA006 M2 03"
 			}]
@@ -882,7 +781,7 @@
 			"introduction": [{
 				"text": "<p>Section 3.1: Introduction to Decimals</p> <ul> <li>Pages 125 to 131</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 16K</li> </ul> <p>Chapter 3.1 Solutions</p> <ul> <li>Pages 56 to 57</li> </ul>"
 			},{
-				"kaltura_entryId": "1_5fak1716",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (26:04)"
 			}],
@@ -921,11 +820,7 @@
 				"img": "tut.png",
 				"text": "Introduction to Decimals"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Exponential Expressions"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 16K"
 			}]
@@ -936,7 +831,7 @@
 			"introduction": [{
 				"text": "<p>Section 3.2: Addition of Decimals</p> <ul> <li>Pages 132 to 135</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M1 17K</li> </ul> <p>Section 3.2 Solutions</p> <ul> <li>Pages 57 to 58</li> </ul>"
 			},{
-				"kaltura_entryId": "1_1v2wir2b",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (16:24)"
 			}],
@@ -975,11 +870,7 @@
 				"text": "Addition of Decimals"
 			}
 			],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Multiplication of Polynomials"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 17K"
 			}]
@@ -990,7 +881,7 @@
 			"introduction": [{
 				"text": "<p>Section 3.3: Subtraction of Decimals</p> <ul> <li>Pages 136 to 139</li> <li>All Objectives</li> <li>Look at all the odd numbered questions</li>  <li>WebAssign Assignment MATH 10043 M1 18K</li> </ul> <p>Section 3.3 Solutions</p> <ul> <li>Pages 58 to 60</li> </ul>"
 			},{
-				"kaltura_entryId": "1_tsvy37e9",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (13:20)"
 			}],
@@ -1030,11 +921,7 @@
 				"img": "tut.png",
 				"text": "Subtraction of Decimals"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Multiplication of Polynomials"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 18K"
 			}]
@@ -1045,7 +932,7 @@
 			"introduction": [{
 				"text": "<p>Section 3.4: Multiplication of Decimals</p> <ul> <li>Pages 140 to 149</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 19K</li> </ul> <p>Section 3.4 Solutions</p> <ul> <li>Pages 60 to 64</li> </ul>"
 			},{
-				"kaltura_entryId": "1_yj5ss17c",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (12:26)"
 			}],
@@ -1084,11 +971,7 @@
 				"img": "tut.png",
 				"text": "Multiplication of Decimals"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.04-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Division of Polynomials"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 19K"
 			}]
@@ -1099,7 +982,7 @@
 			"introduction": [{
 				"text": "<p>Section 3.5: Division of Decimals</p> <ul> <li>Pages 150 to 158</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 20K</li> </ul> <p>Section 3.5 Solutions</p> <ul> <li>Pages 64 to 68</li> </ul>"
 			},{
-				"kaltura_entryId": "1_yj5ss17c",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (12:26)"
 			}],
@@ -1139,11 +1022,7 @@
 				"img": "tut.png",
 				"text": "Division of Decimals"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.04-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Division of Polynomials"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 20K"
 			}]
@@ -1154,7 +1033,7 @@
 			"introduction": [{
 				"text": "<p>Section 3.6: Comparing and Converting Fractions and Decimals</p> <ul> <li>Pages 159 to 162</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M1 21K</li> </ul> <p>Section 3.6 Solutions</p> <ul> <li>Pages 68 to 70</li> </ul>"
 			},{
-				"kaltura_entryId": "1_yj5ss17c",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (12:26)"
 			}],
@@ -1193,11 +1072,7 @@
 				"img": "tut.png",
 				"text": "Comparing and Converting Fractions and Decimals"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.04-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Division of Polynomials"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M1 21K"
 			}]
@@ -1214,7 +1089,7 @@
 			"introduction": [{
 				"text": "<p>Section 4.1: Ratio</p> <ul> <li>Pages 173 to 177</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 01K</li> </ul> <p>Chapter 4.1 Solutions</p> <ul> <li>Pages 78 to 79</li> </ul>"
 			},{
-				"kaltura_entryId": "1_5fak1716",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (26:04)"
 			}],
@@ -1254,11 +1129,7 @@
 				"img": "tut.png",
 				"text": "Ratio"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Exponential Expressions"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M2 01K"
 			}]
@@ -1269,7 +1140,7 @@
 			"introduction": [{
 				"text": "<p>Section 4.2: Rates</p> <ul> <li>Pages 360 to 367</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 02K</li> </ul> <p>Section 4.2 Solutions</p> <ul> <li>Pages 79 to 81</li> </ul>"
 			},{
-				"kaltura_entryId": "1_1v2wir2b",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (16:24)"
 			}],
@@ -1308,11 +1179,7 @@
 				"img": "tut.png",
 				"text": "Rates"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Multiplication of Polynomials"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M2 02K"
 			}]
@@ -1323,7 +1190,7 @@
 			"introduction": [{
 				"text": "<p>Section 4.3: Proportions</p> <ul> <li>Pages 182 to 189</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 03K</li> </ul> <p>Section 4.3 Solutions</p> <ul> <li>Pages 81 to 84</li> </ul>"
 			},{
-				"kaltura_entryId": "1_tsvy37e9",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (13:20)"
 			}],
@@ -1361,11 +1228,7 @@
 				"img": "tut.png",
 				"text": "Proportions"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Multiplication of Polynomials"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M2 03K"
 			}]
@@ -1382,7 +1245,7 @@
 			"introduction": [{
 				"text": "<p>Section 5.1: Introduction to Percents</p> <ul> <li>Pages 201 to 205</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 04</li> </ul> <p>Chapter 5.1 Solutions</p> <ul> <li>Pages 94 to 95</li> </ul>"
 			},{
-				"kaltura_entryId": "1_5fak1716",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (26:04)"
 			}],
@@ -1430,11 +1293,7 @@
 			}
 			
 			],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Exponential Expressions"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M2 04K"
 			}]
@@ -1445,7 +1304,7 @@
 			"introduction": [{
 				"text": "<p>Section 5.2: Percent Equations: Part I</p> <ul> <li>Pages 206 to 209</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M2 05K</li> </ul> <p>Section 5.2 Solutions</p> <ul> <li>Pages 95 to 97</li> </ul>"
 			},{
-				"kaltura_entryId": "1_1v2wir2b",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (16:24)"
 			}],
@@ -1499,7 +1358,7 @@
 			"introduction": [{
 				"text": "<p>Section 5.3: Percent Equations: Part II</p> <ul> <li>Pages 210 to 213</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M2 06K</li> </ul> <p>Section 5.3 Solutions</p> <ul> <li>Pages 97 to 99</li> </ul>"
 			},{
-				"kaltura_entryId": "1_tsvy37e9",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (13:20)"
 			}],
@@ -1537,11 +1396,7 @@
 				"img": "tut.png",
 				"text": "Percent Equations"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Multiplication of Polynomials"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M2 06K"
 			}]
@@ -1552,7 +1407,7 @@
 			"introduction": [{
 				"text": "<p>Section 5.4: Percent Equations: Part III</p> <ul> <li>Pages 214 to 217</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 07K</li> </ul> <p>Section 5.4 Solutions</p> <ul> <li>Pages 99 to 100</li> </ul>"
 			},{
-				"kaltura_entryId": "1_tsvy37e9",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (13:20)"
 			}],
@@ -1590,11 +1445,7 @@
 				"img": "tut.png",
 				"text": "Percent Equations"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Multiplication of Polynomials"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH M2 07K"
 			}]
@@ -1605,7 +1456,7 @@
 			"introduction": [{
 				"text": "<p>Section 5.5: Percent Problems: Proportion Method</p> <ul> <li>Pages 218 to 221</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 08K</li> </ul> <p>Section 5.5 Solutions</p> <ul> <li>Pages 101 to 103</li> </ul>"
 			},{
-				"kaltura_entryId": "1_tsvy37e9",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (13:20)"
 			}],
@@ -1643,11 +1494,7 @@
 				"img": "tut.png",
 				"text": "Percent Problems: Proportion Method"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intermediate_algebra_applied/7e/students/ace/applets/05.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Multiplication of Polynomials"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH M2 08K"
 			}]
@@ -1665,7 +1512,7 @@
 				"text": "<p>Section 6.1: Applications to Purchasing</p> <ul> <li>Pages 233 to 237</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M2 09K</li> </ul> <p>Section 6.1 Solutions</p> <ul> <li>Pages 114 to 116</li> </ul>"
 			},
 			{
-				"kaltura_entryId": "1_k3fqapmz",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (20:43)"
 			}],
@@ -1702,21 +1549,7 @@
 				"img": "tut.png",
 				"text": "Applications to Purchasing"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Introduction to Integers"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.02-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Addition and Subtraction of Integers"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Multiplication and Division of Integers"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M2 09K"
 			}]
@@ -1728,7 +1561,7 @@
 				"text": "<p>Section 6.2: Percent Increase and Percent Decrease</p> <ul> <li>Pages 238 to 247</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M2 10K</li> </ul> <p>Section 6.2 Solutions</p> <ul> <li>Pages 116 to 120</li> </ul>"
 			},
 			{
-				"kaltura_entryId": "1_pcs4d9v7",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (10:36)"
 			}],
@@ -1765,16 +1598,7 @@
 				"img": "tut.png",
 				"text": "Percent Increase and Percent Decrease"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.06-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Addition and Subtraction of Rational Numbers"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.07-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Multiplication and Division of Rational Numbers"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M2 10K"
 			}]
@@ -1787,7 +1611,7 @@
 			"introduction": [{
 				"text": "<p>Section 6.6: Wages</p> <ul> <li>Pages 268 to 271</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li> <li>Complete WebAssign Assignment MATH 10043 M2 11K</li> </ul> <p>Section 6.6 Solutions</p> <ul> <li>Pages 127 to 128</li> </ul>"
 			},{
-				"kaltura_entryId": "1_tc5tf1cg",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (14:47)"
 			}],
@@ -1825,21 +1649,7 @@
 				"img": "tut.png",
 				"text": "Wages"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Evaluating Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.02-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Simplifying Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Translating Verbal Expressions into Variable Expressions"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M2 11K"
 			}]
@@ -1862,7 +1672,7 @@
 			"introduction": [{
 				"text": "<p>Section 7.4: Statistical Measures</p> <ul> <li>Pages 311 to 320</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 12K</li> </ul> <p>Section 7.4 Solutions</p> <ul> <li>Pages 148 to 154</li> </ul>"
 			},{
-				"kaltura_entryId": "0_2wa8vqd4",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (6:34)"
 			}],
@@ -1900,11 +1710,7 @@
 				"img": "tut.png",
 				"text": "Statistical Measures"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part II"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M2 12K"
 			}]
@@ -1915,7 +1721,7 @@
 			"introduction": [{
 				"text": "<p>Section 7.5: Introduction to Probability</p> <ul> <li>Pages 321 to 326</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M2 13K</li> </ul> <p>Section 7.5 Solutions</p> <ul> <li>Pages 154 to 157</li> </ul>"
 			},{
-				"kaltura_entryId": "1_62g0jj62",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (8:51)"
 			}],
@@ -1958,11 +1764,7 @@
 				"img": "tut.png",
 				"text": "Probability"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Introduction to Equations"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M2 13K"
 			}]
@@ -1983,7 +1785,7 @@
 			"introduction": [{
 				"text": "<p>Section 10.1:  Introduction to Integers</p> <ul> <li>Pages 403 to 409</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M3 01K </li> </ul> <p>Section 10.1 Solutions</p> <ul> <li>Pages 204 to 26 of 206</li> </ul>"
 			},{
-				"kaltura_entryId": "1_62g0jj62",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (8:51)"
 			}],
@@ -2026,11 +1828,7 @@
 				"img": "tut.png",
 				"text": "Opposites and Absolute Value"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Introduction to Equations"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M3 01K"
 			}]
@@ -2041,7 +1839,7 @@
 			"introduction": [{
 				"text": "<p>Section 10.2:  Addition and Subtraction of Integers</p> <ul> <li>Pages 410 to 418/li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M3 01K</li> </ul> <p>Section 10.2 Solutions</p> <ul> <li>Pages 206 to 211</li> </ul>"
 			},{
-				"kaltura_entryId": "1_12r72omn",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (5:40)"
 			}],
@@ -2079,11 +1877,7 @@
 				"img": "tut.png",
 				"text": "Operations with Integers"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.02-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part I"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH M3 02K"
 			}]
@@ -2094,7 +1888,7 @@
 			"introduction": [{
 				"text": "<p>Section 10.3: Multiplication and Division of Integers</p> <ul> <li>Pages 419 to 427</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M3 03K</li> </ul> <p>Section 10.3 Solutions</p> <ul> <li>Pages 211 to 215</li> </ul>"
 			},{
-				"kaltura_entryId": "0_2wa8vqd4",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (6:34)"
 			}],
@@ -2132,11 +1926,7 @@
 				"img": "tut.png",
 				"text": "Operations with Integers"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part II"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M3 03K"
 			}]
@@ -2147,7 +1937,7 @@
 			"introduction": [{
 				"text": "<p>Section 10.4: Operation with Rational Numbers</p> <ul> <li>Pages 428 to 438</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M3 04K</li> </ul> <p>Section 10.4 Solutions</p> <ul> <li>Pages 215 to 222</li> </ul>"
 			},{
-				"kaltura_entryId": "0_2wa8vqd4",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (6:34)"
 			}],
@@ -2185,11 +1975,7 @@
 				"img": "tut.png",
 				"text": "Operations with Rational Numbers"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part II"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M3 04K"
 			}]
@@ -2209,7 +1995,7 @@
 			"introduction": [{
 				"text": "<p>Section 11.1:  Variable Expressions</p> <ul> <li>Pages 459 to 469</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M4 01K </li> </ul> <p>Section 11.1 Solutions</p> <ul> <li>Pages 236 to 239</li> </ul>"
 			},{
-				"kaltura_entryId": "1_62g0jj62",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (8:51)"
 			}],
@@ -2252,11 +2038,7 @@
 				"img": "tut.png",
 				"text": "Simplifying Variable Expressions"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Introduction to Equations"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M4 01K"
 			}]
@@ -2267,7 +2049,7 @@
 			"introduction": [{
 				"text": "<p>Section 11.2:  Introduction to Equations</p> <ul> <li>Pages 470 to 479</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M4 02K</li> </ul> <p>Section 11.2 Solutions</p> <ul> <li>Pages 240 to 243</li> </ul>"
 			},{
-				"kaltura_entryId": "1_12r72omn",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (5:40)"
 			}],
@@ -2305,11 +2087,7 @@
 				"img": "tut.png",
 				"text": "Solving Equations in One Variable"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.02-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part I"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M4 02K"
 			}]
@@ -2320,7 +2098,7 @@
 			"introduction": [{
 				"text": "<p>Section 11.3: General Equations: Part I</p> <ul> <li>Pages 408 to 486</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M4 03K</li> </ul> <p>Section 11.3 Solutions</p> <ul> <li>Pages 243 to 248</li> </ul>"
 			},{
-				"kaltura_entryId": "0_2wa8vqd4",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (6:34)"
 			}],
@@ -2358,11 +2136,7 @@
 				"img": "tut.png",
 				"text": "Solving General First-Degree Linear Equations in 1 Variable"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part II"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M4 03K"
 			}]
@@ -2373,7 +2147,7 @@
 			"introduction": [{
 				"text": "<p>Section 11.4: General Equations: Part II</p> <ul> <li>Pages 487 to 493</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M4 04K</li> </ul> <p>Section 11.4 Solutions</p> <ul> <li>Pages 248 to 254</li> </ul>"
 			},{
-				"kaltura_entryId": "0_2wa8vqd4",
+				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (6:34)"
 			}],
@@ -2411,11 +2185,7 @@
 				"img": "tut.png",
 				"text": "Solving Other Types of Equations"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part II"
-			}],
+			
 			"assignment": [{
 				"lti": "MATH 10043 M4 04K"
 			}]
@@ -2488,11 +2258,7 @@
 						"text": "Plane Geometric Figures"
 					}
 				],
-				"ace": [{
-					"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
-					"img": "acethetest.png",
-					"text": "General Equations Part II"
-				}],
+				
 				"assignment": [{
 					"lti": "MATH 10043 M5 01K"
 				}]
@@ -2551,11 +2317,7 @@
 						"text": "Area"
 					}
 				],
-				"ace": [{
-					"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
-					"img": "acethetest.png",
-					"text": "General Equations Part II"
-				}],
+				
 				"assignment": [{
 					"lti": "MATH 10043 M5 02K"
 				}]
@@ -2614,11 +2376,7 @@
 						"text": "Volume"
 					}
 				],
-				"ace": [{
-					"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.03-prac1/1.html",
-					"img": "acethetest.png",
-					"text": "General Equations Part II"
-				}],
+				
 				"assignment": [{
 					"lti": "MATH 10043 M5 03K"
 				}]
