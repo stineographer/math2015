@@ -11,7 +11,7 @@
 				"text": "Getting Started Video (20:43)"
 			}],
 			"book": [{
-				"text": "<p>Section 1.1: Introduction to Integers</p> <ul> <li>Pages 1 to 17</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 189</li> <li>WebAssign Assignment MA006 M1 01</li> </ul> <br /> <p>Section 1.1 Solutions</p> <ul> <li>Pages 6 to 9 of 417</li> </ul>"
+				"text": "<p>Section 1.1: Introduction to Integers</p> <ul> <li>Pages 1 to 17</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 189</li> <li>WebAssign Assignment MA006 M1 01</li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=1",
@@ -22,7 +22,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=6",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 6 to 9",
+				"text": "Solution Manual<br />Chapter 1 Section 1",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -77,7 +77,7 @@
 				"text": "Getting Started Video (10:36)"
 			}],
 			"book": [{
-				"text": "<p>Section 1.2: Rational Numbers</p> <ul> <li>Pages 18 to 33</li> <li>Objectives A to G</li> <li>Look at the odd questions 1 to 189</li> <li>Complete WebAssign Assignment MA006 M1 02 but attempt after completing Section 1.3 material</li> </ul> <br /> <p>Section 1.2 Solutions</p> <ul> <li>Pages 9 to 12 of 417</li> </ul>"
+				"text": "<p>Section 1.2: Rational Numbers</p> <ul> <li>Pages 18 to 33</li> <li>Objectives A to G</li> <li>Look at the odd questions 1 to 189</li> <li>Complete WebAssign Assignment MA006 M1 02 but attempt after completing Section 1.3 material</li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=18",
@@ -88,7 +88,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=9",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 9 to 12",
+				"text": "Solution Manual<br />Chapter 1 Section 2",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -138,7 +138,7 @@
 				"text": "Getting Started Video (3:19)"
 			}],
 			"book": [{
-				"text": "<p>Section 1.3: Order of Operations</p> <ul> <li>Pages 34 to 37</li> <li>Objective A</li> <li>Look at the odd questions 1 to 35</li> <li>WebAssign Assignment<br />MA006 M1 02</li> </ul> <br /> <p>Section 1.3 Solutions</p> <ul> <li>Pages 12 to 13 of 417</li> </ul>"
+				"text": "<p>Section 1.3: Order of Operations</p> <ul> <li>Pages 34 to 37</li> <li>Objective A</li> <li>Look at the odd questions 1 to 35</li> <li>WebAssign Assignment<br />MA006 M1 02</li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=34",
@@ -149,7 +149,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=12",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 12 to 13",
+				"text": "Solution Manual<br />Chapter 1 Section 3",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -184,7 +184,7 @@
 				"text": "Getting Started Video (14:47)"
 			}],
 			"book": [{
-				"text": "<p>Section 1.4: Variable Expressions</p> <ul> <li>Pages 38 to 55</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 209</li> <li>WebAssign Assignment MA006 M1 03</li> </ul> <br /> <p>Section 1.4 Solutions</p> <ul> <li>Pages 13 to 16 of 417</li> </ul>"
+				"text": "<p>Section 1.4: Variable Expressions</p> <ul> <li>Pages 38 to 55</li> <li>Objectives A to E</li> <li>Look at the odd questions 1 to 209</li> <li>WebAssign Assignment MA006 M1 03</li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=38",
@@ -195,7 +195,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=13",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 13 to 16",
+				"text": "Solution Manual<br />Chapter 1 Section 4",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -244,7 +244,7 @@
 				"text": "Getting Started Video (8:51)"
 			}],
 			"book": [{
-				"text": "<p>Section 2.1:  Introduction to Equations</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul> <br /> <p>Section 2.1 Solutions</p> <ul> <li>Pages 22 to 26 of 417</li> </ul>"
+				"text": "<p>Section 2.1:  Introduction to Equations</p> <ul> <li>Pages 75 to 83 and 87 to 931</li> <li>Objectives A to D, Objective E not covered</li> <li>Look at the odd questions 1 to 141</li>  <li>WebAssign Assignment MA006 M2 01 </li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=75",
@@ -255,7 +255,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=22",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 22 to 26",
+				"text": "Solution Manual<br />Chapter 2 Section 1",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -305,7 +305,7 @@
 				"text": "Getting Started Video (5:40)"
 			}],
 			"book": [{
-				"text": "<p>Section 2.2:  General Equations</p> <ul> <li>Pages 95 to 101 and 103 to 106</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 139</li>  <li>WebAssign Assignment MA006 M2 02</li> </ul> <br /> <p>Section 2.2 Solutions</p> <ul> <li>Pages 29 to 37 of 417 </li> </ul>"
+				"text": "<p>Section 2.2:  General Equations</p> <ul> <li>Pages 95 to 101 and 103 to 106</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 139</li>  <li>WebAssign Assignment MA006 M2 02</li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=95",
@@ -316,7 +316,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=29",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 29 to 37",
+				"text": "Solution Manual<br />Chapter 2 Section 2",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -363,7 +363,7 @@
 				"text": "Getting Started Video (6:34)"
 			}],
 			"book": [{
-				"text": "<p>Section 2.3: Sentences into Equations</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul> <br /> <p>Section 2.3 Solutions</p> <ul> <li>Pages 38 to 41 of 417 </li> </ul>"
+				"text": "<p>Section 2.3: Sentences into Equations</p> <ul> <li>Pages 109 to 115</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M2 03</li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=109",
@@ -374,7 +374,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=38",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 38 to 41",
+				"text": "Solution Manual<br />Chapter 2 Section 3",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -418,7 +418,7 @@
 				"text": "Getting Started Video (26:04)"
 			}],
 			"book": [{
-				"text": "<p>Section 6.1: Exponential Expression</p> <ul> <li>Pages 347 to 359</li> <li>All Objectives</li> <li>Look at all odd numbered questions 1 to 123</li>  <li>WebAssign Assignment MA006 M3 01</li> </ul> <br /> <p>Chapter 6.1 Solutions</p> <ul> <li>Pages 167 to 170 of 304</li> </ul>"
+				"text": "<p>Section 6.1: Exponential Expression</p> <ul> <li>Pages 347 to 359</li> <li>All Objectives</li> <li>Look at all odd numbered questions 1 to 123</li>  <li>WebAssign Assignment MA006 M3 01</li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=347",
@@ -429,7 +429,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=167",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 167 to 170",
+				"text": "Solution Manual<br />Chapter 6 Section 1",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -470,7 +470,7 @@
 				"text": "Getting Started Video (16:24)"
 			}],
 			"book": [{
-				"text": "<p>Section 6.2: Polynomial Functions</p> <ul> <li>Pages 360 to 367</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 39</li>  <li>WebAssign Assignment MA006 M3 02 attempt after completing Section 6.3 material</li> </ul> <br /> <p>Section 6.2 Solutions</p> <ul> <li>Pages 170 to 171 of 417</li> </ul>"
+				"text": "<p>Section 6.2: Polynomial Functions</p> <ul> <li>Pages 360 to 367</li> <li>Objectives A and B</li> <li>Look at odd questions 1 to 39</li>  <li>WebAssign Assignment MA006 M3 02 attempt after completing Section 6.3 material</li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=360",
@@ -481,7 +481,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=170",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 170 to 171",
+				"text": "Solution Manual<br />Chapter 6 Section 2",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -526,7 +526,7 @@
 				"text": "Getting Started Video (13:20)"
 			}],
 			"book": [{
-				"text": "<p>Section 6.3: Multiplication of Polynomials</p> <ul> <li>Pages 368 to 372 and 374 to 376</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 87</li>  <li>WebAssign Assignment MA006 M3 02</li> </ul> <br /> <p>Section 6.3 Solutions</p> <ul> <li>Pages 172 to 173 of 417</li> </ul>"
+				"text": "<p>Section 6.3: Multiplication of Polynomials</p> <ul> <li>Pages 368 to 372 and 374 to 376</li> <li>Objectives A to C, Objective D not covered</li> <li>Look at the odd questions 1 to 87</li>  <li>WebAssign Assignment MA006 M3 02</li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=368",
@@ -537,7 +537,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=172",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />172 to 173",
+				"text": "Solution Manual<br />Chapter 6 Section 3",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -578,7 +578,7 @@
 				"text": "Getting Started Video (12:26)"
 			}],
 			"book": [{
-				"text": "<p>Section 6.4: Division of Polynomials</p> <ul> <li>Pages 378 to 380 and 385 to 386</li> <li>Objectives A and B, Objective C not covered</li> <li>Look at the odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M3 03</li> </ul> <br /> <p>Section 6.3 Solutions</p> <ul> <li>Pages 175 to 177 of 417</li> </ul>"
+				"text": "<p>Section 6.4: Division of Polynomials</p> <ul> <li>Pages 378 to 380 and 385 to 386</li> <li>Objectives A and B, Objective C not covered</li> <li>Look at the odd questions 1 to 31</li>  <li>WebAssign Assignment MA006 M3 03</li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=378",
@@ -589,7 +589,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=175",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 175 to 177",
+				"text": "Solution Manual<br />Chapter 6 Section 4",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -629,7 +629,7 @@
 				"text": "Getting Started Video (15:40)"
 			}],
 			"book": [{
-				"text": "<p>Section 7.1: Common Factors</p> <ul> <li>Pages 403 to 409</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 69</li>  <li>WebAssign Assignment MA006 M4 01 - attempt after completing the Section 7.2 material</li> </ul> <br /> <p>Section 7.1 Solutions</p> <ul> <li>Pages 189 to 190</li> </ul>"
+				"text": "<p>Section 7.1: Common Factors</p> <ul> <li>Pages 403 to 409</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 69</li>  <li>WebAssign Assignment MA006 M4 01 - attempt after completing the Section 7.2 material</li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=403",
@@ -640,7 +640,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=189",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 189 to 190",
+				"text": "Solution Manual<br />Chapter 7 Section 1",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -681,7 +681,7 @@
 				"text": "Getting Started Video (11:21)"
 			}],
 			"book": [{
-				"text": "<p>Section 7.2: Factoring</p> <ul> <li>Pages 410 to 417</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 129</li>  <li>WebAssign Assignment MA006 M4 01</li> </ul> <br /> <p>Section 7.2 Solutions</p> <ul> <li>Pages 190 to 197</li> </ul>"
+				"text": "<p>Section 7.2: Factoring</p> <ul> <li>Pages 410 to 417</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 129</li>  <li>WebAssign Assignment MA006 M4 01</li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=410",
@@ -692,7 +692,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=190",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 190 to 197",
+				"text": "Solution Manual<br />Chapter 7 Section 2",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -737,7 +737,7 @@
 				"text": "Getting Started Video (10:53)"
 			}],
 			"book": [{
-				"text": "<p>Section 7.3: Factoring</p> <ul> <li>Pages 418 to 425</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 131</li>  <li>WebAssign Assignment MA006 M4 02 </li> </ul> <br /> <p>Section 7.3 Solutions</p> <ul> <li>Pages 197 to 206</li> </ul> "
+				"text": "<p>Section 7.3: Factoring</p> <ul> <li>Pages 418 to 425</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 131</li>  <li>WebAssign Assignment MA006 M4 02 </li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=418",
@@ -748,7 +748,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=197",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />197 to 206",
+				"text": "Solution Manual<br />Chapter 7 Section 3",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -788,7 +788,7 @@
 				"text": "Getting Started Video (13:34)"
 			}],
 			"book": [{
-				"text": "<p>Section 7.4: Special Factoring</p> <ul> <li>Pages 426 to 427 and 432 to 433</li> <li>Objective A only</li> <li>Look at the odd questions 1 to 43</li>  <li>WebAssign Assignment MA006 M4 03 - attempt after completing Section 7.5 material </li> </ul> <br /> <p>Section 7.4 Solutions</p> <ul> <li>Pages 207 to 208</li> </ul>"
+				"text": "<p>Section 7.4: Special Factoring</p> <ul> <li>Pages 426 to 427 and 432 to 433</li> <li>Objective A only</li> <li>Look at the odd questions 1 to 43</li>  <li>WebAssign Assignment MA006 M4 03 - attempt after completing Section 7.5 material </li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=426",
@@ -799,7 +799,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=207",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 207 to 208",
+				"text": "Solution Manual<br />Chapter 7 Section 4",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -840,7 +840,7 @@
 				"text": "Getting Started Video (9:50)"
 			}],
 			"book": [{
-				"text": "<p>Section 7.5: Solving Equations</p> <ul> <li>Pages 436 to 443</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 77</li>  <li>WebAssign Assignment MA006 M4 03</li> </ul> <br /> <p>Section 7.5 Solutions</p> <ul> <li>Pages 209 to 213</li> </ul>"
+				"text": "<p>Section 7.5: Solving Equations</p> <ul> <li>Pages 436 to 443</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 77</li>  <li>WebAssign Assignment MA006 M4 03</li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=436",
@@ -851,7 +851,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=209",
 				"img": "IIA_sol.jpg",
-				"text": "Solution Manual<br />Pages 209 to 213",
+				"text": "Solution Manual<br />Chapter 7 Section 5",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -902,7 +902,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?&INITIAL_PAGE=82",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 82 to 97",
+				"text": "Solution Manual<br />Chapter 4, Sections 1 to 3",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -968,7 +968,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?&INITIAL_PAGE=98",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 98 to 117",
+				"text": "Solution Manual<br />Chapter 5, Sections 1 to 5 ",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1044,7 +1044,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?&INITIAL_PAGE=118",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 118 to 124",
+				"text": "Solution Manual<br />Chapter 6, Sections 1 and 2",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1100,7 +1100,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?&INITIAL_PAGE=175",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 175 to 181",
+				"text": "Solution Manual<br />Chapter 8, Sections 1 to 4",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -1181,7 +1181,7 @@
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=191",
 				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 191 to 204",
+				"text": "Solution Manual<br />Chapter 9, Sections 1 to 3",
 				"target": "sol_book",
 				"secure": true
 			}],
