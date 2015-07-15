@@ -2,5 +2,98 @@
 	"config": {
 		"groupTest": "https://elearn.mohawkcollege.ca/d2l/le/content/55416/viewContent/1430908/View",
 		"ltiLink": "/d2l/common/dialogs/quickLink/quickLink.d2l?ou=55416&type=lti&rcode=Mohawk-922673&srcou=55416"
-	}
+	},
+	
+	"module": [
+    {
+      "name": "Module 1: Chapter 1",
+      "chapter": [
+        {
+          "name": "Section 1.1",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_8_1_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 1.2",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_8_2_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 1.3",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_8_3_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 1.4",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_8_4_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 1.5",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_8_5_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 1.6",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_8_6_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Module 2: Chapter 4",
+      "chapter": [
+        {
+          "name": "Section 4.1",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_4_1_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 4.3",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_4_3_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
