@@ -360,6 +360,32 @@
           ]
         }
       ]
+    },
+	
+	{
+      "name": "Module 2: Chapter 7",
+      "chapter": [
+        {
+          "name": "Section 7.4",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_7_4_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 7.5",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_7_5_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        }
+      ]
     }
 	
 	
