@@ -80,6 +80,94 @@
         }
       ]
     },
+	
+	{
+      "name": "Module 1: Chapter 2",
+      "chapter": [
+        {
+          "name": "Section 2.1",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_2_1_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 2.2",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_2_2_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 2.3",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_2_3_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 2.4",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_2_4_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 2.5",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_2_5_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 2.6",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_2_6_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 2.7",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_2_7_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 2.8",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_2_8_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        }
+      ]
+    },
+	
+	
     {
       "name": "Module 2: Chapter 4",
       "chapter": [
