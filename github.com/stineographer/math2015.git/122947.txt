@@ -386,6 +386,52 @@
           ]
         }
       ]
+    },
+	
+	{
+      "name": "Module 3: Chapter 10",
+      "chapter": [
+        {
+          "name": "Section 10.1",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_10_1_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 10.2",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_10_2_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 10.3",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_10_3_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 10.4",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_10_4_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        }
+      ]
     }
 	
 	
