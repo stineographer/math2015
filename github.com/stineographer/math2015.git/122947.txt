@@ -248,6 +248,16 @@
           ]
         },
         {
+          "name": "Section 4.2",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_4_2_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
           "name": "Section 4.3",
           "presentation": [
             {
