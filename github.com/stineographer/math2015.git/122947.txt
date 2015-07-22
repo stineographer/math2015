@@ -167,6 +167,72 @@
       ]
     },
 	
+	{
+      "name": "Module 1: Chapter 3",
+      "chapter": [
+        {
+          "name": "Section 3.1",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_3_1_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 3.2",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_3_2_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 3.3",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_3_3_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 3.4",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_3_4_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 3.5",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_3_5_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        },
+        {
+          "name": "Section 3.6",
+          "presentation": [
+            {
+              "href": "Kezys_Notes/SECTION_3_6_NOTES.pdf",
+              "img": "Notes.jpg",
+              "text": "Class Notes"
+            }
+          ]
+        }
+      ]
+    },
+	
 	
     {
       "name": "Module 2: Chapter 4",
