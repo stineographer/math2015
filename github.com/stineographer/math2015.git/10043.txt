@@ -48,7 +48,7 @@
 			"presentation": [
 			{
 				"href": "PowerPoint/M1/SECTION_1_1_PP.pdf",
-				"img": "Powerpoint.png",
+				"img": "pdf.png",
 				"text": "PDF Slides"
 			},
 			{
@@ -102,11 +102,19 @@
 			}
 			
 			],
-			"presentation": [{
+			"presentation": [
+			{
+				"href": "PowerPoint/M1/SECTION_1_2_PP.pdf",
+				"img": "Powerpoint.png",
+				"text": "PDF Slides"
+			},
+			{
 				"href": "PowerPoint/M1/SECTION_1_2_PP.pptx",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0202/toc.html",
 				"img": "tut.png",
@@ -152,7 +160,7 @@
 			
 			],
 			"presentation": [{
-				"href": "PowerPoint/M1/PPM01C01S03.pdf",
+				"href": "PowerPoint/M1/SECTION_1_3_PP.pdf",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
 			}],
