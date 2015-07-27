@@ -1292,11 +1292,20 @@
 			
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M3/PPM03C06S01.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M2/SECTION_4_1_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M2/SECTION_4_1_PP.pptx",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0220/toc.html",
 				"img": "tut.png",
@@ -1342,11 +1351,20 @@
 			
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M3/PPM03C06S02.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M2/SECTION_4_2_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},	
+			{
+				"href": "PowerPoint/M2/SECTION_4_2_PP.pptx",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0221/toc.html",
 				"img": "tut.png",
@@ -1391,11 +1409,18 @@
 				"faq": "faq.html?t=BCM&c=4&s=3"
 			}
 			],
-			"presentation": [{
-				"href": "PowerPoint/M3/PPM03C06S03.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M2/SECTION_4_3_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M2/SECTION_4_3_PP.pptx",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0222/toc.html",
 				"img": "tut.png",
