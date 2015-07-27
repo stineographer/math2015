@@ -458,11 +458,19 @@
 			}
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S01.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M1/SECTION_2_1_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M1/SECTION_2_1_PP.pptx",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0208/toc.html",
 				"img": "tut.png",
@@ -508,11 +516,19 @@
 			}
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S02.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M1/SECTION_2_2_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M1/SECTION_2_2_PP.pptx",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0209/toc.html",
 				"img": "tut.png",
@@ -565,11 +581,19 @@
 			
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M1/SECTION_2_3_PP.pdf",
+				"img": "pdf.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/M1/SECTION_2_3_PP.pptx",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0210/toc.html",
 				"img": "tut.png",
@@ -615,11 +639,19 @@
 			
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M1/SECTION_2_4_PP.pdf",
+				"img": "pdf.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/M1/SECTION_2_4_PP.pptx",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0211/toc.html",
 				"img": "tut.png",
@@ -665,11 +697,19 @@
 			
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S01.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M1/SECTION_2_5_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M1/SECTION_2_5_PP.pptx",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0212/toc.html",
 				"img": "tut.png",
@@ -716,11 +756,21 @@
 			
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S02.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M1/SECTION_2_6_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M1/SECTION_2_6_PP.pptx",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0213/toc.html",
 				"img": "tut.png",
@@ -766,11 +816,21 @@
 			
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M1/SECTION_2_7_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M1/SECTION_2_7_PP.pptx",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0214/toc.html",
 				"img": "tut.png",
@@ -815,11 +875,21 @@
 			}
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M1/SECTION_2_8_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M1/SECTION_2_8_PP.pptx",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			
+			
+			],
 			
 			"assignment": [{
 				"lti": "MA006 M2 03"
