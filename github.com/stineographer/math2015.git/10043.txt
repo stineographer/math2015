@@ -2123,7 +2123,7 @@
 			"name": "Section 10.2",
 			"longName": "Section 10.2: Addition and Subtraction of Integers",
 			"introduction": [{
-				"text": "<p>Section 10.2:  Addition and Subtraction of Integers</p> <ul> <li>Pages 410 to 418/li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M3 01K</li> </ul>"
+				"text": "<p>Section 10.2:  Addition and Subtraction of Integers</p> <ul> <li>Pages 410 to 418</li> <li>All objectives</li> <li>Look at all the odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M3 01K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -2333,11 +2333,19 @@
 			}
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S01.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M4/SECTION_11_1_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M4/SECTION_11_1_PP.pdf",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0013/toc.html",
 				"img": "tut.png",
@@ -2387,11 +2395,19 @@
 			}
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S02.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M4/SECTION_11_2_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M4/SECTION_11_2_PP.pdf",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0017/toc.html",
 				"img": "tut.png",
@@ -2436,11 +2452,19 @@
 			}
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M4/SECTION_11_3_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M4/SECTION_11_3_PP.pdf",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0547/toc.html",
 				"img": "tut.png",
@@ -2485,11 +2509,19 @@
 			}
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+			"presentation": 
+			[{
+				"href": "PowerPoint/M4/SECTION_11_4_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M4/SECTION_11_4_PP.pdf",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0252/toc.html",
 				"img": "tut.png",
