@@ -2582,11 +2582,20 @@
 						"faq": "faq.html?t=BCM&c=12&s=2"
 					}
 				],
-				"presentation": [{
-					"href": "PowerPoint/M5/PPM05C12.pdf",
+				"presentation": [
+				{
+					"href": "PowerPoint/M5/SECTION_12_2_PP.pdf",
+					"img": "pdf.png",
+					"text": "PDF Slides"
+				},
+				{
+					"href": "PowerPoint/M5/SECTION_12_2_PP.pdf",
 					"img": "Powerpoint.png",
 					"text": "Powerpoint Slides"
-				}],
+				}
+				
+				
+				],
 				"tutorial": 
 				[
 					{
@@ -2646,11 +2655,19 @@
 						"faq": "faq.html?t=BCM&c=12&s=3"
 					}
 				],
-				"presentation": [{
-					"href": "PowerPoint/M5/PPM05C12.pdf",
+				"presentation": [
+				{
+					"href": "PowerPoint/M5/SECTION_12_3_PP.pdf",
+					"img": "pdf.png",
+					"text": "PDF Slides"
+				},
+				{
+					"href": "PowerPoint/M5/SECTION_12_3_PP.pdf",
 					"img": "Powerpoint.png",
 					"text": "Powerpoint Slides"
-				}],
+				}
+				
+				],
 				"tutorial": 
 				[
 					{
@@ -2705,11 +2722,19 @@
 						"faq": "faq.html?t=BCM&c=12&s=4"
 					}
 				],
-				"presentation": [{
-					"href": "PowerPoint/M5/PPM05C12.pdf",
+				"presentation": [
+				{
+					"href": "PowerPoint/M5/SECTION_12_4_PP.pdf",
+					"img": "pdf.png",
+					"text": "PDF Slides"
+				},
+				{
+					"href": "PowerPoint/M5/SECTION_12_4_PP.pdf",
 					"img": "Powerpoint.png",
 					"text": "Powerpoint Slides"
-				}],
+				}
+				
+				],
 				"tutorial": 
 				[
 					{
