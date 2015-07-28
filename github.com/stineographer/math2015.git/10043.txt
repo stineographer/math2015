@@ -1963,11 +1963,19 @@
 			}
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M2/SECTION_7_4_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M2/SECTION_7_4_PP.pptx",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0236/toc.html",
 				"img": "tut.png",
@@ -2012,11 +2020,18 @@
 			}
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S01.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M2/SECTION_7_5_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M2/SECTION_7_5_PP.pptx",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0237/toc.html",
 				"img": "tut.png",
@@ -2076,11 +2091,19 @@
 			}
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S01.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M3/SECTION_10_1_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M3/SECTION_10_1_PP.pdf",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0524/toc.html",
 				"img": "tut.png",
@@ -2130,11 +2153,19 @@
 			}
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S02.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M3/SECTION_10_2_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M3/SECTION_10_2_PP.pdf",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0247/toc.html",
 				"img": "tut.png",
@@ -2179,11 +2210,19 @@
 			}
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M3/SECTION_10_3_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M3/SECTION_10_3_PP.pdf",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0247/toc.html",
 				"img": "tut.png",
@@ -2196,9 +2235,9 @@
 		},
 		{
 			"name": "Section 10.4",
-			"longName": "Section 10.4: Operation with Rational Numbers",
+			"longName": "Section 10.4: Operations with Rational Numbers",
 			"introduction": [{
-				"text": "<p>Section 10.4: Operation with Rational Numbers</p> <ul> <li>Pages 428 to 438</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M3 04K</li> </ul>"
+				"text": "<p>Section 10.4: Operations with Rational Numbers</p> <ul> <li>Pages 428 to 438</li> <li>All objectives</li> <li>Look at all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH M3 04K</li> </ul>"
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
@@ -2220,7 +2259,7 @@
 			}],
 			"video": [{
 				"cengage_vidName": "auf_bcm_ch10_10_4",
-				"text": "10.4: Operation with Rational Numbers (33:03)",
+				"text": "10.4: Operations with Rational Numbers (33:03)",
 				"secure": true
 			},
 			{
@@ -2228,11 +2267,19 @@
 			}
 			
 			],
-			"presentation": [{
-				"href": "PowerPoint/M2/PPM02C02S03.pdf",
+			"presentation": [
+			{
+				"href": "PowerPoint/M3/SECTION_10_4_PP.pdf",
+				"img": "pdf.png",
+				"text": "PDF Slides"
+			},
+			{
+				"href": "PowerPoint/M3/SECTION_10_4_PP.pdf",
 				"img": "Powerpoint.png",
 				"text": "Powerpoint Slides"
-			}],
+			}
+			
+			],
 			"tutorial": [{
 				"href": "hhttp://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0248/toc.html",
 				"img": "tut.png",
