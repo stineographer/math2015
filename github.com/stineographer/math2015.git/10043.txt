@@ -49,12 +49,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_1_1_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_1_1_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -106,12 +106,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_1_2_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_1_2_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -163,12 +163,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_1_3_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_1_3_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "PowerPoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -225,12 +225,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_1_4_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_1_4_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "PowerPoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			],
 			"tutorial": [{
@@ -282,12 +282,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_1_5_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_1_5_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "PowerPoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			],
 			"tutorial": [{
@@ -338,12 +338,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_1_6_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_1_6_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "PowerPoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			
@@ -395,12 +395,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_1_7_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_1_7_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			
@@ -462,12 +462,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_2_1_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_2_1_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -520,12 +520,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_2_2_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_2_2_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -585,12 +585,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_2_3_PP.pdf",
 				"img": "pdf.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_2_3_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -643,12 +643,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_2_4_PP.pdf",
 				"img": "pdf.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_2_4_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -701,12 +701,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_2_5_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_2_5_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -760,12 +760,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_2_6_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_2_6_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			
@@ -820,12 +820,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_2_7_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_2_7_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			
@@ -879,12 +879,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_2_8_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_2_8_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			
@@ -940,12 +940,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_3_1_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_3_1_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -997,12 +997,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_3_2_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_3_2_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -1057,12 +1057,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_3_3_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_3_3_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -1115,12 +1115,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_3_4_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_3_4_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -1174,12 +1174,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_3_5_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_3_5_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			],
 			"tutorial": [{
@@ -1231,12 +1231,12 @@
 			{
 				"href": "PowerPoint/M1/SECTION_3_6_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M1/SECTION_3_6_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -1296,12 +1296,12 @@
 			{
 				"href": "PowerPoint/M2/SECTION_4_1_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M2/SECTION_4_1_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			
@@ -1355,12 +1355,12 @@
 			{
 				"href": "PowerPoint/M2/SECTION_4_2_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},	
 			{
 				"href": "PowerPoint/M2/SECTION_4_2_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			
@@ -1413,12 +1413,12 @@
 			{
 				"href": "PowerPoint/M2/SECTION_4_3_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M2/SECTION_4_3_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			],
 			"tutorial": [{
@@ -1477,12 +1477,12 @@
 			{
 				"href": "PowerPoint/M2/SECTION_5_1_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M2/SECTION_5_1_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			
@@ -1544,12 +1544,12 @@
 			{
 				"href": "PowerPoint/M2/SECTION_5_2_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M2/SECTION_5_2_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			
@@ -1606,12 +1606,12 @@
 			{
 				"href": "PowerPoint/M2/SECTION_5_3_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M2/SECTION_5_3_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -1663,12 +1663,12 @@
 			{
 				"href": "PowerPoint/M2/SECTION_5_4_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M2/SECTION_5_4_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			],
 			"tutorial": [{
@@ -1719,12 +1719,12 @@
 			{
 				"href": "PowerPoint/M2/SECTION_5_5_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M2/SECTION_5_5_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -1782,12 +1782,12 @@
 			{
 				"href": "PowerPoint/M2/SECTION_6_1_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M2/SECTION_6_1_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -1839,12 +1839,12 @@
 			{
 				"href": "PowerPoint/M2/SECTION_6_2_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M2/SECTION_6_2_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -1898,12 +1898,12 @@
 			{
 				"href": "PowerPoint/M2/SECTION_6_6_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M2/SECTION_6_6_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -1967,12 +1967,12 @@
 			{
 				"href": "PowerPoint/M2/SECTION_7_4_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M2/SECTION_7_4_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -2024,12 +2024,12 @@
 			{
 				"href": "PowerPoint/M2/SECTION_7_5_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M2/SECTION_7_5_PP.pptx",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			],
 			"tutorial": [{
@@ -2095,12 +2095,12 @@
 			{
 				"href": "PowerPoint/M3/SECTION_10_1_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M3/SECTION_10_1_PP.pdf",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -2157,12 +2157,12 @@
 			{
 				"href": "PowerPoint/M3/SECTION_10_2_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M3/SECTION_10_2_PP.pdf",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -2214,12 +2214,12 @@
 			{
 				"href": "PowerPoint/M3/SECTION_10_3_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M3/SECTION_10_3_PP.pdf",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -2271,12 +2271,12 @@
 			{
 				"href": "PowerPoint/M3/SECTION_10_4_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M3/SECTION_10_4_PP.pdf",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -2337,12 +2337,12 @@
 			{
 				"href": "PowerPoint/M4/SECTION_11_1_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M4/SECTION_11_1_PP.pdf",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -2399,12 +2399,12 @@
 			{
 				"href": "PowerPoint/M4/SECTION_11_2_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M4/SECTION_11_2_PP.pdf",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -2456,12 +2456,12 @@
 			{
 				"href": "PowerPoint/M4/SECTION_11_3_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M4/SECTION_11_3_PP.pdf",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -2513,12 +2513,12 @@
 			[{
 				"href": "PowerPoint/M4/SECTION_11_4_PP.pdf",
 				"img": "pdf.png",
-				"text": "PDF Slides"
+				"text": "Powerpoint Slides (PDF)"
 			},
 			{
 				"href": "PowerPoint/M4/SECTION_11_4_PP.pdf",
 				"img": "Powerpoint.png",
-				"text": "Powerpoint Slides"
+				"text": "Powerpoint Slides (PPT)"
 			}
 			
 			],
@@ -2586,12 +2586,12 @@
 				{
 					"href": "PowerPoint/M5/SECTION_12_2_PP.pdf",
 					"img": "pdf.png",
-					"text": "PDF Slides"
+					"text": "Powerpoint Slides (PDF)"
 				},
 				{
 					"href": "PowerPoint/M5/SECTION_12_2_PP.pdf",
 					"img": "Powerpoint.png",
-					"text": "Powerpoint Slides"
+					"text": "Powerpoint Slides (PPT)"
 				}
 				
 				
@@ -2659,12 +2659,12 @@
 				{
 					"href": "PowerPoint/M5/SECTION_12_3_PP.pdf",
 					"img": "pdf.png",
-					"text": "PDF Slides"
+					"text": "Powerpoint Slides (PDF)"
 				},
 				{
 					"href": "PowerPoint/M5/SECTION_12_3_PP.pdf",
 					"img": "Powerpoint.png",
-					"text": "Powerpoint Slides"
+					"text": "Powerpoint Slides (PPT)"
 				}
 				
 				],
@@ -2726,12 +2726,12 @@
 				{
 					"href": "PowerPoint/M5/SECTION_12_4_PP.pdf",
 					"img": "pdf.png",
-					"text": "PDF Slides"
+					"text": "Powerpoint Slides (PDF)"
 				},
 				{
 					"href": "PowerPoint/M5/SECTION_12_4_PP.pdf",
 					"img": "Powerpoint.png",
-					"text": "Powerpoint Slides"
+					"text": "Powerpoint Slides (PPT)"
 				}
 				
 				],
