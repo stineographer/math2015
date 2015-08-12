@@ -16,7 +16,7 @@
 				{
 					"kaltura_entryId": "0_3rbwp33v",
 					"img": "Book_Video.png",
-					"text": "Getting Started Video (20:43)"
+					"text": "Getting Started Video"
 				}
 			],
 			"book": 
@@ -77,7 +77,7 @@
 			{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (10:36)"
+				"text": "Getting Started Video"
 			}],
 			"book": [{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch1.swf",
@@ -133,7 +133,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (3:19)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -194,7 +194,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (14:47)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -251,7 +251,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (14:47)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -308,7 +308,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (14:47)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -366,7 +366,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (14:47)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -432,7 +432,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (8:51)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -489,7 +489,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (5:40)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -554,7 +554,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (6:34)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -612,7 +612,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (6:34)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -670,7 +670,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (8:51)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -728,7 +728,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (5:40)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -789,7 +789,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (6:34)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -849,7 +849,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (6:34)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -909,7 +909,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (26:04)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -967,7 +967,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (16:24)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1025,7 +1025,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (13:20)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1084,7 +1084,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (12:26)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1142,7 +1142,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (12:26)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1200,7 +1200,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (12:26)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1264,7 +1264,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (26:04)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1324,7 +1324,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (16:24)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1383,7 +1383,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (13:20)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1445,7 +1445,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (26:04)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1513,7 +1513,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (16:24)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1576,7 +1576,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (13:20)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1633,7 +1633,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (13:20)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1689,7 +1689,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (13:20)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1753,7 +1753,7 @@
 			{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (20:43)"
+				"text": "Getting Started Video"
 			}],
 			"book": [{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch6.swf",
@@ -1810,7 +1810,7 @@
 			{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (10:36)"
+				"text": "Getting Started Video"
 			}],
 			"book": [{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch6.swf",
@@ -1868,7 +1868,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (14:47)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1937,7 +1937,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (6:34)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -1994,7 +1994,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (8:51)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -2065,7 +2065,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (8:51)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -2127,7 +2127,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (5:40)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -2184,7 +2184,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (6:34)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -2241,7 +2241,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (6:34)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -2307,7 +2307,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (8:51)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -2369,7 +2369,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (5:40)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -2426,7 +2426,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (6:34)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -2483,7 +2483,7 @@
 			},{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (6:34)"
+				"text": "Getting Started Video"
 			}],
 			"book": [
 			{
@@ -2553,7 +2553,7 @@
 					{
 						"kaltura_entryId": "1_xifis1c8",
 						"img": "Book_Video.png",
-						"text": "Getting Started Video (6:19)"
+						"text": "Getting Started Video"
 					}
 				],
 				"book": 
@@ -2626,7 +2626,7 @@
 					{
 						"kaltura_entryId": "1_xifis1c8",
 						"img": "Book_Video.png",
-						"text": "Getting Started Video (6:19)"
+						"text": "Getting Started Video"
 					}
 				],
 				"book": 
@@ -2693,7 +2693,7 @@
 					{
 						"kaltura_entryId": "1_xifis1c8",
 						"img": "Book_Video.png",
-						"text": "Getting Started Video (6:19)"
+						"text": "Getting Started Video"
 					}
 				],
 				"book": 
