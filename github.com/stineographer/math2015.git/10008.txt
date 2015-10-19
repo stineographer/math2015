@@ -780,8 +780,159 @@
 	
 	{
 		"name": "Module 5",
-		"longName": "Module 5: incomplete"
+		"longName": "Module 5:  Systems of Linear Equations",
+		"chapter": [{
+			"name": "Section 5.1",
+			"longName": "Section 5.1:  Solving Systems of Linear Equations by Graphing and by the Substitution Method",
+			"introduction": [{
+				"kaltura_entryId": "1_ezeov1ez",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (23:31)"
+			}],
+			"book": [{
+				"text": "<p>Section 5.1:  Solving Systems of Linear Equations by Graphing and by the Substitution Method</p> <ul> <li>Pages 299 to 307</li> <li>Objectives A and B</li></ul><p>Suggested Homework</p><ul><li>Pg 308: Ex: 1 – 28</li><li>Pg 310: Ex: 29 - 58</li></ul> <p>WebAssign</p><ul> <li>M5 01</li></ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=299",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 299 to 307",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=128",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 5 Section 1",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch5_5_1",
+				"text": "5.1: Solving Systems of Linear Equations by Graphing and Substitution",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=5&s=1"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C05S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Graph_Paper.pdf",
+				"img": "Graph_Paper.gif",
+				"text": "Graph Paper"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0003/toc.html",
+				"img": "tut.png",
+				"text": "Solving Systems of Linear Equations in Two Variables"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0020/toc.html",
+				"img": "tut.png",
+				"text": "Solving a Simple Interest Problem"
+			}],
+			"assignment": [{
+				"lti": "MA018 M3 01"
+			}]
+		},
+		{
+			"name": "Section 5.2",
+			"longName": "Section 5.2:  Solving Systems of Linear Equations by the Addition Method",
+			"introduction": [{
+				"kaltura_entryId": "0_uwccn55h",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:32)"
+			}],
+			"book": [{
+				"text": "<p>Section 5.2:  Solving Systems of Linear Equations by the Addition Method</p> <ul> <li>Pages 312 to 319</li> <li>Objective A</li></ul><p>Suggested Homework</p><ul><li>Pg 320: Ex: 1 – 44</li></ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=312",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 312 to 319",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=134",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 5 Section 2",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch5_5_2",
+				"text": "5.2: Solving Systems of Linear Equations by the Addition Method",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=5&s=2"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C05S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0003/toc.html",
+				"img": "tut.png",
+				"text": "Solving Systems of Linear Equations by the Addition Method"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0297/toc.html",
+				"img": "tut.png",
+				"text": "Numbers of Solutions and Applications of Linear Systems with Three Variables"
+			}],
+			"assignment": [{
+				"lti": "MA018 M3 02"
+			}]
+		},
+		{
+			"name": "Section 5.3",
+			"longName": "Section 5.3:  Application Problems",
+			"introduction": [{
+				"kaltura_entryId": "0_rl1ldsa0",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (3:11)"
+			}],
+			"book": [{
+				"text": "<p>Section 5.3:  Application Problems</p> <ul> <li>Pages 324 to 327</li> <li>Objective A</li></ul><p>Suggested Homework</p><ul><li>Pg 328: Ex: 13 – 29</li></ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=324",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 324 to 327",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=145",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 5 Section 3",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch5_5_4",
+				"text": "5.3: Application Problems",
+				"secure": true,
+				"vl": "auf_algii_ch5_5_3"
+			},
+			{
+				"faq": "faq.html?t=IIA&c=5&s=3"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M3/PPM03C05S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"assignment": [{
+				"lti": "MA018 M3 03"
+			}]
+		}]
 	},
+	
+	
 	{
 		"name": "Module 6",
 		"longName": "Module 6: incomplete"
