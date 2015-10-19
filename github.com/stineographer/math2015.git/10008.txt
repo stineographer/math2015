@@ -525,14 +525,262 @@
 			}]
 		}]
 	},
+	
 	{
 		"name": "Module 4",
-		"longName": "Module 4: incomplete"
+		"longName": "Module 4: Equation of the Straight Line",
+		"chapter": [{
+			"name": "Section 4.1",
+			"longName": "Section 4.1: Rectangular Coordinate System",
+		"introduction": [{
+				"kaltura_entryId": "1_z1brm0wv",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:51)"
+			}],
+			"book": [{
+				"text": "<p>Section 4.1:  Equation of the Straight Line</p> <ul> <li>IIA Pages 222 to 227</li> <li>Objectives A, B, C covered</li></ul><p>Suggested Homework</p><ul><li>Pg 228: Ex: 1 - 12</li><li>Pg 229: Ex: 15 - 36</li><li>Pg 230: Ex: 37 – 40</li></ul> <p>WebAssign</p><ul> <li>M4 01</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=222",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 222 to 227",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=93",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 4 Section 1",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch4_4_1",
+				"text": "4.1: The Rectangular Coordinate System",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=4&s=1"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C04S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Graph_Paper.pdf",
+				"img": "Graph_Paper.gif",
+				"text": "Graph Paper"
+			}],
+				"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0558/toc.html",
+				"img": "tut.png",
+				"text": "The Rectangular Coordinate System"
+			}],
+			"assignment": [{
+				"lti": "M4 01"
+			}]
+			
+		},
+		{
+			"name": "Section 4.3",
+			"longName": "Section 4.3: Linear Functions",
+			"introduction": [{
+				"kaltura_entryId": "1_w6arl6x7",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (8:24)"
+			}],
+			"book": [{
+				"text": "<p>Section 4.3:  Linear Functions</p> <ul> <li>Pages 244 to 250</li> <li>Objectives A to D</li></ul><p>Suggested Homework</p><ul><li>Pg 251: Ex: 1 - 14</li><li>Pg 252: Ex: 15 - 29</li><li>Pg 253: Ex: 32 - 40</li><li>Pg 254: Ex: 43 - 48</li></ul> <p>WebAssign</p><ul> <li>M4 02</li></ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=244",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 244 to 250",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=98",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 4 Section 3",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch4_4_3",
+				"text": "4.3: Linear Functions",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=4&s=3"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C04S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Graph_Paper.pdf",
+				"img": "Graph_Paper.gif",
+				"text": "Graph Paper"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0027/toc.html",
+				"img": "tut.png",
+				"text": "Graphing Linear Equations of the Form Ax + By = C"
+			}],
+			"assignment": [{
+				"lti": "M4 02"
+			}]
+		},
+		
+		{
+			"name": "Section 4.4",
+			"longName": "Section 4.4: Slope of a Straight Line",
+			"book": [{
+				"text": "<p>Section 4.4: Slope of a Straight Line</p> <ul> <li>Pages 256 to 261</li> <li>Objectives A and B</li></ul><p>Suggested Homework</p><ul><li>Pg 262: Ex: 1 – 30</li><li>Pg 264: Ex: 31 - 62</li></ul> <p>WebAssign</p><ul> <li>MA018 M2 03</li></ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=256",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 256 to 261",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=102",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 4 Section 4",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch4_4_4",
+				"text": "4.4: Slope of a Straight Line",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=4&s=4"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C04S04.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Graph_Paper.pdf",
+				"img": "Graph_Paper.gif",
+				"text": "Graph Paper"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0001/toc.html",
+				"img": "tut.png",
+				"text": "Slope of a Line"
+			}],
+			"assignment": [{
+				"lti": "MA018 M2 03"
+			}]
+		
+		},
+		
+		{
+			"name": "Section 4.5",
+			"longName": "Section 4.5:  Finding the Equations of Lines",
+			"introduction": [{
+				"kaltura_entryId": "1_t33frezj",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:33)"
+			}],
+			"book": [{
+				"text": "<p>Section 4.5:  Finding the Equations of Lines</p> <ul> <li>Pages 267 to 270</li> <li>Objectives A to C</li></ul><p>Suggested Homework</p><ul><li>Pg 271: Ex: 4 – 40</li><li>Pg 272: Ex: 43 - 78</li><li>Pg 273: Ex: 79 - 96</li></ul> <p>WebAssign</p><ul> <li>M4 03</li></ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=267",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 267 to 270",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=105",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 4 Section 5",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch4_4_5",
+				"text": "4.5: Finding Equations of Lines",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=4&s=5"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C04S05.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0029/toc.html",
+				"img": "tut.png",
+				"text": "Writing Equations of Lines Given Two or More Points"
+			}],
+			"assignment": [{
+				"lti": "MA018 M2 04<br />after completing Section 4.6"
+			}]
+		},
+		{
+			"name": "Section 4.6",
+			"longName": "Section 4.6:  Parallel and Perpendicular Lines",
+			"introduction": [{
+				"kaltura_entryId": "1_edpr26wh",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (8:10)"
+			}],
+			"book": [{
+				"text": "<p>Section 4.6:  Parallel and Perpendicular Lines</p> <ul> <li>Pages 276 to 279</li> <li>Objective A</li></ul><p>Suggested Homework</p><ul><li>Pg 280: Ex: 1 – 34</li></ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=276",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 276 to 279",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=112",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 4 Section 6",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch4_4_6",
+				"text": "4.6: Parallel and Perpendicular Lines",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=4&s=6"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M2/PPM02C04S06.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0030/toc.html",
+				"img": "tut.png",
+				"text": "Parallel and Perpendicular Lines"
+			}],
+			"assignment": [{
+				"lti": "MA018 M2 04"
+			}]
+		}
+		
+		
+		]
 	},
+	
 	{
 		"name": "Module 5",
 		"longName": "Module 5: incomplete"
-		
 	},
 	{
 		"name": "Module 6",
