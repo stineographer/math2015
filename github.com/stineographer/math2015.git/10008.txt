@@ -1,0 +1,542 @@
+{
+	"module": [{
+		"name": "Module 1",
+		"longName": "Module 1: Real Numbers and Variable Expressions",
+		"chapter": [{
+			"name": "Section 1.1",
+			"longName": "Section 1.1: Integers",
+			"introduction": [{
+				"kaltura_entryId": "1_k3fqapmz",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (20:43)"
+			}],
+			"book": [{
+				"text": "<p>Section 1.1: Introduction to Integers</p> <ul> <li>Pages 2 to 11</li> <li>Objectives A to E</li> </ul> <p>Suggested Homework</p><ul><li>Pg 12: Ex: 1 – 26</li><li>Pg 12: Ex: 33 – 56</li><li>Pg 13: Ex: 59 – 113</li><li>Pg 15: Ex: 115 – 172</li><li>Pg 16: Ex: 174 - 190</li></ul> <p>WebAssign</p><ul> <li>M1 01</li><li>M1 02</li><li>M1 03</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=1",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 1 to 11",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=6",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 6 to 9",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch1_1_1",
+				"text": "1.1: Integers (45:55)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=1&s=1"
+			}],
+			"presentation": [{
+				"href": "Notes/11_Integers_10008_F13.pdf",
+				"img": "notes.jpg",
+				"text": "Notes"
+			},
+			{
+				"href": "Notes/Self_Test_Inequalities_10008.pdf",
+				"img": "self_test.png",
+				"text": "Self Test: Inequalities"
+			},
+			{
+				"href": "Notes/Practice_Questions_Integer_Word_Problems_10008.pdf",
+				"img": "practice.png",
+				"text": "Practice Questions: Integer Word Problems"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0246/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Integers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0007/toc.html",
+				"img": "tut.png",
+				"text": "Opposites and Absolute Value"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0008/toc.html",
+				"img": "tut.png",
+				"text": "Operations with Integers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0247/toc.html",
+				"img": "tut.png",
+				"text": "Operations with Integers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0526/toc.html",
+				"img": "tut.png",
+				"text": "Multiplying and Dividing Integers"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Introduction to Integers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.02-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Addition and Subtraction of Integers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Multiplication and Division of Integers"
+			}],
+			"assignment": [{
+				"lti": "M1 01, M1 02 & M1 03"
+			}]
+		},
+		{
+			"name": "Section 1.2",
+			"longName": "Section 1.2: Rational & Irrational Numbers",
+			"introduction": [{
+				"kaltura_entryId": "1_pcs4d9v7",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (10:36)"
+			}],
+			"book": [{
+				"text": "<p>Section 1.2: Rational Numbers</p> <ul> <li>Pages 18 to 27</li> <li>Objectives A to E & G</li><li>Skip radical expressions</li> </ul> <p>Suggested Homework</p><ul><li>Pg 28: Ex: 1 – 15</li><li>Pg 28: Ex: 18 – 67</li><li>Pg 29: Ex; 70 – 94</li><li>Pg 30: Ex: 99 – 122</li><li>Pg 31: Ex: 124 – 146</li><li>Pg 32: Ex: 181 - 189</li></ul> <p>WebAssign</p><ul> <li>M1 04</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=18",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 18 to 27",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=9",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 9 to 12",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch1_1_2",
+				"text": "1.2: Rational and Irrational Numbers (66:08)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=1&s=2"
+			}],
+			"presentation": [{
+				"href": "Notes/12_Fractions_10008_F13.pdf",
+				"img": "notes.jpg",
+				"text": "Notes"
+			},
+			{
+				"href": "Notes/Self_Test_Fraction_Arithmetic_1_10008.pdf",
+				"img": "self_test.png",
+				"text": "Self Test: Fraction Arithmetic 1"
+			},
+			{
+				"href": "Notes/Self_Test_Fraction_Arithmetic_1_10008.pdf",
+				"img": "self_test.png",
+				"text": "Self Test: Fraction Arithmetic 2"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0009/toc.html",
+				"img": "tut.png",
+				"text": "Converting Fractions, Decimals, and Percents"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0248/toc.html",
+				"img": "tut.png",
+				"text": "Operations with Rational Numbers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0011/toc.html",
+				"img": "tut.png",
+				"text": "Exponents"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0058/toc.html",
+				"img": "tut.png",
+				"text": "Simplifying Radical Expressions"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.06-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Addition and Subtraction of Rational Numbers"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.07-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Multiplication and Division of Rational Numbers"
+			}],
+			"assignment": [{
+				"lti": "M1 04"
+			}]
+		},
+		{
+			"name": "Section 1.3",
+			"longName": "Section 1.3: Order of Operations Agreement",
+			"introduction": [{
+				"kaltura_entryId": "1_9le2864f",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (3:19)"
+			}],
+			"book": [{
+				"text": "<p>Section 1.3: Order of Operations Agreement</p> <ul> <li>Pages 34 to 35</li> </ul> <p>Suggested Homework</p><ul><li>Pg 36: Ex: 3 – 35</li></ul> <p>WebAssign</p><ul> <li>M1 05</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=34",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 34 to 35",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=12",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 12 to 13",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch1_1_3",
+				"text": "1.3: The Order of Operations Agreement (14:25)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=1&s=3"
+			}],
+			"presentation": [{
+				"href": "Notes/13_Order_10008_F13.pdf",
+				"img": "notes.jpg",
+				"text": "Notes"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0206/toc.html",
+				"img": "tut.png",
+				"text": "Exponential Notation and the Order of Operations Agreement"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.04-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Exponents and the Order of Operations Agreement"
+			}],
+			"assignment": [{
+				"lti": "M1 05"
+			}]
+		},
+		{
+			"name": "Section 1.4",
+			"longName": "Section 1.4: Variable Expressions",
+			"introduction": [{
+				"kaltura_entryId": "1_tc5tf1cg",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (14:47)"
+			}],
+			"book": [{
+				"text": "<p>Section 1.4: Variable Expressions</p> <ul> <li>Pages 38 to 47</li><li>Objectives A to E</li> </ul> <p>Suggested Homework</p><ul><li>Pg 48: Ex: 1 – 33</li><li>Pg 49: Ex: 35 - 70</li><li>Pg 50: Ex: 72 – 111</li><li>Pg 51: Ex: 113 – 177</li><li>Pg 52: Ex: 178 - 212</li></ul> <p>WebAssign</p><ul> <li>M1 06</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=38",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 38 to 47",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=13",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 13 to 16",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch1_1_4",
+				"text": "1.4: Variable Expressions (34:26)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=1&s=4"
+			}],
+			"presentation": [{
+				"href": "Notes/14_Variable_Expressions_10008_F13.pdf",
+				"img": "notes.jpg",
+				"text": "Notes"
+			},
+			{
+				"href": "Notes/Module_1_Practice_10008.pdf",
+				"img": "practice.png",
+				"text": "Practice Questions: Module 1"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0250/toc.html",
+				"img": "tut.png",
+				"text": "Variable Expressions"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0013/toc.html",
+				"img": "tut.png",
+				"text": "Evaluating Variable Expressions"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0012/toc.html",
+				"img": "tut.png",
+				"text": "Variable Expressions and Verbal Expressions"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Evaluating Variable Expressions"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.02-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Simplifying Variable Expressions"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.03-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Translating Verbal Expressions into Variable Expressions"
+			}],
+			"assignment": [{
+				"lti": "MA006 M1 03"
+			}]
+		}]
+	},
+	{
+		"name": "Module 2",
+		"longName": "Module 2: Unit Conversions",
+		"chapter": [{
+			"name": "Section 2.1",
+			"longName": "Section 2.1: Significant Digits and Scientific Notation"
+		},
+		{
+			"name": "Section 2.2",
+			"longName": "Section 2.2: Length and Mass Measures"
+		},
+		{
+			"name": "Section 2.3",
+			"longName": "Section 2.3: Area and Volume Measures"
+		}]
+	},
+	{
+		"name": "Module 3",
+		"longName": "Module 3: Linear Equations",
+		"chapter": [{
+			"name": "Section 3.1",
+			"longName": "Section 3.1: Introduction to Equations",
+			"introduction": [{
+				"kaltura_entryId": "1_62g0jj62",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (8:51)"
+			}],
+			"book": [{
+				"text": "<p>Section 3.1:  Introduction to Equations</p> <ul> <li>Pages 76 to 86</li> <li>Objectives A to D, Objective E not covered</li><li>Basic College Texbook Pages 238 to 243</li> <li>Percent increase and decrease problems</li></ul><p>Suggested Homework</p><ul><li>Pg 87: Ex: 3 - 20</li><li>Pg 87: Ex: 23 - 64</li><li>Pg 88: Ex: 67 – 110</li><li>Pg 90: Ex: 113 - 162</li><li>Pg 244: 1 - 41 (Basic College textbook)</li></ul> <p>WebAssign</p><ul> <li>M3 01</li><li>M3 02</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=75",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 76 to 86",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=22",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 22 to 26",
+				"target": "sol_book",
+				"secure": true
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch06.swf?INITIAL_PAGE=8",
+				"img": "BCM.jpg",
+				"text": "Chapter 6<br />Pages 238 to 243",
+				"secure": true
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=120",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Pages 120 to 124",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch2_2_1",
+				"text": "2.1: Introduction to Equations (45:19)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=2&s=1"
+			}],
+			"presentation": [{
+				"href": "Notes/31_Intro_to_Equations_10008_W15.pdf",
+				"img": "notes.jpg",
+				"text": "Notes: Introduction to Equations"
+			},
+			{
+				"href": "Notes/32_Simple_Percent_10008_F14.pdf",
+				"img": "notes.jpg",
+				"text": "Notes: Simple Percent"
+			},
+			{
+				"href": "Notes/Homework Simple Percent Problems F11.pdf",
+				"img": "practice.png",
+				"text": "Practice: Simple Percent Problems"
+			},
+			{
+				"href": "Notes/Homework Percent  Change Problems F11.pdf",
+				"img": "practice.png",
+				"text": "Practice: Percent Change Problems"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0251/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Solving Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0555/toc.html",
+				"img": "tut.png",
+				"text": "Solving Equations Using Properties of Equality"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
+				"img": "tut.png",
+				"text": "Percent Equations"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
+				"img": "tut.png",
+				"text": "Problems Involving Rates"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Introduction to Equations"
+			}],
+			"assignment": [{
+				"lti": "M3 01, M3 02"
+			}]
+		},
+		{
+			"name": "Section 3.2",
+			"longName": "Section 3.2: General Equations",
+			"introduction": [{
+				"kaltura_entryId": "1_12r72omn",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (5:40)"
+			}],
+			"book": [{
+				"text": "<p>Section 3.2:  General Equations</p> <ul> <li>Pages 95 to 102</li> <li>Objectives A to D</li></ul><p>Suggested Homework</p><ul><li>Pg 103: Ex: 1 - 84</li><li>Pg 105: Ex: 85 - 117</li><li>Pg 106: Ex: 118 - 142</li><li>Pg 107: Ex: 143 - 155</li></ul> <p>WebAssign</p><ul> <li>M3 03</li></ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=95",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 95 to 102",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=29",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 29 to 37",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch11_11_3",
+				"text": "2.2: General Equations - Part I (14:28)",
+				"secure": true,
+				"vl": "auf_bcm_ch11_11_3_algii"
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch11_11_4",
+				"text": "2.2: General Equations - Part II (11:57)",
+				"secure": true,
+				"vl": "auf_bcm_ch11_11_4_algii"
+			},
+			{
+				"faq": "faq.html?t=IIA&c=2&s=2"
+			}],
+			"presentation": [{
+				"href": "Notes/33_General_Equations_10008_F14.pdf",
+				"img": "notes.jpg",
+				"text": "Notes: Introduction to Equations"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0547/toc.html",
+				"img": "tut.png",
+				"text": "Solving General First-Degree Linear Equations in 1 Variable"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0252/toc.html",
+				"img": "tut.png",
+				"text": "Solving Other Types of Equations"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.02-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "General Equations Part I"
+			}],
+			"assignment": [{
+				"lti": "M3 03"
+			}]
+		},
+		{
+			"name": "Section 3.3",
+			"longName": "Section 3.3: Mixture Problems",
+			"book": [{
+				"text": "<p>Section 3.3: Mixture Problems</p> <ul> <li>Pages 116 to 119</li> <li>Objectives A and B</li></ul><p>Suggested Homework</p><ul><li>Pg 122: Ex: 1 – 18</li><li>Pg 123: Ex: 19 - 36</li></ul> <p>WebAssign</p><ul> <li>M3 04</li><li>M3 05<li></ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=116",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 116 to 119",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=38",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 38 to 41",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch2_2_4",
+				"text": "2.4: Mixture Problems",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=2&s=4"
+			}],
+			"presentation": [{
+				"href": "Notes/34_Mixture_ Problems_10008_F14.pdf",
+				"img": "notes.jpg",
+				"text": "Notes: Introduction to Equations"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0021/toc.html",
+				"img": "tut.png",
+				"text": "Mixture Problems in One Variable"
+			}],
+			"ace": [{
+				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.06-prac1/1.html",
+				"img": "acethetest.png",
+				"text": "Mixture and uniform motion problems"
+			}],
+			"assignment": [{
+				"lti": "M3 04, M3 05"
+			}]
+		}]
+	},
+	{
+		"name": "Module 4",
+		"longName": "Module 4: incomplete"
+	},
+	{
+		"name": "Module 5",
+		"longName": "Module 5: incomplete"
+		
+	},
+	{
+		"name": "Module 6",
+		"longName": "Module 6: incomplete"
+		
+	}]
+}
