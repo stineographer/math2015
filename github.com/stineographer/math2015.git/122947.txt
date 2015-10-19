@@ -1,6 +1,6 @@
 {
 	"config": {
-		"groupTest": "https://elearn.mohawkcollege.ca/d2l/le/content/122947/viewContent/1430908/View",
+		
 		"ltiLink": "/d2l/common/dialogs/quickLink/quickLink.d2l?ou=122947&type=lti&rcode=Mohawk-922673&srcou=122947"
 	},
 	
