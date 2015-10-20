@@ -935,7 +935,7 @@
 	
 	{
 		"name": "Module 6",
-		"longName": "Module 6:  Exponential and Logarithmic Functions",
+		"longName": "Module 6: Exponential and Logarithmic Functions",
 		"chapter": [
 		{
 			"name": "Section 6.1",
