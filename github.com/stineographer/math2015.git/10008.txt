@@ -935,7 +935,203 @@
 	
 	{
 		"name": "Module 6",
-		"longName": "Module 6: incomplete"
+		"longName": "Module 6:  Exponential and Logarithmic Functions",
+		"chapter": [
+		{
+			"name": "Section 6.1",
+			"longName": "Section 6.1: Exponent Rules",
+				"introduction": [{
+				"kaltura_entryId": "1_98yv0hui",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (9:19)"
+			}],
+			"book": [{
+				"text": "<p>Section 6.1:  Exponent Rules</p> <ul> <li>Pages 348 to 355</li></ul><p>Suggested Homework</p><ul><li>Pg 355: Ex: 1 – 90</li></ul><p>WebAssign</p><ul> <li>M6 01</li></ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=348",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 348 to 355",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=167",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 6 Section 1",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch6_6_1",
+				"text": "6.1: Exponential Expressions",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=6&s=1"
+			}],
+			
+			"assignment": [{
+				"lti": "M6 01"
+			}]
+		},
 		
+		{
+			"name": "Section 12.1",
+			"longName": "Section 12.1:  Exponential Functions",
+			"introduction": [{
+				"kaltura_entryId": "1_98yv0hui",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (9:19)"
+			}],
+			"book": [{
+				"text": "<p>Section 12.1:  Exponential Functions</p> <ul> <li>Pages 673 to 680</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 37</li>  <li>WebAssign Assignment MA018 M4 01</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=673",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 673 to 680",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=365",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 12 Section 1",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch12_12_1",
+				"text": "12.1: Exponential Functions",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=12&s=1"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M4/PPM04C12S01.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Graph_Paper.pdf",
+				"img": "Graph_Paper.gif",
+				"text": "Graph Paper"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0082/toc.html",
+				"img": "tut.png",
+				"text": "Exponential Functions"
+			}],
+			"assignment": [{
+				"lti": "MA018 M4 01"
+			}]
+		},
+		{
+			"name": "Section 12.2",
+			"longName": "Section 12.2:  Introduction to Logarithms",
+			"introduction": [{
+				"kaltura_entryId": "1_4yu7k75r",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (10:37)"
+			}],
+			"book": [{
+				"text": "<p>Section 12.2:  Introduction to Logarithms</p> <ul> <li>Pages 681 to 691</li> <li>Objectives A to C</li> <li>Look at the odd questions 1 to 127</li>  <li>WebAssign Assignment MA018 M4 02</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=681",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 681 to 691",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=368",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 12 Section 2",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch12_12_2",
+				"text": "12.2: Introduction Logarithms",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=12&s=2"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M4/PPM04C12S02.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Log_Rules.pdf",
+				"img": "Rules.png",
+				"text": "Properties of Logarithms"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0083/toc.html",
+				"img": "tut.png",
+				"text": "Introduction to Logarithms"
+			},
+			{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0084/toc.html",
+				"img": "tut.png",
+				"text": "Graphs and Properties of Logarithms"
+			}],
+			"assignment": [{
+				"lti": "MA018 M4 02"
+			}]
+		},
+		{
+			"name": "Section 12.3",
+			"longName": "Section 12.3:  Graphs of Logarithmic Functions",
+			"introduction": [{
+				"kaltura_entryId": "1_5742sitf",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (3:12)"
+			}],
+			"book": [{
+				"text": "<p>Section 12.3:  Graphs of Logarithmic Functions</p> <ul> <li>Pages 692 to 695</li> <li>Objective A</li> <li>Look at the odd questions 1 to 23</li>  <li>WebAssign Assignment MA018 M4 03<br />after completing Section 12.4 </li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=692",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 692 to 695",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=371",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 12 Section 3",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch12_12_3",
+				"text": "12.3: Graphs and Logarithmic Functions",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=12&s=3"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M4/PPM04C12S03.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/Graph_Paper.pdf",
+				"img": "Graph_Paper.gif",
+				"text": "Graph Paper"
+			}],
+			"tutorial": [{
+				"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0084/toc.html",
+				"img": "tut.png",
+				"text": "Graphs and Properties of Logarithms"
+			}],
+			"assignment": [{
+				"lti": "MA018 M4 03<br />after completing Section 12.4"
+			}]
+		}]
 	}]
 }
