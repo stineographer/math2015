@@ -984,12 +984,12 @@
 				"text": "Getting Started Video (9:19)"
 			}],
 			"book": [{
-				"text": "<p>Section 12.1:  Exponential Functions</p> <ul> <li>Pages 673 to 680</li> <li>Objectives A and B</li> <li>Look at the odd questions 1 to 37</li>  <li>WebAssign Assignment MA018 M4 01</li> </ul>"
+				"text": "<p>Section 12.1:  Exponential Functions</p> <ul> <li>Pages 673 to 677</li> <li>Objectives A and B</li></ul><p>Suggested Homework</p><ul><li>Pg 678: Ex: 1 – 18</li><li>Pg 679: Ex: 21 – 38</li></ul><p>WebAssign</p><ul> <li>M6 02</li></ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=673",
 				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 673 to 680",
+				"text": "Full eBook<br />Pages 673 to 677",
 				"prependLti": "true"
 			},
 			{
@@ -1023,7 +1023,7 @@
 				"text": "Exponential Functions"
 			}],
 			"assignment": [{
-				"lti": "MA018 M4 01"
+				"lti": "M6 02"
 			}]
 		},
 		{
@@ -1035,12 +1035,12 @@
 				"text": "Getting Started Video (10:37)"
 			}],
 			"book": [{
-				"text": "<p>Section 12.2:  Introduction to Logarithms</p> <ul> <li>Pages 681 to 691</li> <li>Objectives A to C</li> <li>Look at the odd questions 1 to 127</li>  <li>WebAssign Assignment MA018 M4 02</li> </ul>"
+				"text": "<p>Section 12.2:  Introduction to Logarithms</p> <ul> <li>Pages 681 to 687</li> <li>Objectives A to C</li></ul><p>Suggested Homework</p><ul><li>Pg 688: Ex: 3 – 46</li><li>Pg 689: Ex: 49 – 112</li><li>Pg 691: Ex: 113 – 128</li></ul><p>WebAssign</p><ul> <li>M6 03</li></ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=681",
 				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 681 to 691",
+				"text": "Full eBook<br />Pages 681 to 687",
 				"prependLti": "true"
 			},
 			{
@@ -1079,7 +1079,7 @@
 				"text": "Graphs and Properties of Logarithms"
 			}],
 			"assignment": [{
-				"lti": "MA018 M4 02"
+				"lti": "M6 03"
 			}]
 		},
 		{
@@ -1091,12 +1091,12 @@
 				"text": "Getting Started Video (3:12)"
 			}],
 			"book": [{
-				"text": "<p>Section 12.3:  Graphs of Logarithmic Functions</p> <ul> <li>Pages 692 to 695</li> <li>Objective A</li> <li>Look at the odd questions 1 to 23</li>  <li>WebAssign Assignment MA018 M4 03<br />after completing Section 12.4 </li> </ul>"
+				"text": "<p>Section 12.3:  Graphs of Logarithmic Functions</p> <ul> <li>Pages 692 to 693</li> <li>Objective A</li></ul><p>Suggested Homework</p><ul><li>Pg 694: Ex: 5 – 24</li></ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=692",
 				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 692 to 695",
+				"text": "Full eBook<br />Pages 692 to 693",
 				"prependLti": "true"
 			},
 			{
