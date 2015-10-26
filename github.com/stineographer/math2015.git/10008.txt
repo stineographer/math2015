@@ -74,21 +74,7 @@
 				"img": "tut.png",
 				"text": "Multiplying and Dividing Integers"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Introduction to Integers"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.02-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Addition and Subtraction of Integers"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Multiplication and Division of Integers"
-			}],
+		
 			"assignment": [{
 				"lti": "M1 01, M1 02 & M1 03"
 			}]
@@ -160,16 +146,7 @@
 				"img": "tut.png",
 				"text": "Simplifying Radical Expressions"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.06-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Addition and Subtraction of Rational Numbers"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.07-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Multiplication and Division of Rational Numbers"
-			}],
+			
 			"assignment": [{
 				"lti": "M1 04"
 			}]
@@ -216,11 +193,7 @@
 				"img": "tut.png",
 				"text": "Exponential Notation and the Order of Operations Agreement"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/01.04-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Exponents and the Order of Operations Agreement"
-			}],
+			
 			"assignment": [{
 				"lti": "M1 05"
 			}]
@@ -282,21 +255,7 @@
 				"img": "tut.png",
 				"text": "Variable Expressions and Verbal Expressions"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Evaluating Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.02-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Simplifying Variable Expressions"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/02.03-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Translating Verbal Expressions into Variable Expressions"
-			}],
+			
 			"assignment": [{
 				"lti": "MA006 M1 03"
 			}]
@@ -406,11 +365,7 @@
 				"img": "tut.png",
 				"text": "Problems Involving Rates"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.01-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Introduction to Equations"
-			}],
+		
 			"assignment": [{
 				"lti": "M3 01, M3 02"
 			}]
@@ -469,11 +424,7 @@
 				"img": "tut.png",
 				"text": "Solving Other Types of Equations"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.02-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "General Equations Part I"
-			}],
+			
 			"assignment": [{
 				"lti": "M3 03"
 			}]
@@ -515,11 +466,7 @@
 				"img": "tut.png",
 				"text": "Mixture Problems in One Variable"
 			}],
-			"ace": [{
-				"href": "https://college.cengage.com/mathematics/aufmann/intro_algebra_applied/7e/students/ace/applets/03.06-prac1/1.html",
-				"img": "acethetest.png",
-				"text": "Mixture and uniform motion problems"
-			}],
+		
 			"assignment": [{
 				"lti": "M3 04, M3 05"
 			}]
@@ -1035,7 +982,7 @@
 				"text": "Getting Started Video (10:37)"
 			}],
 			"book": [{
-				"text": "<p>Section 12.2:  Introduction to Logarithms</p> <ul> <li>Pages 681 to 687</li> <li>Objectives A to C</li></ul><p>Suggested Homework</p><ul><li>Pg 688: Ex: 3 – 46</li><li>Pg 689: Ex: 49 – 112</li><li>Pg 691: Ex: 113 – 128</li></ul><p>WebAssign</p><ul> <li>M6 03</li></ul>"
+				"text": "<p>Section 12.2:  Introduction to Logarithms</p> <ul> <li>Pages 681 to 687</li> <li>Objectives A to C</li></ul><p>Suggested Homework</p><ul><li>Pg 688: Ex: 3 – 46</li><li>Pg 689: Ex: 49 – 112</li><li>Pg 691: Ex: 113 – 128</li></ul><p>WebAssign</p><ul><li>Complete WebAssign Assignment M6 03, but attempt after completing Section 12.3 material</li></ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=681",
@@ -1079,7 +1026,7 @@
 				"text": "Graphs and Properties of Logarithms"
 			}],
 			"assignment": [{
-				"lti": "M6 03"
+				"lti": "Complete WebAssign Assignment M6 03 but attempt after completing Section 12.3 material."
 			}]
 		},
 		{
