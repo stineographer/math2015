@@ -76,7 +76,7 @@
 			}],
 		
 			"assignment": [{
-				"lti": "M1 01, M1 02 & M1 03"
+				"lti": "10008 M1 01, M1 02 & M1 03"
 			}]
 		},
 		{
@@ -148,7 +148,7 @@
 			}],
 			
 			"assignment": [{
-				"lti": "M1 04"
+				"lti": "10008 M1 04"
 			}]
 		},
 		{
@@ -195,7 +195,7 @@
 			}],
 			
 			"assignment": [{
-				"lti": "M1 05"
+				"lti": "10008 M1 05"
 			}]
 		},
 		{
@@ -257,7 +257,7 @@
 			}],
 			
 			"assignment": [{
-				"lti": "MA006 M1 03"
+				"lti": "10008 M1 06"
 			}]
 		}]
 	},
@@ -524,7 +524,7 @@
 				"text": "The Rectangular Coordinate System"
 			}],
 			"assignment": [{
-				"lti": "M4 01"
+				"lti": "10008 M4 01"
 			}]
 			
 		},
@@ -537,7 +537,7 @@
 				"text": "Getting Started Video (8:24)"
 			}],
 			"book": [{
-				"text": "<p>Section 4.3:  Linear Functions</p> <ul> <li>Pages 244 to 250</li> <li>Objectives A to D</li></ul><p>Suggested Homework</p><ul><li>Pg 251: Ex: 1 - 14</li><li>Pg 252: Ex: 15 - 29</li><li>Pg 253: Ex: 32 - 40</li><li>Pg 254: Ex: 43 - 48</li></ul> <p>WebAssign</p><ul> <li>M4 02</li></ul>"
+				"text": "<p>Section 4.3:  Linear Functions</p> <ul> <li>Pages 244 to 250</li> <li>Objectives A to D</li></ul><p>Suggested Homework</p><ul><li>Pg 251: Ex: 1 - 14</li><li>Pg 252: Ex: 15 - 29</li><li>Pg 253: Ex: 32 - 40</li><li>Pg 254: Ex: 43 - 48</li></ul> <p>WebAssign</p><ul> <li>M4 03</li></ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=244",
@@ -576,7 +576,7 @@
 				"text": "Graphing Linear Equations of the Form Ax + By = C"
 			}],
 			"assignment": [{
-				"lti": "M4 02"
+				"lti": "10008 M4 03"
 			}]
 		},
 		
@@ -584,7 +584,7 @@
 			"name": "Section 4.4",
 			"longName": "Section 4.4: Slope of a Straight Line",
 			"book": [{
-				"text": "<p>Section 4.4: Slope of a Straight Line</p> <ul> <li>Pages 256 to 261</li> <li>Objectives A and B</li></ul><p>Suggested Homework</p><ul><li>Pg 262: Ex: 1 – 30</li><li>Pg 264: Ex: 31 - 62</li></ul> <p>WebAssign</p><ul> <li>MA018 M2 03</li></ul>"
+				"text": "<p>Section 4.4: Slope of a Straight Line</p> <ul> <li>Pages 256 to 261</li> <li>Objectives A and B</li></ul><p>Suggested Homework</p><ul><li>Pg 262: Ex: 1 – 30</li><li>Pg 264: Ex: 31 - 62</li></ul> <p>WebAssign</p><ul> <li>M4 04</li></ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=256",
@@ -623,7 +623,7 @@
 				"text": "Slope of a Line"
 			}],
 			"assignment": [{
-				"lti": "MA018 M2 03"
+				"lti": "10008 M4 04"
 			}]
 		
 		},
@@ -637,7 +637,7 @@
 				"text": "Getting Started Video (6:33)"
 			}],
 			"book": [{
-				"text": "<p>Section 4.5:  Finding the Equations of Lines</p> <ul> <li>Pages 267 to 270</li> <li>Objectives A to C</li></ul><p>Suggested Homework</p><ul><li>Pg 271: Ex: 4 – 40</li><li>Pg 272: Ex: 43 - 78</li><li>Pg 273: Ex: 79 - 96</li></ul> <p>WebAssign</p><ul> <li>M4 03</li></ul>"
+				"text": "<p>Section 4.5:  Finding the Equations of Lines</p> <ul> <li>Pages 267 to 270</li> <li>Objectives A to C</li></ul><p>Suggested Homework</p><ul><li>Pg 271: Ex: 4 – 40</li><li>Pg 272: Ex: 43 - 78</li><li>Pg 273: Ex: 79 - 96</li></ul> <p>WebAssign</p><ul> <li>M4 05</li></ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=267",
@@ -671,7 +671,7 @@
 				"text": "Writing Equations of Lines Given Two or More Points"
 			}],
 			"assignment": [{
-				"lti": "MA018 M2 04<br />after completing Section 4.6"
+				"lti": "10008 M4 05<br />after completing Section 4.6"
 			}]
 		},
 		{
@@ -683,7 +683,7 @@
 				"text": "Getting Started Video (8:10)"
 			}],
 			"book": [{
-				"text": "<p>Section 4.6:  Parallel and Perpendicular Lines</p> <ul> <li>Pages 276 to 279</li> <li>Objective A</li></ul><p>Suggested Homework</p><ul><li>Pg 280: Ex: 1 – 34</li></ul>"
+				"text": "<p>Section 4.6:  Parallel and Perpendicular Lines</p> <ul> <li>Pages 276 to 279</li> <li>Objective A</li></ul><p>Suggested Homework</p><ul><li>Pg 280: Ex: 1 – 34</li></ul><p>WebAssign</p><ul> <li>M4 06</li>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=276",
@@ -717,7 +717,7 @@
 				"text": "Parallel and Perpendicular Lines"
 			}],
 			"assignment": [{
-				"lti": "MA018 M2 04"
+				"lti": "10008 M4 06"
 			}]
 		}
 		
@@ -781,7 +781,7 @@
 				"text": "Solving a Simple Interest Problem"
 			}],
 			"assignment": [{
-				"lti": "MA018 M3 01"
+				"lti": "10008 M5 01"
 			}]
 		},
 		{
@@ -793,7 +793,7 @@
 				"text": "Getting Started Video (6:32)"
 			}],
 			"book": [{
-				"text": "<p>Section 5.2:  Solving Systems of Linear Equations by the Addition Method</p> <ul> <li>Pages 312 to 319</li> <li>Objective A</li></ul><p>Suggested Homework</p><ul><li>Pg 320: Ex: 1 – 44</li></ul>"
+				"text": "<p>Section 5.2:  Solving Systems of Linear Equations by the Addition Method</p> <ul> <li>Pages 312 to 319</li> <li>Objective A</li></ul><p>Suggested Homework</p><ul><li>Pg 320: Ex: 1 – 44</li></ul><p>WebAssign</p><ul> <li>M5 01</li></ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=312",
@@ -832,7 +832,7 @@
 				"text": "Numbers of Solutions and Applications of Linear Systems with Three Variables"
 			}],
 			"assignment": [{
-				"lti": "MA018 M3 02"
+				"lti": "10008 M5 01"
 			}]
 		},
 		{
@@ -844,7 +844,7 @@
 				"text": "Getting Started Video (3:11)"
 			}],
 			"book": [{
-				"text": "<p>Section 5.3:  Application Problems</p> <ul> <li>Pages 324 to 327</li> <li>Objective A</li></ul><p>Suggested Homework</p><ul><li>Pg 328: Ex: 13 – 29</li></ul>"
+				"text": "<p>Section 5.3:  Application Problems</p> <ul> <li>Pages 324 to 327</li> <li>Objective A</li></ul><p>Suggested Homework</p><ul><li>Pg 328: Ex: 13 – 29</li></ul><p>WebAssign</p><ul> <li>M5 02</li></ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=324",
@@ -874,7 +874,7 @@
 				"text": "Powerpoint Slides"
 			}],
 			"assignment": [{
-				"lti": "MA018 M3 03"
+				"lti": "10008 M5 02"
 			}]
 		}]
 	},
@@ -918,7 +918,7 @@
 			}],
 			
 			"assignment": [{
-				"lti": "M6 01"
+				"lti": "10008 M6 01"
 			}]
 		},
 		
@@ -970,7 +970,7 @@
 				"text": "Exponential Functions"
 			}],
 			"assignment": [{
-				"lti": "M6 02"
+				"lti": "10008 M6 02"
 			}]
 		},
 		{
@@ -1038,7 +1038,7 @@
 				"text": "Getting Started Video (3:12)"
 			}],
 			"book": [{
-				"text": "<p>Section 12.3:  Graphs of Logarithmic Functions</p> <ul> <li>Pages 692 to 693</li> <li>Objective A</li></ul><p>Suggested Homework</p><ul><li>Pg 694: Ex: 5 – 24</li></ul>"
+				"text": "<p>Section 12.3:  Graphs of Logarithmic Functions</p> <ul> <li>Pages 692 to 693</li> <li>Objective A</li></ul><p>Suggested Homework</p><ul><li>Pg 694: Ex: 5 – 24</li></ul><p>WebAssign</p><ul> <li>M6 03</li></ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=692",
@@ -1077,7 +1077,7 @@
 				"text": "Graphs and Properties of Logarithms"
 			}],
 			"assignment": [{
-				"lti": "MA018 M4 03<br />after completing Section 12.4"
+				"lti": "10008 M6 03"
 			}]
 		}]
 	}]
