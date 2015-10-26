@@ -432,8 +432,13 @@
 		{
 			"name": "Section 3.3",
 			"longName": "Section 3.3: Mixture Problems",
+				"introduction": [{
+				"kaltura_entryId": "0_3rbwp33v",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (Under Construction)"
+			}],
 			"book": [{
-				"text": "<p>Section 3.3: Mixture Problems</p> <ul> <li>Pages 116 to 119</li> <li>Objectives A and B</li></ul><p>Suggested Homework</p><ul><li>Pg 122: Ex: 1 – 18</li><li>Pg 123: Ex: 19 - 36</li></ul> <p>WebAssign</p><ul> <li>M3 04</li><li>M3 05<li></ul>"
+				"text": "<p>Section 3.3: Mixture Problems</p> <ul> <li>Pages 116 to 119</li> <li>Objectives A and B</li></ul><p>Suggested Homework</p><ul><li>Pg 122: Ex: 1 – 18</li><li>Pg 123: Ex: 19 - 36</li></ul> <p>WebAssign</p><ul> <li>M3 04</li><li>M3 05</li></ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=116",
@@ -461,11 +466,18 @@
 				"img": "notes.jpg",
 				"text": "Notes: Introduction to Equations"
 			}],
-			"tutorial": [{
+			"tutorial": [
+			{
 				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0021/toc.html",
 				"img": "tut.png",
 				"text": "Mixture Problems in One Variable"
-			}],
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
+				"img": "tut.png",
+				"text": "Problems Involving Rates"
+			}
+			],
 		
 			"assignment": [{
 				"lti": "M3 04, M3 05"
@@ -888,9 +900,9 @@
 			"name": "Section 6.1",
 			"longName": "Section 6.1: Exponent Rules",
 				"introduction": [{
-				"kaltura_entryId": "1_98yv0hui",
+				"kaltura_entryId": "1_ex2bd4ce",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (9:19)"
+				"text": "Getting Started Video (20:59)"
 			}],
 			"book": [{
 				"text": "<p>Section 6.1:  Exponent Rules</p> <ul> <li>Pages 348 to 355</li></ul><p>Suggested Homework</p><ul><li>Pg 355: Ex: 1 – 90</li></ul><p>WebAssign</p><ul> <li>M6 01</li></ul>"
@@ -916,6 +928,19 @@
 			{
 				"faq": "faq.html?t=IIA&c=6&s=1"
 			}],
+			"tutorial": [
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0036/toc.html",
+				"img": "tut.png",
+				"text": "Multiplication and Powers of Monomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0037/toc.html",
+				"img": "tut.png",
+				"text": "Exponents and Scientific Notation"
+			}
+			
+			],
 			
 			"assignment": [{
 				"lti": "10008 M6 01"
