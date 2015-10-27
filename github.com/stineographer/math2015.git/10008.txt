@@ -264,18 +264,254 @@
 	{
 		"name": "Module 2",
 		"longName": "Module 2: Unit Conversions",
-		"chapter": [{
-			"name": "Section 2.1",
-			"longName": "Section 2.1: Significant Digits and Scientific Notation"
+		"chapter": [
+		{
+			"name": "Section 6.1",
+			"longName": "Section 6.1: Significant Digits and Scientific Notation",
+			
+				"introduction": [{
+				"kaltura_entryId": "1_ex2bd4ce",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (20:59)"
+			}],
+			"book": [{
+				"text": "<p>Section 6.1:  Significant Digits and Scientific Notation</p> <ul> <li>Pages 354 to 355</li></ul><p>Suggested Homework</p><ul><li>Pg 355: Ex: 93 – 118</li></ul><p>WebAssign</p><ul> <li>M2 01</li></ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=354",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 354 to 355",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=169",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Chapter 6 Section 1",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch6_6_1",
+				"text": "6.1: Exponential Expressions",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=6&s=1"
+			}],
+			"tutorial": [
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0036/toc.html",
+				"img": "tut.png",
+				"text": "Multiplication and Powers of Monomials"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0037/toc.html",
+				"img": "tut.png",
+				"text": "Exponents and Scientific Notation"
+			}
+			
+			],
+			
+			"assignment": [{
+				"lti": "10008 M2 01"
+			}]
+		
 		},
 		{
-			"name": "Section 2.2",
-			"longName": "Section 2.2: Length and Mass Measures"
+			"name": "Chapter 9",
+			"longName": "Chapter 9: Metric",
+			"introduction": [{
+				"kaltura_entryId": "0_68j80auo",
+				"img": "Book_Video.png",
+				"text": "Metric Unit Conversions Getting Started Video (8:45)" 
+			}],
+			"book": [{
+				"text": "<p>Read - Chapter 9</p> <ul> <li>Sections 9.1 to 9.3 pages 371 to 383</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li> </ul> <p>Watch Textbook Videos</p> <p>Complete WebAssign Assignment</p><ul> <li>M2 02</li></ul>"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch09.swf",
+				"img": "BCM.jpg",
+				"text": "Chapter 9 eBook<br />Pages 371 to 383",
+				"secure": true
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=191",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Chapter 9, Sections 1 to 3",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_bcm_ch9_9_1",
+				"text": "9.1: Length (14:53)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch9_9_2",
+				"text": "9.2: Mass (13:04)",
+				"secure": true
+			},
+			{
+				"cengage_vidName": "auf_bcm_ch9_9_3",
+				"text": "9.3: Capacity (13:07)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=BCM&c=9"
+			}],
+			"presentation": [{
+				"href": "PowerPoint/M5/MetricUnitConversionsPresentation.pdf",
+				"img": "Powerpoint.png",
+				"text": "Powerpoint Slides"
+			},
+			{
+				"href": "PowerPoint/M5/MA006_Unit_Conversion_Tables.pdf",
+				"img": "Conversions.png",
+				"text": "Conversion Table"
+			},
+			{
+				"href": "PowerPoint/M5/ConversionsUsedByWebAssign.pdf",
+				"img": "Webassign_conversions.png",
+				"text": "Conversions Used by WebAssign"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0243/toc.html",
+				"img": "tut.png",
+				"text": "The Metric System of Measurement"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0244/toc.html",
+				"img": "tut.png",
+				"text": "Conversion Between U.S. Customary and Metric Measures"
+			}],
+			"assignment": [{
+				"lti":  "10008 M2 02"
+			}]
 		},
 		{
-			"name": "Section 2.3",
-			"longName": "Section 2.3: Area and Volume Measures"
-		}]
+				"name": "Section 12.3",
+				"longName": "Section 12.3: Area",
+				"introduction": [{
+				"kaltura_entryId": "1_xifis1c8",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video" 
+			}],
+				"book": 
+				[
+					{
+						"text": "<p>Section 12.3: Area</p> <ul> <li>Pages 540 to 547</li> <li>All Objectives</li> <li>Look at all odd numbered questions</li> </ul> <p>Watch Textbook Videos</p> <p>Complete WebAssign Assignment</p><ul> <li>M2 02</li></ul>"
+					},
+					{
+						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch12.swf",
+						"img": "BCM.jpg",
+						"text": "Full eBook<br />Pages 540 to 547"
+					},
+					{
+						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=280",
+						"img": "BCM_sol.jpg",
+						"text": "Solution Manual<br />Chapter 12 Section 3",
+						"target": "sol_book",
+						"secure": true
+					}
+				],
+				"video": 
+				[
+					{
+						"cengage_vidName": "auf_bcm_ch12_12_3",
+						"text": "12.3:  Area (27:55)",
+						"secure": true
+					},
+					{
+						"faq": "faq.html?t=BCM&c=12&s=3"
+					}
+				],
+				"presentation": [
+				
+				{
+					"href": "PowerPoint/M5/SECTION_12_3_PP.pdf",
+					"img": "Powerpoint.png",
+					"text": "Powerpoint Slides (PPT)"
+				}
+				
+				],
+				"tutorial": 
+				[
+					{
+						"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0256/toc.html",
+						"img": "tut.png",
+						"text": "Area"
+					}
+				],
+				
+				"assignment": [{
+					"lti": "MATH 10043 M5 02K"
+				}]
+			},
+			
+			{
+				"name": "Section 12.4",
+				"longName": "Section 12.4: Volume",
+				"introduction": 
+				[
+					
+					{
+						"kaltura_entryId": "1_xifis1c8",
+						"img": "Book_Video.png",
+						"text": "Getting Started Video"
+					}
+				],
+				"book": 
+				[
+					{
+						"text": "<p>Section 12.4: Volume</p> <ul> <li>Pages 548 to 557</li> <li>All Objectives</li> <li>Look at the all odd numbered questions</li>  <li>Complete WebAssign Assignment MATH 10043 M5 03K</li> </ul>"
+					},
+					{
+						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch12.swf",
+						"img": "BCM.jpg",
+						"text": "Full eBook<br />Pages 548 to 557"
+					},
+					{
+						"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=283",
+						"img": "BCM_sol.jpg",
+						"text": "Solution Manual<br />Chapter 12 Section 4",
+						"target": "sol_book",
+						"secure": true
+					}
+				],
+				"video": 
+				[
+					{
+						"cengage_vidName": "auf_bcm_ch12_12_4",
+						"text": "12.4:  Volume (19:07)",
+						"secure": true
+					},
+					{
+						"faq": "faq.html?t=BCM&c=12&s=4"
+					}
+				],
+				"presentation": [
+				
+				{
+					"href": "PowerPoint/M5/SECTION_12_4_PP.pdf",
+					"img": "Powerpoint.png",
+					"text": "Powerpoint Slides (PPT)"
+				}
+				
+				],
+				"tutorial": 
+				[
+					{
+						"href": "http://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0257/toc.html",
+						"img": "tut.png",
+						"text": "Volume"
+					}
+				],
+				
+				"assignment": [{
+					"lti": "MATH 10043 M5 03K"
+				}]
+			}
+		]
 	},
 	{
 		"name": "Module 3",
