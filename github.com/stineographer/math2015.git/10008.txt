@@ -270,9 +270,9 @@
 			"longName": "Section 6.1: Significant Digits and Scientific Notation",
 			
 				"introduction": [{
-				"kaltura_entryId": "1_ex2bd4ce",
+				"kaltura_entryId": "1_xlhhkgog",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (20:59)"
+				"text": "Getting Started Video (4:33)"
 			}],
 			"book": [{
 				"text": "<p>Section 6.1:  Significant Digits and Scientific Notation</p> <ul> <li>Pages 354 to 355</li></ul><p>Suggested Homework</p><ul><li>Pg 355: Ex: 93 – 118</li></ul><p>WebAssign</p><ul> <li>M2 01</li></ul>"
@@ -516,7 +516,8 @@
 	{
 		"name": "Module 3",
 		"longName": "Module 3: Linear Equations",
-		"chapter": [{
+		"chapter": [
+		{
 			"name": "Section 3.1",
 			"longName": "Section 3.1: Introduction to Equations",
 			"introduction": [{
@@ -525,31 +526,18 @@
 				"text": "Getting Started Video (8:51)"
 			}],
 			"book": [{
-				"text": "<p>Section 3.1:  Introduction to Equations</p> <ul> <li>Pages 76 to 86</li> <li>Objectives A to D, Objective E not covered</li><li>Basic College Texbook Pages 238 to 243</li> <li>Percent increase and decrease problems</li></ul><p>Suggested Homework</p><ul><li>Pg 87: Ex: 3 - 20</li><li>Pg 87: Ex: 23 - 64</li><li>Pg 88: Ex: 67 – 110</li><li>Pg 90: Ex: 113 - 162</li><li>Pg 244: 1 - 41 (Basic College textbook)</li></ul> <p>WebAssign</p><ul> <li>M3 01</li><li>M3 02</li> </ul>"
+				"text": "<p>Algebra Introductory and Intermediate Section 2.1:  Introduction to Equations</p> <ul> <li>Pages 76 to 79</li> <li>Objectives A to C</li></ul><p>Suggested Homework</p><ul><li>Pg 87: Ex: 3 - 20</li><li>Pg 87: Ex: 23 - 64</li><li>Pg 88: Ex: 67 – 110</li></ul> <p>WebAssign</p><ul> <li>M3 01</li> </ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=75",
 				"img": "IIA.jpg",
-				"text": "Full eBook<br />Pages 76 to 86",
+				"text": "Full eBook<br />Pages 76 to 79",
 				"prependLti": "true"
 			},
 			{
 				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=22",
 				"img": "IIA_sol.jpg",
 				"text": "Solution Manual<br />Pages 22 to 26",
-				"target": "sol_book",
-				"secure": true
-			},
-			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch06.swf?INITIAL_PAGE=8",
-				"img": "BCM.jpg",
-				"text": "Chapter 6<br />Pages 238 to 243",
-				"secure": true
-			},
-			{
-				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=120",
-				"img": "BCM_sol.jpg",
-				"text": "Solution Manual<br />Pages 120 to 124",
 				"target": "sol_book",
 				"secure": true
 			}],
@@ -565,21 +553,6 @@
 				"href": "Notes/31_Intro_to_Equations_10008_W15.pdf",
 				"img": "notes.jpg",
 				"text": "Notes: Introduction to Equations"
-			},
-			{
-				"href": "Notes/32_Simple_Percent_10008_F14.pdf",
-				"img": "notes.jpg",
-				"text": "Notes: Simple Percent"
-			},
-			{
-				"href": "Notes/Homework Simple Percent Problems F11.pdf",
-				"img": "practice.png",
-				"text": "Practice: Simple Percent Problems"
-			},
-			{
-				"href": "Notes/Homework Percent  Change Problems F11.pdf",
-				"img": "practice.png",
-				"text": "Practice: Percent Change Problems"
 			}],
 			"tutorial": [{
 				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0251/toc.html",
@@ -590,32 +563,144 @@
 				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0555/toc.html",
 				"img": "tut.png",
 				"text": "Solving Equations Using Properties of Equality"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
-				"img": "tut.png",
-				"text": "Percent Equations"
-			},
-			{
-				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
-				"img": "tut.png",
-				"text": "Problems Involving Rates"
 			}],
 		
 			"assignment": [{
-				"lti": "M3 01, M3 02"
+				"lti": "M3 01"
 			}]
 		},
 		{
 			"name": "Section 3.2",
-			"longName": "Section 3.2: General Equations",
+			"longName": "Section 3.2: Basic Percent",
+			"introduction": [{
+				"kaltura_entryId": "0_3rbwp33v",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (Under Construction)"
+			}],
+			"book": [{
+				"text": "<p>Algebra Introductory and Intermediate Section 2.1:  Introduction to Equations</p> <ul> <li>Pages 80 to 83</li> <li>Objective D</li></ul><p>Suggested Homework</p> <ul><li>Pg 90: Ex: 113 - 162</li></ul><p>WebAssign</p><ul> <li>M3 02</li> </ul>"
+			},
+			{
+				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=80",
+				"img": "IIA.jpg",
+				"text": "Full eBook<br />Pages 80 to 83",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/IIA/IIA_Solution.swf?INITIAL_PAGE=25",
+				"img": "IIA_sol.jpg",
+				"text": "Solution Manual<br />Pages 25 to 28",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [{
+				"cengage_vidName": "auf_algii_ch2_2_1",
+				"text": "2.1: Introduction to Equations (45:19)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=IIA&c=2&s=1"
+			}],
+			"presentation": [
+			{
+				"href": "Notes/32_Simple_Percent_10008_F14.pdf",
+				"img": "notes.jpg",
+				"text": "Notes: Simple Percent"
+			},
+			{
+				"href": "Notes/Homework Simple Percent Problems F11.pdf",
+				"img": "practice.png",
+				"text": "Practice: Simple Percent Problems"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0224/toc.html",
+				"img": "tut.png",
+				"text": "Percent Equations"
+			}],
+		
+			"assignment": [{
+				"lti": "M3 02"
+			}]
+		},
+		
+		{
+			"name": "Section 3.3",
+			"longName": "Section 3.3: Percent Change",
+			"introduction": [{
+				"kaltura_entryId": "1_9egkpazx",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (6:29)"
+			}],
+			"book": [{
+				"text": "<p>Basic College Math 6.2: Percent Increase and Percent Decrease</p> <ul> <li>Pages 238 to 243</li> <li>Objectives A to D</li></ul><p>Suggested Homework</p><ul><li>Pg 244: Ex: 1 - 41</li></ul> <p>WebAssign</p><ul> <li>M3 02</li> </ul>"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Ch06.swf",
+				"img": "BCM.jpg",
+				"text": "BCM eBook, Chapter 6 <br />Pages 238 to 243",
+				"prependLti": "true"
+			},
+			{
+				"href": "https://elearn.mohawkcollege.ca/content/math/shared/textbooks/BCM/BCM_Solution.swf?INITIAL_PAGE=120",
+				"img": "BCM_sol.jpg",
+				"text": "Solution Manual<br />Chapter 6 Section 2",
+				"target": "sol_book",
+				"secure": true
+			}],
+			"video": [
+			{
+				"kaltura_entryId": "1_nhgelqu7",
+				"text": "The Difference Between Basic Percent and Percent Change (9:14)",
+				"img": "Basic_Percent_and_Percent_Change.png"
+			},
+			{
+				"text": "The Mechanics of Percent Change (9:24)",
+				"kaltura_entryId": "1_dso0itux",
+				"img": "Mechanics_of_Percent_Change.png"
+			},
+			{
+                                "cengage_vidName": "auf_bcm_ch6_6_2",
+				"text": "6.2:  Percent Increase and Percent Decrease (30:46)",
+				"secure": true
+			},
+			{
+				"faq": "faq.html?t=BCM&c=6&s=2"
+			}],
+			"presentation": [
+			{
+				"href": "Notes/Homework Percent  Change Problems F11.pdf",
+				"img": "practice.png",
+				"text": "Practice: Percent Change Problems"
+			}],
+			"tutorial": [{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0022/toc.html",
+				"img": "tut.png",
+				"text": "Problems Involving Rates"
+			},
+			{
+				"href": "https://college.cengage.com/mathematics/blackboard/shared/content/interactive_lessons/0227/toc.html",
+				"img": "tut.png",
+				"text": "Percent Increase and Percent Decrease"
+			}
+			
+			],
+		
+			"assignment": [{
+				"lti": "M3 02"
+			}]
+		},
+		
+		
+		{
+			"name": "Section 3.4",
+			"longName": "Section 3.4: General Equations",
 			"introduction": [{
 				"kaltura_entryId": "1_12r72omn",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (5:40)"
 			}],
 			"book": [{
-				"text": "<p>Section 3.2:  General Equations</p> <ul> <li>Pages 95 to 102</li> <li>Objectives A to D</li></ul><p>Suggested Homework</p><ul><li>Pg 103: Ex: 1 - 84</li><li>Pg 105: Ex: 85 - 117</li><li>Pg 106: Ex: 118 - 142</li><li>Pg 107: Ex: 143 - 155</li></ul> <p>WebAssign</p><ul> <li>M3 03</li></ul>"
+				"text": "<p>Section 3.4:  General Equations</p> <ul> <li>Pages 95 to 102</li> <li>Objectives A to D</li></ul><p>Suggested Homework</p><ul><li>Pg 103: Ex: 1 - 84</li><li>Pg 105: Ex: 85 - 117</li><li>Pg 106: Ex: 118 - 142</li><li>Pg 107: Ex: 143 - 155</li></ul> <p>WebAssign</p><ul> <li>M3 03</li></ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=95",
@@ -632,13 +717,13 @@
 			}],
 			"video": [{
 				"cengage_vidName": "auf_bcm_ch11_11_3",
-				"text": "2.2: General Equations - Part I (14:28)",
+				"text": "3.4: General Equations - Part I (14:28)",
 				"secure": true,
 				"vl": "auf_bcm_ch11_11_3_algii"
 			},
 			{
 				"cengage_vidName": "auf_bcm_ch11_11_4",
-				"text": "2.2: General Equations - Part II (11:57)",
+				"text": "3.4: General Equations - Part II (11:57)",
 				"secure": true,
 				"vl": "auf_bcm_ch11_11_4_algii"
 			},
@@ -662,19 +747,19 @@
 			}],
 			
 			"assignment": [{
-				"lti": "M3 03"
+				"lti": "10008 M3 03"
 			}]
 		},
 		{
-			"name": "Section 3.3",
-			"longName": "Section 3.3: Mixture Problems",
+			"name": "Section 3.5",
+			"longName": "Section 3.5: Mixture Problems",
 				"introduction": [{
 				"kaltura_entryId": "0_3rbwp33v",
 				"img": "Book_Video.png",
 				"text": "Getting Started Video (Under Construction)"
 			}],
 			"book": [{
-				"text": "<p>Section 3.3: Mixture Problems</p> <ul> <li>Pages 116 to 119</li> <li>Objectives A and B</li></ul><p>Suggested Homework</p><ul><li>Pg 122: Ex: 1 – 18</li><li>Pg 123: Ex: 19 - 36</li></ul> <p>WebAssign</p><ul> <li>M3 04</li><li>M3 05</li></ul>"
+				"text": "<p>Section 3.5: Mixture Problems</p> <ul> <li>Pages 116 to 119</li> <li>Objectives A and B</li></ul><p>Suggested Homework</p><ul><li>Pg 122: Ex: 1 – 18</li><li>Pg 123: Ex: 19 - 36</li></ul> <p>WebAssign</p><ul> <li>M3 04</li><li>M3 05</li></ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=116",
@@ -691,7 +776,7 @@
 			}],
 			"video": [{
 				"cengage_vidName": "auf_algii_ch2_2_4",
-				"text": "2.4: Mixture Problems",
+				"text": "3.5: Mixture Problems",
 				"secure": true
 			},
 			{
@@ -716,7 +801,7 @@
 			],
 		
 			"assignment": [{
-				"lti": "M3 04, M3 05"
+				"lti": "10008 M3 04, M3 05"
 			}]
 		}]
 	},
