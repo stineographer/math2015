@@ -573,9 +573,9 @@
 			"name": "Section 3.2",
 			"longName": "Section 3.2: Basic Percent",
 			"introduction": [{
-				"kaltura_entryId": "0_3rbwp33v",
+				"kaltura_entryId": "1_f11rgu5t",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (Under Construction)"
+				"text": "Getting Started Video"
 			}],
 			"book": [{
 				"text": "<p>Algebra Introductory and Intermediate Section 2.1:  Introduction to Equations</p> <ul> <li>Pages 80 to 83</li> <li>Objective D</li></ul><p>Suggested Homework</p> <ul><li>Pg 90: Ex: 113 - 162</li></ul><p>WebAssign</p><ul> <li>M3 02</li> </ul>"
