@@ -291,7 +291,7 @@
 				"secure": true
 			}],
 			"video": [{
-				"cengage_vidName": "auf_algii_ch6_6_1",
+				"cengage_vidName": "auf_algii_ch6_6_1&start=1239&end=1903",
 				"text": "6.1: Exponential Expressions",
 				"secure": true
 			},
