@@ -518,8 +518,8 @@
 		"longName": "Module 3: Linear Equations",
 		"chapter": [
 		{
-			"name": "Section 3.1",
-			"longName": "Section 3.1: Introduction to Equations",
+			"name": "Section 2.1",
+			"longName": "Section 2.1: Introduction to Equations",
 			"introduction": [{
 				"kaltura_entryId": "1_62g0jj62",
 				"img": "Book_Video.png",
@@ -543,8 +543,9 @@
 			}],
 			"video": [{
 				"cengage_vidName": "auf_algii_ch2_2_1",
-				"text": "2.1: Introduction to Equations (45:19)",
-				"secure": true
+				"text": "2.1: Introduction to Equations",
+				"secure": true,
+				"end": "871"
 			},
 			{
 				"faq": "faq.html?t=IIA&c=2&s=1"
@@ -570,8 +571,8 @@
 			}]
 		},
 		{
-			"name": "Section 3.2",
-			"longName": "Section 3.2: Basic Percent",
+			"name": "Basic Percent",
+			"longName": "Basic Percent",
 			"introduction": [{
 				"kaltura_entryId": "1_f11rgu5t",
 				"img": "Book_Video.png",
