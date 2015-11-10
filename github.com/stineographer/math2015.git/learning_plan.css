@@ -67,6 +67,7 @@ only top nav bar
 .ui-tabs-vertical-right {
 	position: relative;
 	padding-right: 8.5em;
+	font-size: 10px;
 }
 div[id^="ChNav"] {
 	border: none;

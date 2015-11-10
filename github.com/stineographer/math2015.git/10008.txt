@@ -596,8 +596,9 @@
 			}],
 			"video": [{
 				"cengage_vidName": "auf_algii_ch2_2_1",
-				"text": "2.1: Introduction to Equations (45:19)",
-				"secure": true
+				"text": "2.1: Introduction to Equations",
+				"secure": true,
+				"start": "871"
 			},
 			{
 				"faq": "faq.html?t=IIA&c=2&s=1"
@@ -625,8 +626,8 @@
 		},
 		
 		{
-			"name": "Section 3.3",
-			"longName": "Section 3.3: Percent Change",
+			"name": "Percent Change",
+			"longName": "Percent Change (Section 6.2 of BCM)",
 			"introduction": [{
 				"kaltura_entryId": "1_9egkpazx",
 				"img": "Book_Video.png",
@@ -660,7 +661,7 @@
 				"img": "Mechanics_of_Percent_Change.png"
 			},
 			{
-                                "cengage_vidName": "auf_bcm_ch6_6_2",
+                "cengage_vidName": "auf_bcm_ch6_6_2",
 				"text": "6.2:  Percent Increase and Percent Decrease (30:46)",
 				"secure": true
 			},
@@ -693,8 +694,8 @@
 		
 		
 		{
-			"name": "Section 3.4",
-			"longName": "Section 3.4: General Equations",
+			"name": "Section 2.2",
+			"longName": "Section 2.2: General Equations",
 			"introduction": [{
 				"kaltura_entryId": "1_12r72omn",
 				"img": "Book_Video.png",
@@ -752,15 +753,15 @@
 			}]
 		},
 		{
-			"name": "Section 3.5",
-			"longName": "Section 3.5: Mixture Problems",
+			"name": "Section 2.4",
+			"longName": "Section 2.4: Mixture Problems",
 				"introduction": [{
-				"kaltura_entryId": "0_3rbwp33v",
+				"kaltura_entryId": "1_s467u3fm",
 				"img": "Book_Video.png",
-				"text": "Getting Started Video (Under Construction)"
+				"text": "Getting Started Video"
 			}],
 			"book": [{
-				"text": "<p>Section 3.5: Mixture Problems</p> <ul> <li>Pages 116 to 119</li> <li>Objectives A and B</li></ul><p>Suggested Homework</p><ul><li>Pg 122: Ex: 1 – 18</li><li>Pg 123: Ex: 19 - 36</li></ul> <p>WebAssign</p><ul> <li>M3 04</li><li>M3 05</li></ul>"
+				"text": "<p>Section 2.4: Mixture Problems</p> <ul> <li>Pages 116 to 119</li> <li>Objectives A and B</li></ul><p>Suggested Homework</p><ul><li>Pg 122: Ex: 1 – 18</li><li>Pg 123: Ex: 19 - 36</li></ul> <p>WebAssign</p><ul> <li>M3 04</li><li>M3 05</li></ul>"
 			},
 			{
 				"href": "https://www.webassign.net/v4cgi/extra/ebookwrapper/index.tpl?ebook_url=/ebooks/aufiialg5/toc.html&type=vpage&id=104&page=116",
@@ -777,7 +778,7 @@
 			}],
 			"video": [{
 				"cengage_vidName": "auf_algii_ch2_2_4",
-				"text": "3.5: Mixture Problems",
+				"text": "2.4: Mixture Problems",
 				"secure": true
 			},
 			{
