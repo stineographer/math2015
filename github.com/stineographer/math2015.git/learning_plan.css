@@ -64,9 +64,10 @@ only top nav bar
 .ui-tabs .ui-tabs-panel {
  padding: 0;
 }
-.ui-tabs-vertical-right {
+.ui-tabs-vertical-right 
+{
 	position: relative;
-	padding-right: 8.5em;
+	padding-right: 9em;
 	font-size: 10px;
 }
 div[id^="ChNav"] {
@@ -75,14 +76,15 @@ div[id^="ChNav"] {
 div[id^="ChNav"] div {
 	padding: none;
 }
-.ui-tabs-vertical-right .ui-tabs-nav {
+.ui-tabs-vertical-right .ui-tabs-nav 
+{
 	position: absolute;
 	right: 0.25em;
 	top: 0.25em;
 	bottom: 0.25em;
 	padding: .2em .2em .2em .1em;
 	float: left;
-	width: 8em;
+	width: 10em;
 	border-left: none;
 	background-size: cover;
 }
