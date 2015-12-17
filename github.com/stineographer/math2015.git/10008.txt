@@ -291,9 +291,11 @@
 				"secure": true
 			}],
 			"video": [{
-				"cengage_vidName": "auf_algii_ch6_6_1&start=1239&end=1903",
+				"cengage_vidName": "auf_algii_ch6_6_1",
 				"text": "6.1: Exponential Expressions",
-				"secure": true
+				"secure": true,
+				"start": "1239",
+				"end": "1903"
 			},
 			{
 				"faq": "faq.html?t=IIA&c=6&s=1"
@@ -779,7 +781,8 @@
 			"video": [{
 				"cengage_vidName": "auf_algii_ch2_2_4",
 				"text": "2.4: Mixture Problems",
-				"secure": true
+				"secure": true,
+				"end": "1607"
 			},
 			{
 				"faq": "faq.html?t=IIA&c=2&s=4"
@@ -918,6 +921,11 @@
 		{
 			"name": "Section 4.4",
 			"longName": "Section 4.4: Slope of a Straight Line",
+				"introduction": [{
+				"kaltura_entryId": "0_3rbwp33v",
+				"img": "Book_Video.png",
+				"text": "Getting Started Video (Under Construction)"
+			}],
 			"book": [{
 				"text": "<p>Section 4.4: Slope of a Straight Line</p> <ul> <li>Pages 256 to 261</li> <li>Objectives A and B</li></ul><p>Suggested Homework</p><ul><li>Pg 262: Ex: 1 – 30</li><li>Pg 264: Ex: 31 - 62</li></ul> <p>WebAssign</p><ul> <li>M4 04</li></ul>"
 			},
